@@ -1,34 +1,31 @@
 # PROJECT STATE
 
 ## Current Phase
-Phase 3J — Content Safety Patch Complete
+Phase 3K — Codex Independent Final Audit Complete
 
 ## Report Status
-READY FOR INDEPENDENT FINAL AUDIT
+REPORT CONTENT LOCKED
+READY FOR HUMAN IDENTITY INPUT
 
-The report manuscript and deliverables have incorporated all content safety adjustments. The unverified faculty line on the cover has been removed, the 5,429-order distinction has been explicitly stated, the product quality phrasing has been refined, the image-consent rule reflects statutory conditions and exceptions, and the synthesis table and conclusion accurately reflect the body analysis.
+The final independent audit found two P1 evidentiary-boundary issues and repaired only those passages. The canonical report, HTML, DOCX and Word-derived PDF were regenerated and rechecked. No P0 or P1 remains.
 
 ## Canonical Deliverables
 
-- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.pdf` — authoritative 19-page release PDF (clean layout, synchronized Word COM export)
-- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.docx` — master submission layout with native Word TOC
-- `report/REPORT_FINAL.md` — canonical content source of truth (5,300 words, student voice)
-- `report/REPORT_FINAL.html` — print-ready web preview
+- `report/REPORT_FINAL.md` — locked content source of truth
+- `report/REPORT_FINAL.html` — web preview
+- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.docx` — master submission layout with native TOC
+- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.pdf` — authoritative 19-page release PDF
 
-## Quality & Metrics Summary (Phase 3J)
+## Audit Result
 
-- **Total Word Count:** 5,300 words
-- **Total PDF Pages:** 19 pages
-- **Cover Page:** Clean UIT heading without unverified faculty line
-- **Order Distinction:** 5,429 orders specified as successful orders, distinct from unique buyers
-- **Image-Consent Formulation:** Bounded to statutory conditions and exceptions
-- **Product Safety Phrasing:** Bounded to exaggerated marketing without unverified origin claims
-- **Synthesis Table & Conclusion:** Synchronized with analytical nuances in body sections
-- **Reference Numbering:** Sequential 1 to 6, matching references A, B, C exactly
-- **Native Word TOC & Page Synchronization:** Pages 5 to 19 match physical pages
-- **Active Open Issues:** 0
+- Independent report score: 45/50.
+- P0 remaining: 0.
+- P1 remaining: 0.
+- P2 remaining: 1 non-canonical legacy research-matrix citation-history note.
+- P3 remaining: 0.
 
-## Remaining Human Actions
+## Remaining Human Inputs
 
-- Fill instructor name, class code, student member names and student IDs (MSSV) in the placeholder fields.
-- Independent Codex final audit and team read-through before formal submission.
+- Fill instructor name, class, group, student names and MSSV.
+- Perform the final team read-through.
+- Complete the separate slide deck and presentation preparation; the assignment as a whole is not complete without them.
