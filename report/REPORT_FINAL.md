@@ -310,14 +310,14 @@ Mặt chủ quan phản ánh trạng thái tâm lý nội tâm của chủ thể
   - *Về lý trí:* Nhận thức rõ mức giá mua 23.000 đồng và việc sử dụng nội dung cắt ghép, sai lệch là không trung thực; thấy trước khách hàng sẽ tin vào quảng cáo để mua hàng.
   - *Về ý chí:* Chủ động thúc đẩy nội dung tiếp thị nhằm mục đích bán được nhiều đơn hàng với mức giá 199.000 đồng/sản phẩm.
 - **Về Động cơ và Mục đích:**
-  - *Động cơ:* Động cơ vụ lợi kinh tế, tìm kiếm lợi nhuận từ việc bán hàng chênh lệch giá.
-  - *Mục đích:* Tạo niềm tin để người tiếp cận đặt mua sản phẩm và thu tiền từ các đơn hàng giao dịch thành công [6].
+  - *Động cơ:* Các dữ kiện về chênh lệch giá, tổ chức quảng cáo và hoạt động bán hàng tạo cơ sở để phân tích theo hướng có động cơ vụ lợi kinh tế.
+  - *Mục đích:* Tạo niềm tin để người tiếp cận đặt mua sản phẩm và phát sinh giao dịch từ các đơn hàng [6].
 
 #### B. Những gì có thể suy luận về mục đích kinh tế
-Chênh lệch giá mua 23.000 đồng và giá bán 199.000 đồng cùng việc đầu tư chi phí quảng cáo cho thấy hoạt động được định hướng nhằm tối ưu hóa doanh thu từ sự thiếu thông tin của khách hàng. Báo cáo không tự ý tính toán con số thu lợi bất chính khi cơ quan điều tra chưa công bố kết luận tài chính.
+Chênh lệch giữa giá mua 23.000 đồng và giá bán 199.000 đồng cùng chi phí tiếp thị qua mạng xã hội phản ánh định hướng thúc đẩy giao dịch bán hàng trên thực tế. Dưới góc độ nghiên cứu học thuật, báo cáo không tự ý tính toán con số lợi nhuận thuần túy hay khoản thu lợi bất chính khi cơ quan tiến hành tố tụng chưa công bố kết luận tài chính chính thức.
 
 #### C. Giới hạn dữ liệu đối với nhân sự hỗ trợ
-Đối với các nhân viên ở khâu marketing, bán hàng, vận đơn và đóng gói, tài liệu ban đầu chưa thể hiện chi tiết ý thức chủ quan của từng người. Cơ quan tiến hành tố tụng sẽ làm rõ nhận thức của từng cá nhân để cá thể hóa trách nhiệm và xác định vai trò đồng phạm tương ứng.
+Đối với các nhân viên ở khâu marketing, bán hàng, vận đơn và đóng gói, tài liệu ban đầu chưa thể hiện chi tiết ý thức chủ quan của từng người. Cơ quan tiến hành tố tụng sẽ làm rõ nhận thức của từng cá nhân để cá thể hóa trách nhiệm, xác định vai trò, mức độ tham gia và trách nhiệm pháp lý của từng cá nhân.
 
 **Bảng 6. Đối chiếu lập luận khoa học về mặt chủ quan**
 
@@ -339,7 +339,7 @@ Dưới góc độ lý luận, các dữ kiện công khai tạo cơ sở phân 
 
 | Yếu tố cấu thành | Dữ kiện thực tế chính [6] | Phân tích lý luận pháp lý | Kết luận đánh giá |
 | :--- | :--- | :--- | :--- |
-| **1. Khách thể** | Sản phẩm giá mua 23k bán 199k; video người nổi tiếng bị cắt ghép; 5.429 đơn hàng thành công. | Xâm hại trật tự quản lý nhà nước về quảng cáo, thương mại; quyền được thông tin trung thực của NTD; quyền nhân thân về hình ảnh. | **Khách thể chịu tác động đa chiều**, ảnh hưởng trật tự thị trường và quyền lợi người tiêu dùng. |
+| **1. Khách thể** | Sản phẩm giá mua 23k bán 199k; video người nổi tiếng bị cắt ghép; 5.429 đơn hàng thành công. | Các quan hệ xã hội được xem xét gồm trật tự quản lý nhà nước về quảng cáo, thương mại; quyền được thông tin trung thực của NTD; quyền nhân thân về hình ảnh. | **Khách thể chịu tác động đa chiều**, ảnh hưởng trật tự thị trường và quyền lợi người tiêu dùng. |
 | **2. Mặt khách quan** | Hành vi quảng cáo sai sự thật, sử dụng video cắt ghép; phát sinh 5.429 đơn hàng với tổng giá trị tiền hàng hơn 2,67 tỷ đồng theo nguồn công khai. | Chuỗi hành vi hành động trái pháp luật; thông tin sai lệch có khả năng tác động đến nhận thức người mua trong chuỗi giao dịch. | **Hành vi trái pháp luật qua nhiều khâu**, quy mô giao dịch lớn trên môi trường mạng xã hội. |
 | **3. Chủ thể** | Khởi tố Nguyễn Tiến Đạt cùng 20 bị can; Đạt sinh 1997; có các nhóm nhân sự marketing, bán hàng, vận đơn. | Đạt đã thành niên; các chủ thể khác chưa đủ dữ liệu công khai để đánh giá chi tiết; có sự phân công công việc rõ rệt. | **Xác định được độ tuổi của người tổ chức**, có sự phân hóa vai trò tổ chức và hỗ trợ. |
 | **4. Mặt chủ quan** | Dữ kiện chỉ đạo nội dung phóng đại, cắt ghép tư liệu người có uy tín để tạo niềm tin và bán hàng giá 199k. | Có cơ sở phân tích hướng lỗi cố ý trực tiếp và động cơ vụ lợi ở Đạt; nhân sự hỗ trợ cần thêm chứng cứ cụ thể. | **Cơ sở phân tích hướng lỗi cố ý trực tiếp ở người tổ chức**, động cơ vụ lợi gắn với hoạt động tiếp thị. |
@@ -350,16 +350,16 @@ Dưới góc độ lý luận, các dữ kiện công khai tạo cơ sở phân 
 
 ## 4.1. Ý nghĩa phòng ngừa từ vụ việc
 Vụ việc đường dây quảng cáo gian dối sản phẩm Đông y bị triệt phá tại Phú Thọ mang lại nhiều giá trị thực tiễn trong công tác phòng ngừa vi phạm pháp luật trên không gian mạng:
-- **Nhận diện rủi ro của tiếp thị số:** Cảnh báo về các phương thức gian dối tinh vi như cắt ghép hình ảnh người có uy tín và ứng dụng thuật toán mạng xã hội để phát tán thông tin sai lệch.
+- **Nhận diện rủi ro của tiếp thị số:** Cảnh báo về các phương thức gian dối tinh vi như cắt ghép hình ảnh người có uy tín và tận dụng khả năng lan truyền nhanh của mạng xã hội để phát tán thông tin sai lệch.
 - **Yêu cầu phân hóa trách nhiệm cá nhân:** Nhấn mạnh tầm quan trọng của việc cá thể hóa hành vi, nhận thức và mức độ tham gia của từng nhân sự trong các mô hình kinh doanh trực tuyến.
 
 ## 4.2. Bài học đối với hoạt động kinh doanh trực tuyến và người tiêu dùng
 - **Đối với cá nhân, tổ chức kinh doanh trực tuyến:**
   - Hoạt động quảng cáo phải tuân thủ nghiêm ngặt Luật Quảng cáo và các quy định chuyên ngành; tuyệt đối không đưa thông tin phóng đại, sai sự thật về công dụng, chất lượng hàng hóa.
-  - Việc sử dụng hình ảnh của bất kỳ cá nhân nào trong nội dung tiếp thị bắt buộc phải có sự đồng ý hợp pháp theo quy định của Bộ luật Dân sự.
+  - Việc sử dụng hình ảnh cá nhân trong hoạt động quảng cáo phải tuân thủ các điều kiện về sự đồng ý và các trường hợp ngoại lệ theo quy định pháp luật.
 - **Đối với người tiêu dùng:**
   - Cần nâng cao kỹ năng kiểm chứng thông tin, cảnh giác trước các nội dung tiếp thị có cam kết tuyệt đối trên mạng xã hội.
-  - Chủ động tìm kiếm tư vấn y khoa chính quy từ các cơ sở y tế có thẩm quyền khi gặp vấn đề về sức khỏe, không tự ý dùng thuốc dựa trên thông tin quảng cáo chưa được kiểm chứng.
+  - Chủ động tìm kiếm tư vấn y khoa chính quy từ các cơ sở y tế có thẩm quyền khi gặp vấn đề về sức khỏe, không tự ý sử dụng sản phẩm chỉ dựa trên thông tin quảng cáo chưa được kiểm chứng.
 
 ## 4.3. Bài học về nhận thức pháp luật và đạo đức số cho sinh viên CNTT
 Vụ việc mang lại bài học sâu sắc cho sinh viên Trường Đại học Công nghệ Thông tin (UIT):
