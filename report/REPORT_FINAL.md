@@ -37,12 +37,11 @@ date: "Tháng 8/2026"
 # MỞ ĐẦU
 
 ## 1. Lý do chọn đề tài
-Mạng xã hội hiện là kênh tiếp thị và bán hàng phổ biến nhưng cũng phát sinh nhiều hành vi quảng cáo sai sự thật. Tình trạng cắt ghép hình ảnh người có uy tín để thổi phồng công dụng sản phẩm Đông y gây nhầm lẫn cho người mua và ảnh hưởng quyền lợi người tiêu dùng. Vụ việc Công an tỉnh Phú Thọ khởi tố 21 bị can liên quan đến việc quảng cáo sản phẩm Đông y “Xương khớp bà Sáu” trên mạng xã hội (tháng 8/2026) là tình huống thực tế điển hình để vận dụng mô hình bốn yếu tố cấu thành vi phạm pháp luật trong môn Pháp luật đại cương, đồng thời nâng cao ý thức tuân thủ pháp luật và đạo đức nghề nghiệp trong môi trường số cho sinh viên UIT.
+Mạng xã hội hiện là kênh tiếp thị và bán hàng phổ biến nhưng cũng phát sinh nhiều hành vi quảng cáo sai sự thật. Tình trạng cắt ghép hình ảnh người có uy tín để thổi phồng công dụng sản phẩm Đông y gây nhầm lẫn cho người mua và ảnh hưởng xấu đến quyền lợi người tiêu dùng. Vụ việc Công an tỉnh Phú Thọ khởi tố 21 bị can liên quan đến hoạt động quảng cáo sản phẩm Đông y “Xương khớp bà Sáu” trên mạng xã hội (tháng 8/2026) là một tình huống thực tế điển hình để nhóm vận dụng lý luận về bốn yếu tố cấu thành vi phạm pháp luật đã được học trong môn Pháp luật đại cương.
 
-## 2. Mục tiêu nghiên cứu
-- Hệ thống hóa lý thuyết cấu thành vi phạm pháp luật theo học phần Pháp luật đại cương tại UIT.
-- Phân tích bản chất pháp lý của vụ việc qua bốn yếu tố cấu thành từ nguồn tin chính thức của Báo Điện tử Chính phủ [6].
-- Rút ra bài học thực tiễn về pháp luật và đạo đức nghề nghiệp cho người kinh doanh trực tuyến, người tiêu dùng và sinh viên công nghệ thông tin.
+## 2. Mục tiêu của báo cáo
+- Hệ thống hóa các nội dung lý thuyết cơ bản về bốn yếu tố cấu thành vi phạm pháp luật theo học phần Pháp luật đại cương tại UIT.
+- Vận dụng mô hình bốn yếu tố để phân tích bản chất pháp lý của vụ việc quảng cáo sản phẩm Đông y tại Phú Thọ từ nguồn tin chính thức do Báo Điện tử Chính phủ công bố [6].
 
 ## 3. Đối tượng và phạm vi nghiên cứu
 - **Đối tượng nghiên cứu:** Các yếu tố cấu thành vi phạm pháp luật trong vụ việc quảng cáo sản phẩm Đông y "Xương khớp bà Sáu" trên mạng xã hội [6].
@@ -181,15 +180,8 @@ Khách thể của vi phạm pháp luật là quan hệ xã hội được pháp
 3. **Quyền nhân thân về hình ảnh của cá nhân:**
    Theo Điều 32 Bộ luật Dân sự năm 2015 [2] và pháp luật về quảng cáo [3], việc sử dụng hình ảnh cá nhân trong hoạt động thương mại phải tuân thủ sự đồng ý hợp pháp hoặc các trường hợp ngoại lệ theo luật định. Dữ kiện ghi nhận nhóm đối tượng sử dụng hình ảnh, video cắt ghép người nổi tiếng để quảng cáo [6]. Nếu việc khai thác này không có sự đồng ý hoặc không thuộc trường hợp luật định thì làm phát sinh vấn đề xâm phạm quyền hình ảnh cá nhân.
 
-### 3.1.2. Phân biệt các bình diện trong yếu tố Khách thể
-
-**Bảng 4. Phân biệt khách thể, đối tượng tác động và người bị ảnh hưởng**
-
-| Bình diện | Nội dung trong vụ việc | Lưu ý phạm vi dữ liệu |
-| :--- | :--- | :--- |
-| **Khách thể** | Trật tự quản lý quảng cáo, thương mại; quyền được thông tin trung thực của người tiêu dùng; quyền hình ảnh | Đánh giá theo quy định pháp luật hiện hành |
-| **Đối tượng tác động** | Bài viết, video cắt ghép; sản phẩm Đông y “Xương khớp bà Sáu”; tiền thanh toán từ 5.429 đơn hàng | Là thực thể vật chất hoặc dữ liệu cụ thể bị tác động |
-| **Người bị ảnh hưởng** | Người mua qua 5.429 đơn hàng; người nổi tiếng bị sử dụng hình ảnh cắt ghép | Không suy đoán số lượng khách hàng riêng biệt hay thỏa thuận hình ảnh cụ thể |
+### 3.1.2. Phân biệt khách thể, đối tượng tác động và người bị ảnh hưởng
+Trong vụ việc này, khách thể là các quan hệ xã hội được pháp luật bảo vệ gồm trật tự quản lý quảng cáo, quyền được thông tin trung thực của người tiêu dùng và quyền hình ảnh cá nhân. Đối tượng tác động trực tiếp là bài viết, video quảng cáo cắt ghép, sản phẩm Đông y và dòng tiền từ các đơn hàng. Những người chịu ảnh hưởng trực tiếp gồm người mua hàng qua 5.429 đơn hàng và các cá nhân bị khai thác hình ảnh trong tư liệu tiếp thị.
 
 ---
 
@@ -241,41 +233,36 @@ Dữ liệu công khai cho thấy có sự phân công công việc giữa các 
 
 ## 3.5. Tổng hợp bốn yếu tố cấu thành vi phạm pháp luật
 
-**Bảng 5. Tổng hợp bốn yếu tố cấu thành vi phạm pháp luật trong vụ việc**
+**Bảng 4. Tổng hợp bốn yếu tố cấu thành vi phạm pháp luật trong vụ việc**
 
-| Yếu tố cấu thành | Dữ kiện thực tế chính [6] | Phân tích lý luận pháp lý | Đánh giá tổng hợp |
-| :--- | :--- | :--- | :--- |
-| **1. Khách thể** | Sản phẩm mua giá 23k bán 199k; video người nổi tiếng bị cắt ghép; phát sinh 5.429 đơn hàng. | Xâm hại trật tự quản lý quảng cáo, thương mại; quyền được thông tin trung thực của người tiêu dùng; quyền hình ảnh. | **Tác động đa chiều**, ảnh hưởng trật tự thị trường và quyền lợi người tiêu dùng. |
-| **2. Mặt khách quan** | Hành vi quảng cáo sai sự thật, dùng video cắt ghép; thực hiện 5.429 đơn hàng với tổng giá trị tiền hàng hơn 2,67 tỷ đồng. | Chuỗi hành vi hành động trái pháp luật; thông tin sai lệch có khả năng tác động đến nhận thức người mua trong giao dịch. | **Hành vi diễn ra qua nhiều khâu**, quy mô giao dịch lớn trên mạng xã hội. |
-| **3. Chủ thể** | Khởi tố Nguyễn Tiến Đạt cùng 20 bị can; Đạt sinh năm 1997; có các nhóm làm marketing, bán hàng, vận đơn. | Đạt đã thành niên; các cá nhân khác chưa đủ dữ liệu công khai để đánh giá chi tiết; có sự phân công công việc cụ thể. | **Xác định được độ tuổi của người tổ chức**, có sự phân hóa vai trò điều hành và hỗ trợ. |
-| **4. Mặt chủ quan** | Chỉ đạo đưa nội dung phóng đại, cắt ghép tư liệu người có uy tín để tạo niềm tin và bán hàng giá 199k. | Có cơ sở phân tích hướng lỗi cố ý trực tiếp và động cơ vụ lợi ở Đạt; nhân sự hỗ trợ cần phân hóa theo nhận thức thực tế. | **Cơ sở phân tích lỗi cố ý trực tiếp ở người tổ chức**, động cơ vụ lợi gắn với tiếp thị bán hàng. |
+| Yếu tố | Dữ kiện chính [6] | Nhận định pháp lý |
+| :--- | :--- | :--- |
+| **Khách thể** | Sản phẩm mua giá 23.000 đồng bán 199.000 đồng; video người nổi tiếng bị cắt ghép; 5.429 đơn hàng thành công. | Xâm hại trật tự quản lý quảng cáo, thương mại; quyền được thông tin trung thực của người tiêu dùng; quyền hình ảnh cá nhân. |
+| **Mặt khách quan** | Quảng cáo sai sự thật, dùng video cắt ghép; thực hiện 5.429 đơn hàng với tổng giá trị tiền hàng hơn 2,67 tỷ đồng. | Hành vi trái pháp luật diễn ra qua nhiều khâu; thông tin sai lệch có khả năng tác động đến quyết định mua hàng của người tiếp cận. |
+| **Chủ thể** | Khởi tố Nguyễn Tiến Đạt cùng 20 bị can; Đạt sinh năm 1997; có các nhóm làm marketing, bán hàng, vận đơn. | Đạt đã đủ tuổi thành niên; các cá nhân khác chờ kết luận của cơ quan tố tụng; có sự phân hóa vai trò điều hành và hỗ trợ. |
+| **Mặt chủ quan** | Chỉ đạo đưa nội dung phóng đại, cắt ghép tư liệu người có uy tín để tạo niềm tin và bán hàng giá 199.000 đồng. | Có cơ sở phân tích hướng lỗi cố ý trực tiếp và động cơ vụ lợi kinh tế ở Đạt; nhân sự hỗ trợ cần phân hóa theo nhận thức thực tế. |
 
 ---
 
 # CHƯƠNG 4: NHẬN XÉT VÀ BÀI HỌC THỰC TIỄN
 
 ## 4.1. Một số nhận xét từ vụ việc
-Vụ việc triệt phá đường dây quảng cáo sai sự thật tại Phú Thọ cho thấy một số vấn đề thực tiễn đáng chú ý:
-- **Thủ đoạn tiếp thị trực tuyến tinh vi:** Việc sử dụng hình ảnh, video cắt ghép người có uy tín kết hợp với mạng xã hội tạo ra khả năng lan truyền nhanh, khiến người tiêu dùng dễ tin tưởng và đặt mua sản phẩm.
-- **Sự cần thiết phân hóa trách nhiệm:** Trong một mô hình bán hàng có nhiều người tham gia, việc cá thể hóa hành vi và nhận thức của từng vị trí công việc là rất quan trọng để xác định đúng trách nhiệm pháp lý.
+Vụ việc tại Phú Thọ phản ánh thực trạng lợi dụng mạng xã hội để tiếp thị gian dối thông qua việc cắt ghép hình ảnh người có uy tín nhằm tạo niềm tin cho người mua. Việc quảng cáo sai lệch kết hợp với khả năng lan truyền nhanh của không gian mạng khiến nhiều người tiêu dùng dễ dàng đưa ra quyết định mua hàng đối với các sản phẩm chưa rõ nguồn gốc và chất lượng.
+
+Đồng thời, mô hình hoạt động phân chia nhiều khâu (marketing, tư vấn, vận đơn, giao nhận) đặt ra yêu cầu phải xem xét kỹ mức độ tham gia và nhận thức thực tế của từng cá nhân để xác định đúng trách nhiệm pháp lý.
 
 ## 4.2. Bài học rút ra
-Từ vụ việc trên, có thể rút ra một số bài học thực tiễn:
-- **Đối với người kinh doanh trực tuyến:** Phải tuân thủ đúng quy định của Luật Quảng cáo; không được phóng đại hoặc đưa thông tin sai sự thật về công dụng sản phẩm; tuân thủ điều kiện về sự đồng ý khi sử dụng hình ảnh cá nhân.
-- **Đối với người tiêu dùng:** Cần nâng cao kỹ năng kiểm chứng thông tin, cảnh giác trước các nội dung quảng cáo có cam kết tuyệt đối trên mạng xã hội; tìm kiếm tư vấn y khoa chính quy từ cơ sở y tế khi có vấn đề về sức khỏe, không tự ý sử dụng sản phẩm chỉ dựa vào quảng cáo chưa kiểm chứng.
-- **Đối với sinh viên ngành Công nghệ thông tin (UIT):** Khi tham gia các công việc làm thêm liên quan đến tiếp thị số, chỉnh sửa video hay quản trị mạng xã hội, cần nhận thức rõ trách nhiệm pháp lý của mình; kiên quyết từ chối tham gia các hoạt động cắt ghép hình ảnh giả mạo để lừa dối người dùng và luôn sử dụng năng lực công nghệ một cách có trách nhiệm.
+Từ vụ việc này, bài học quan trọng đối với hoạt động kinh doanh trực tuyến là phải tuân thủ đúng các quy định về quảng cáo, tuyệt đối không đưa thông tin sai sự thật về công dụng sản phẩm và phải có sự đồng ý hợp pháp khi sử dụng hình ảnh cá nhân. Đối với người tiêu dùng, việc chủ động kiểm chứng thông tin và tìm kiếm tư vấn y tế chính quy khi có vấn đề về sức khỏe là điều cần thiết để bảo vệ quyền lợi và an toàn của bản thân.
+
+Đối với sinh viên ngành Công nghệ thông tin tại UIT, vụ việc nhắc nhở rằng khi tham gia các công việc liên quan đến tiếp thị số, dựng video hay quản trị trang mạng xã hội, sinh viên cần có nhận thức rõ ràng về tính hợp pháp của công việc. Năng lực kỹ thuật số phải được sử dụng đúng đắn, kiên quyết từ chối tham gia các hoạt động cắt ghép hình ảnh giả mạo hoặc hỗ trợ phát tán thông tin lừa dối.
 
 ---
 
 # KẾT LUẬN
 
-Qua các dữ kiện công khai của vụ việc, bốn yếu tố cấu thành vi phạm pháp luật có thể được xem xét như sau:
-1. **Khách thể:** Tác động đến trật tự quản lý nhà nước về quảng cáo, thương mại, quyền được thông tin trung thực của người tiêu dùng và quyền nhân thân về hình ảnh theo luật định.
-2. **Mặt khách quan:** Thể hiện qua hành vi quảng cáo sai sự thật, sử dụng hình ảnh cắt ghép và phát sinh 5.429 đơn hàng thành công với tổng giá trị tiền hàng hơn 2,67 tỷ đồng theo nguồn công khai; tạo cơ sở xem xét mối liên hệ nhân quả giữa việc tiếp thị và kết quả giao dịch.
-3. **Chủ thể:** Dữ liệu xác định người tổ chức (Nguyễn Tiến Đạt) đã đủ tuổi thành niên; việc đánh giá năng lực của các cá nhân khác căn cứ vào kết luận của cơ quan tiến hành tố tụng.
-4. **Mặt chủ quan:** Có cơ sở phân tích hướng lỗi cố ý trực tiếp và động cơ vụ lợi đối với người tổ chức; đối với các nhân sự hỗ trợ, trách nhiệm cần được phân hóa theo nhận thức thực tế của từng người.
+Qua phân tích vụ việc tại Phú Thọ, bốn yếu tố cấu thành vi phạm pháp luật được thể hiện rõ qua các dữ kiện thực tế: hành vi quảng cáo sai sự thật và khai thác hình ảnh cắt ghép xâm hại đến trật tự quản lý quảng cáo, quyền lợi của người tiêu dùng và quyền hình ảnh cá nhân; chuỗi hành vi được thực hiện qua nhiều khâu với 5.429 đơn hàng phát sinh; người tổ chức (Nguyễn Tiến Đạt) đã đủ tuổi thành niên; và dữ kiện tiếp thị phóng đại để bán hàng giá cao tạo cơ sở phân tích hướng lỗi cố ý trực tiếp gắn với động cơ kinh tế.
 
-Việc vận dụng lý luận cấu thành vi phạm pháp luật để phân tích vụ việc thực tế giúp sinh viên UIT củng cố kiến thức môn học, hiểu rõ ranh giới pháp lý trong môi trường số và nâng cao ý thức trách nhiệm nghề nghiệp khi làm việc trong lĩnh vực công nghệ thông tin.
+Do vụ án vẫn đang trong giai đoạn điều tra mở rộng, các nhận định trong báo cáo chỉ dừng lại ở phạm vi nghiên cứu học thuật dựa trên dữ liệu công khai hiện có. Việc vận dụng lý luận môn Pháp luật đại cương vào tình huống thực tế đã giúp nhóm hiểu rõ phương pháp đánh giá một vi phạm pháp luật và nhận thức sâu sắc hơn về trách nhiệm pháp lý khi làm việc trong môi trường công nghệ.
 
 ---
 
