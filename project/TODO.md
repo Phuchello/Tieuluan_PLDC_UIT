@@ -57,5 +57,17 @@
 - [x] Conduct full visual & layout audit on all 26 pages of PDF and DOCX
 - [x] Perform automated publishing regression scan (`qa/PUBLISHING_REGRESSION_SCAN.md`)
 - [x] Complete Final QA Report V3 (`qa/FINAL_QA_REPORT_V3.md`), DOCX QA V3 (`qa/DOCX_QA_V3.md`), PDF Visual QA V3 (`qa/PDF_VISUAL_QA_V3.md`), Citation Audit V3 (`qa/CITATION_AUDIT_V3.md`)
+
+## Phase 3E: Adversarial Audit
+- [x] Complete Adversarial Audit (`qa/GEMINI_FINAL_ADVERSARIAL_AUDIT.md`)
+
+## Phase 3F: Surgical Final Repair
+- [x] Resolve image-consent boundary overclaim (Art 32 BLDS / Law on Advertising / Source limitation)
+- [x] Qualify subject capacity and remove age overgeneralization (Đạt adulthood verified; others qualified)
+- [x] Qualify transaction causation as PLĐC academic inference
+- [x] Standardize 2.67 billion goods value terminology across all sections & conclusion
+- [x] Frame direct intent as academic inference with objective basis
+- [x] Rebuild release deliverables (HTML, DOCX with native TOC, 26-page authoritative PDF)
+- [x] Complete Gemini Repair Audit V4 (`qa/GEMINI_REPAIR_AUDIT_V4.md`)
 - [ ] Fill lecturer name, class, student member names and MSSV in placeholders
 - [ ] Final team reading and submission
