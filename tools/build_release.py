@@ -463,16 +463,9 @@ def build_docx(text: str):
     p1 = doc.add_paragraph()
     p1.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p1.paragraph_format.first_line_indent = Cm(0)
-    p1.paragraph_format.space_after = Pt(3)
+    p1.paragraph_format.space_after = Pt(40)
     r = p1.add_run("ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH\nTRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN")
     set_run_font(r, size=14, bold=True)
-
-    p_sub = doc.add_paragraph()
-    p_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p_sub.paragraph_format.first_line_indent = Cm(0)
-    p_sub.paragraph_format.space_after = Pt(36)
-    r_sub = p_sub.add_run("KHOA / BỘ MÔN LÝ LUẬN CHÍNH TRỊ")
-    set_run_font(r_sub, size=13, bold=True)
 
     p_tt = doc.add_paragraph()
     p_tt.alignment = WD_ALIGN_PARAGRAPH.CENTER
