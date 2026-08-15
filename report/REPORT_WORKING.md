@@ -422,3 +422,132 @@ Quan hệ nhân quả trong vụ việc mang tính chất trực tiếp và tấ
 
 ### 3.2.4. Nhận xét tiểu mục 3.2
 Mặt khách quan của vụ việc thể hiện đầy đủ tính chất nguy hiểm cao của hành vi vi phạm pháp luật có tổ chức trong thời đại số: phương thức tinh vi, công cụ công nghệ hiện đại, quy mô giao dịch lớn và hậu quả xâm hại trực tiếp đến quyền lợi kinh tế cũng như sức khỏe của hàng ngàn người dân.
+
+---
+
+## 3.3. Phân tích yếu tố Chủ thể của vi phạm pháp luật
+
+### 3.3.1. Cơ sở lý luận áp dụng
+Chủ thể của vi phạm pháp luật là cá nhân hoặc tổ chức có năng lực trách nhiệm pháp lý đã thực hiện hành vi vi phạm pháp luật. Năng lực trách nhiệm pháp lý của cá nhân được cấu thành từ hai yếu tố:
+1. **Độ tuổi luật định:** Đạt độ tuổi có khả năng nhận thức và chịu trách nhiệm pháp lý đối với hành vi của mình theo từng ngành luật (theo Bộ luật Dân sự và Bộ luật Hình sự Việt Nam, cá nhân từ đủ 18 tuổi trở lên có đầy đủ năng lực hành vi và năng lực trách nhiệm pháp lý).
+2. **Khả năng nhận thức và điều khiển hành vi:** Trạng thái tâm sinh lý bình thường, có khả năng phân biệt được điều đúng - sai, tính hợp pháp hay trái pháp luật của hành vi, đồng thời có khả năng làm chủ hành vi của bản thân.
+
+Trong các vụ việc mang tính chất tổ chức đồng phạm, việc đánh giá chủ thể không được cào bằng mà phải phân tích cụ thể năng lực chủ thể và phân hóa vai trò của từng nhóm cá nhân.
+
+### 3.3.2. Dữ kiện thực tế ghi nhận
+Cơ quan điều tra Công an tỉnh Phú Thọ đã ra quyết định khởi tố đối với **21 bị can**, trong đó người cầm đầu được xác định là Nguyễn Tiến Đạt (sinh năm 1997, trú tại Hà Nội). Cùng bị khởi tố có Phùng Thị Nguyệt Ánh (Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh) và gần 20 nhân viên thuộc các bộ phận marketing, telesale, vận đơn.
+
+### 3.3.3. Phân tích pháp lý chi tiết
+
+#### A. Đánh giá năng lực trách nhiệm pháp lý của các chủ thể
+- **Về độ tuổi:** Đối tượng cầm đầu Nguyễn Tiến Đạt sinh năm 1997 (29 tuổi tính đến năm 2026). Các nhân viên và bị can khác đều là người trưởng thành, từ đủ 18 tuổi trở lên. Do đó, tất cả 21 bị can đều đã đạt độ tuổi chịu trách nhiệm pháp lý đầy đủ theo quy định của pháp luật Việt Nam.
+- **Về khả năng nhận thức và điều khiển hành vi:** Tại thời điểm thực hiện hành vi, không có bất kỳ dữ kiện nào cho thấy các bị can mắc các bệnh lý tâm thần hoặc các bệnh khác làm mất khả năng nhận thức hoặc mất khả năng điều khiển hành vi. Họ hoàn toàn nhận thức được hoạt động tiếp thị, chốt đơn và bán hàng của mình, có đủ năng lực trí tuệ để hiểu rằng việc gian dối về công dụng sản phẩm và giả mạo danh nghĩa bác sĩ là hành vi bị xã hội lên án và pháp luật ngăn cấm.
+
+#### B. Phân hóa vai trò của các nhóm chủ thể trong vụ việc
+Dưới góc độ lý luận vi phạm pháp luật, 21 bị can không giữ vị trí và mức độ tác động ngang nhau mà tạo thành một chuỗi liên kết có tổ chức:
+
+1. **Người chủ mưu, tổ chức và cầm đầu (Nguyễn Tiến Đạt):**
+   - Giữ vai trò quyết định, khởi xướng ý tưởng, trực tiếp liên hệ đàm phán giá mua sản phẩm, thuê mướn địa điểm, mua sắm trang thiết bị và tổ chức bộ máy nhân sự.
+   - Trực tiếp duyệt các kịch bản quảng cáo sai sự thật, kịch bản tư vấn lừa dối khách hàng và điều phối dòng tiền thu về từ các đơn hàng.
+   - Đây là chủ thể mang mức độ trách nhiệm pháp lý cao nhất trong vụ việc.
+
+2. **Chủ thể cung ứng sản phẩm (Phùng Thị Nguyệt Ánh):**
+   - Với tư cách là Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh, Ánh là người cung ứng số lượng lớn sản phẩm "Xương khớp bà Sáu" cho Đạt với giá 23.000 đồng/hộp.
+   - Cơ quan điều tra đang tiếp tục làm rõ mức độ liên đới trách nhiệm: Ánh có biết việc Đạt sử dụng sản phẩm này để quảng cáo thổi phồng thành "thần dược" và lừa dối người tiêu dùng hay không. Nếu có sự câu kết, thỏa thuận từ trước, Ánh sẽ chịu trách nhiệm với vai trò đồng phạm giúp sức/cung cấp phương tiện.
+
+3. **Nhóm nhân sự kỹ thuật truyền thông và Marketing:**
+   - Thực hiện hành vi chỉnh sửa, cắt ghép video của nghệ sĩ, bác sĩ, tạo dựng hình ảnh giả mạo và thiết lập chiến dịch quảng cáo trên các nền tảng mạng xã hội.
+   - Là nhóm chủ thể trực tiếp tạo ra công cụ lừa dối (nguồn thông tin sai lệch) để tiếp cận người tiêu dùng.
+
+4. **Nhóm nhân viên tư vấn bán hàng (Telesale):**
+   - Tiếp nhận dữ liệu số điện thoại từ khách hàng, trực tiếp đóng vai bác sĩ, chuyên gia để đưa ra thông tin giả mạo về bệnh tình và công dụng của sản phẩm nhằm ép khách chốt đơn với giá cao.
+   - Là nhóm chủ thể trực tiếp thực hiện hành vi lừa dối đối mặt với người tiêu dùng qua điện thoại.
+
+5. **Nhóm nhân viên hậu cần, đóng gói và vận chuyển:**
+   - Thực hiện khâu tiếp nhận đơn hàng, dán nhãn bao bì, đóng gói và bàn giao cho bưu cục giao nhận.
+
+> **Ghi chú về tính mở của dữ liệu:** Dưới góc độ học thuật, cần lưu ý rằng *“CHƯA ĐỦ DỮ LIỆU CÔNG KHAI ĐỂ KẾT LUẬN CỤ THỂ”* về mức độ nhận thức của từng nhân viên ở khâu hậu cần/đóng gói. Quá trình tố tụng tiếp theo của cơ quan tư pháp sẽ làm rõ từng bị can có nhận thức được bản chất lừa dối của đường dây hay chỉ là lao động phổ thông làm công ăn lương đơn thuần, từ đó cá thể hóa hình phạt một cách công minh.
+
+### 3.3.4. Nhận xét tiểu mục 3.3
+Tất cả 21 bị can đều là những cá nhân có đầy đủ năng lực trách nhiệm pháp lý. Vụ việc phản ánh mô hình vi phạm có tổ chức, phân công chuyên môn hóa cao trong môi trường kinh doanh trực tuyến, trong đó vai trò cầm đầu của người tổ chức giữ tính chất quyết định.
+
+---
+
+## 3.4. Phân tích yếu tố Mặt chủ quan của vi phạm pháp luật
+
+### 3.4.1. Cơ sở lý luận áp dụng
+Mặt chủ quan là trạng thái tâm lý nội tâm của chủ thể đối với hành vi trái pháp luật và hậu quả do hành vi đó gây ra, bao gồm ba thành tố: Lỗi, Động cơ và Mục đích. Việc chứng minh mặt chủ quan phải dựa trên chuỗi lập luận khoa học từ các biểu hiện khách quan đã được chứng minh, tránh suy đoán chủ quan hoặc võ đoán.
+
+Chuỗi lập luận phương pháp luận được áp dụng:
+$$\text{Dữ kiện thực tế (Fact)} \longrightarrow \text{Diễn giải tâm lý (Interpretation)} \longrightarrow \text{Lập luận pháp lý (Legal Reasoning)} \longrightarrow \text{Mức độ tin cậy (Confidence)}$$
+
+### 3.4.2. Dữ kiện thực tế ghi nhận
+1. Mức chênh lệch giá cực lớn: Mua vào 23.000 đồng/hộp nhưng bán ra 199.000 đồng/hộp (chênh lệch gần 9 lần).
+2. Xây dựng kịch bản tư vấn mạo danh: Soạn thảo văn bản hướng dẫn nhân viên mạo danh bác sĩ, bệnh viện lớn để tư vấn dối trá.
+3. Cắt ghép hình ảnh trái phép: Cố ý sử dụng hình ảnh chuyên gia y tế uy tín nhằm ngụy tạo độ tin cậy cho bài thuốc.
+4. Thu về số tiền hơn 2,67 tỷ đồng từ 5.429 đơn hàng.
+
+### 3.4.3. Phân tích pháp lý chi tiết
+
+#### A. Phân tích yếu tố Lỗi
+Dưới góc độ lý luận Pháp luật đại cương, hình thức lỗi của các đối tượng chủ mưu và nhóm thực hành trực tiếp (marketing, telesale) là **Lỗi cố ý trực tiếp**:
+
+- **Về mặt lý trí (Nhận thức):**
+  - Các đối tượng nhận thức rõ sản phẩm "Xương khớp bà Sáu" chỉ là thảo dược giá rẻ (23.000 đồng), hoàn toàn không phải là thuốc chữa bệnh và không thể chữa dứt điểm bệnh xương khớp nan y.
+  - Các đối tượng nhận thức rõ việc cắt ghép video của người khác khi chưa được phép và việc mạo nhận danh xưng bác sĩ để tư vấn qua điện thoại là hành vi gian dối, trái quy định pháp luật.
+  - Các đối tượng thấy trước một cách tất yếu rằng: hành vi của mình sẽ làm cho người tiêu dùng nhầm tưởng đây là thần dược, từ đó chấp nhận bỏ ra số tiền lớn để mua sản phẩm và gánh chịu thiệt hại kinh tế cũng như nguy cơ về sức khỏe.
+
+- **Về mặt ý chí (Mong muốn):**
+  - Mặc dù thấy trước rõ ràng hậu quả nguy hại đó, các đối tượng không những không ngăn chặn mà trái lại, hoàn toàn mong muốn và chủ động thúc đẩy hậu quả đó diễn ra để có thể bán được càng nhiều đơn hàng càng tốt.
+  - Tâm lý chủ quan ở đây là sự vụ lợi có toan tính, coi việc đánh lừa người mua là phương thức để đạt được lợi nhuận tài chính.
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ MẶT LÝ TRÍ (NHẬN THỨC)                                                 │
+│ - Biết rõ chất lượng và giá gốc sản phẩm (23.000đ).                    │
+│ - Biết rõ việc cắt ghép clip & mạo xưng bác sĩ là trái pháp luật.      │
+│ - Thấy trước khách hàng sẽ bị lừa dối và thiệt hại tài sản.           │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    │ KẾT HỢP
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│ MẶT Ý CHÍ (MONG MUỐN)                                                  │
+│ - Mong muốn bán được nhiều hàng với giá cao (199.000đ).                │
+│ - Mong muốn người tiêu dùng tin vào thông tin giả để chốt đơn.         │
+│ - Mong muốn thu lợi bất chính tối đa.                                  │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│ KẾT LUẬN: LỖI CỐ Ý TRỰC TIẾP (DIRECT INTENT)                           │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+#### B. Phân tích Động cơ và Mục đích vi phạm
+- **Động cơ vi phạm:** Động cơ vụ lợi kinh tế bất chính. Xuất phát từ lòng tham muốn thu về siêu lợi nhuận nhanh chóng mà không cần bỏ ra chi phí nghiên cứu phát triển sản phẩm hay tuân thủ các quy chuẩn kiểm nghiệm y tế khắt khe.
+- **Mục đích vi phạm:** Mục đích cuối cùng của các đối tượng là chiếm đoạt một phần giá trị tài sản của khách hàng thông qua việc nâng giá sản phẩm dựa trên niềm tin gian dối, thu về số tiền bất chính lớn nhất có thể (thực tế đã đạt doanh thu hơn 2,67 tỷ đồng trước khi bị bắt giữ).
+
+#### C. Bảng đối chiếu lập luận khoa học về Mặt chủ quan
+| Tiêu chí | Nội dung phân tích theo chuỗi lập luận | Mức độ tin cậy |
+| :--- | :--- | :--- |
+| **Fact (Dữ kiện)** | Đạt thỏa thuận mua 23k, bán 199k, viết script mạo danh bác sĩ, cắt ghép clip nghệ sĩ. | **Cao (Verified từ Công an)** |
+| **Interpretation** | Đối tượng hiểu rõ bản chất sản phẩm và chủ động tạo dựng thông tin sai lệch để bán giá cao. | **Cao (Hợp lý & logic)** |
+| **Legal Reasoning** | Chủ thể nhận thức rõ hành vi trái luật, thấy trước hậu quả và mong muốn hậu quả $\rightarrow$ Lỗi cố ý trực tiếp. | **Chắc chắn (Chuẩn lý luận PLĐC)** |
+| **Confidence** | Đủ căn cứ khoa học pháp lý xác định lỗi cố ý đối với nhóm cầm đầu và thực hành. | **Rất cao (95%)** |
+
+### 3.4.4. Nhận xét tiểu mục 3.4
+Mặt chủ quan trong vụ việc thể hiện sự suy thoái nghiêm trọng về mặt đạo đức kinh doanh và thái độ coi thường kỷ cương pháp luật. Lỗi cố ý trực tiếp và động cơ vụ lợi rõ nét là căn cứ then chốt để áp dụng các chế tài nghiêm khắc đối với các bị can.
+
+---
+
+## 3.5. Bảng tổng hợp bốn yếu tố cấu thành vi phạm pháp luật
+
+Nhằm khái quát hóa toàn bộ nội dung phân tích tại Chương 3, Bảng tổng hợp dưới đây hệ thống hóa bốn yếu tố cấu thành vi phạm pháp luật trong vụ việc quảng cáo gian dối sản phẩm "Xương khớp bà Sáu":
+
+| Yếu tố cấu thành | Dữ kiện thực tế chính | Phân tích lý luận pháp lý | Kết luận đánh giá |
+| :--- | :--- | :--- | :--- |
+| **1. Khách thể** | Sản phẩm giá 23k bị phóng đại thành thần dược; cắt ghép clip nghệ sĩ; 5.429 đơn hàng bán ra. | Xâm phạm trật tự quản lý nhà nước về quảng cáo & thương mại dược phẩm; xâm phạm quyền được thông tin, an toàn sức khỏe và tài sản của người tiêu dùng; xâm phạm quyền nhân thân hình ảnh. | **Khách thể bị xâm phạm nghiêm trọng**, tác động xấu đến an sinh và niềm tin xã hội. |
+| **2. Mặt khách quan** | Hành vi quảng cáo sai sự thật, mạo danh bác sĩ tư vấn, bán chênh lệch giá; thu hơn 2,67 tỷ đồng từ 5.429 đơn; phương tiện mạng xã hội & chuyển phát COD. | Chuỗi hành vi khách quan trái pháp luật thể hiện dưới dạng hành động; hậu quả vật chất và phi vật chất lớn; mối quan hệ nhân quả tất yếu giữa hành vi lừa dối và quyết định mua hàng của nạn nhân. | **Hành vi nguy hiểm cho xã hội**, có tính chất chuyên nghiệp, quy mô toàn quốc. |
+| **3. Chủ thể** | 21 bị can bị khởi tố; Nguyễn Tiến Đạt (sinh 1997) cầm đầu; phân công các nhóm marketing, telesale, vận đơn, cung ứng. | Tất cả cá nhân đều từ đủ 18 tuổi trở lên, có đầy đủ khả năng nhận thức và điều khiển hành vi $\rightarrow$ Có đầy đủ năng lực trách nhiệm pháp lý; có sự phân hóa vai trò tổ chức rõ ràng. | **Chủ thể đủ điều kiện chịu trách nhiệm pháp lý**, có tính chất đồng phạm có tổ chức. |
+| **4. Mặt chủ quan** | Cố tình thổi phồng công dụng, lập kịch bản mạo xưng chuyên gia để ép giá; thu lợi bất chính hơn 2,67 tỷ đồng. | Nhận thức rõ tính chất trái luật và hậu quả thiệt hại của khách hàng nhưng hoàn toàn mong muốn đạt được để thu lợi nhuận $\rightarrow$ Lỗi cố ý trực tiếp; động cơ vụ lợi; mục đích thu lợi bất chính. | **Lỗi cố ý trực tiếp với động cơ vụ lợi cao độ**, thể hiện mức độ nguy hiểm chủ quan lớn. |

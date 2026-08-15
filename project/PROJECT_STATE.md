@@ -8,6 +8,7 @@ Phase 2: Full Report Writing, Legal Analysis & Self-Review
 - [Phase 2] Checkpoint 1: Drafted Introduction and Chapter 1 (Legal Framework).
 - [Phase 2] Checkpoint 2: Drafted Chapter 2 (Verified Case Overview).
 - [Phase 2] Checkpoint 3: Drafted Section 3.1 & 3.2 (Object and Objective Elements).
+- [Phase 2] Checkpoint 4: Drafted Section 3.3, 3.4 & 3.5 (Subject, Subjective Elements & Synthesis Matrix).
 
 ## Sources Verified
 Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cựu chiến binh, CSDL Quốc gia về VBPL, Giáo trình Pháp luật đại cương.
@@ -24,16 +25,16 @@ Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cự
 - `/research/*`
 
 ## Open Questions
-- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Đã phân tích chi tiết mối quan hệ nhân quả và phân biệt rạch ròi giữa Doanh thu (2,67 tỷ) và thiệt hại thực tế trong mục 3.2.
+- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Đã phân hóa vai trò chủ thể và ghi rõ nhận định về giới hạn dữ liệu công khai đối với nhân sự hậu cần.
 
 ## Risks
-- Đảm bảo các mục 3.3 (Chủ thể) và 3.4 (Mặt chủ quan) sắp tới phân tích sâu sắc yếu tố lỗi, phân hóa vai trò và giữ vững nguyên tắc suy đoán vô tội.
+- Đảm bảo Chương 4 sắp tới đưa ra các bài học và kiến nghị có tính thực tiễn cao, phù hợp với sinh viên ngành CNTT và xã hội.
 
 ## Latest Successful Git Commit
-481e1fd
+2f2a2ed
 
 ## Last Safe Checkpoint
-Checkpoint 3 (Object and Objective Elements)
+Checkpoint 4 (Four-Element Violation Analysis)
 
 ## Exact Next Action
-Draft Section 3.3 (Chủ thể), 3.4 (Mặt chủ quan) & 3.5 (Bảng tổng hợp) and execute Checkpoint 4.
+Draft Chapter 4 (Remarks & Lessons), Conclusion & References and execute Checkpoint 5.
