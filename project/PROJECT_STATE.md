@@ -1,50 +1,37 @@
 # PROJECT STATE
 
 ## Current Phase
-Phase 1: Research, Source Audit, Legal Architecture Completed
+Phase 2: Full Report Writing, Legal Analysis & Self-Review
 
 ## Completed Milestones
-- Project Initialization
-- Source audit
-- Case facts and timeline
-- Legal basis matrix
-- Legal violation analysis notes
-- Finalized report architecture
+- [Phase 1] Project Initialization, Source Audit, Case Fact Sheet, Timeline, Legal Basis Matrix, Legal Analysis Notes, Report Architecture.
+- [Phase 2] Checkpoint 1: Drafted Introduction and Chapter 1 (Legal Framework).
 
 ## Sources Verified
-Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cựu chiến binh, CSDL QG về VBPL.
+Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cựu chiến binh, CSDL Quốc gia về VBPL, Giáo trình Pháp luật đại cương.
 
 ## Legal Provisions Verified
-- Khoản 2 Điều 198 BLHS 2015.
-- Điều 8 Luật Quảng cáo 2012.
+- Khoản 2 Điều 198 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017).
+- Điều 8 Luật Quảng cáo 2012 (sửa đổi 2018).
 - Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng 2023.
 
 ## Current Working Files
 - `/report/REPORT_WORKING.md`
-- `/research/SOURCE_AUDIT.md`
-- `/research/CASE_FACT_SHEET.md`
-- `/research/CASE_TIMELINE.md`
-- `/research/LEGAL_BASIS_MATRIX.md`
-- `/research/LEGAL_ANALYSIS_NOTES.md`
-- `/research/SOURCE_MAP.md`
 - `/project/PROJECT_STATE.md`
 - `/project/TODO.md`
-- `/project/OPEN_QUESTIONS.md`
-- `/project/REPORT_ARCHITECTURE.md`
-- `/qa/README.md`
+- `/research/*`
 
 ## Open Questions
-Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Chưa xác minh được thiệt hại thực tế của người tiêu dùng, vai trò chủ quan của từng nhóm nhân viên cấp dưới.
+- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Tiếp tục duy trì nguyên tắc suy đoán vô tội và phân biệt rõ ràng giữa doanh thu và thiệt hại thực tế.
 
 ## Risks
-- Báo cáo có thể lấn sang ranh giới phân tích tội phạm Hình sự chuyên sâu thay vì phân tích Vi phạm pháp luật theo định hướng PLĐC.
-- Việc kết luận vai trò của các cá nhân phải dựa trên nguyên tắc suy đoán vô tội vì vụ án đang trong giai đoạn điều tra mở rộng.
+- Đảm bảo giữ đúng trọng tâm cấu thành vi phạm pháp luật theo môn PLĐC, không trượt sang cấu thành tội phạm hình sự chuyên sâu.
 
 ## Latest Successful Git Commit
-75e3ec738c3a7eb141139f49430bf3fa033b2f29
+(In progress)
 
 ## Last Safe Checkpoint
-75e3ec738c3a7eb141139f49430bf3fa033b2f29
+Checkpoint 1 (Introduction and Legal Framework)
 
 ## Exact Next Action
-Gemini 3.7 reads Phase 1 artifacts and begins report drafting.
+Draft Chapter 2 (Verified Case Overview) and execute Checkpoint 2.
