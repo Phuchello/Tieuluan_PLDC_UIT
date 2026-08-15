@@ -78,5 +78,14 @@
 - [x] Remove specialized criminal-law "đồng phạm" terminology in Section 3.4
 - [x] Soften Table 7 to maintain strict consistency with body nuances
 - [x] Rebuild release packages and complete Final Micro Repair V5 (`qa/FINAL_MICRO_REPAIR_V5.md`)
+
+## Phase 3H: Human Writing + Logic + Content Edit
+- [x] Eliminate textbook filler from Chapter 1 (~30% word reduction)
+- [x] Start Chapter 2 directly from case facts and remove generic e-commerce preamble
+- [x] Remove repetitive mini-conclusions (3.1.4, 3.2.4, 3.3.4, 3.4.3) and Table 6 in Chapter 3
+- [x] Eliminate all self-congratulatory meta-writing and robotic template phrases
+- [x] Simplify Chapter 4 and Conclusion to concise, practical student reflections
+- [x] Maintain zero orphan pages and perfect pagination in 19-page master PDF
+- [x] Complete Human Writing & Logic Audit (`qa/HUMAN_WRITING_LOGIC_AUDIT.md`)
 - [ ] Fill lecturer name, class, student member names and MSSV in placeholders
 - [ ] Final team reading and submission
