@@ -427,9 +427,9 @@ def build_docx(text: str):
     # Heading Styles
     heading_configs = [
         (1, 15, True, False, WD_ALIGN_PARAGRAPH.CENTER, 18, 10, True),
-        (2, 13.5, True, False, WD_ALIGN_PARAGRAPH.LEFT, 14, 6, False),
-        (3, 13, True, False, WD_ALIGN_PARAGRAPH.LEFT, 10, 4, False),
-        (4, 13, True, True, WD_ALIGN_PARAGRAPH.LEFT, 8, 3, False),
+        (2, 13.5, True, False, WD_ALIGN_PARAGRAPH.LEFT, 11, 4, False),
+        (3, 13, True, False, WD_ALIGN_PARAGRAPH.LEFT, 9, 3, False),
+        (4, 13, True, True, WD_ALIGN_PARAGRAPH.LEFT, 7, 2, False),
     ]
     for lvl, size, bold, italic, align, sp_before, sp_after, page_break in heading_configs:
         st = doc.styles[f"Heading {lvl}"]
@@ -692,7 +692,7 @@ def build_docx(text: str):
         # Standard Paragraph
         p_body = doc.add_paragraph()
         p_body.paragraph_format.first_line_indent = Cm(1.25)
-        p_body.paragraph_format.space_after = Pt(6)
+        p_body.paragraph_format.space_after = Pt(4)
         p_body.paragraph_format.line_spacing = 1.5
         p_body.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
         add_formatted_runs(p_body, line, default_size=13)
