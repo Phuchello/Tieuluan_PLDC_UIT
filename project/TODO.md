@@ -87,5 +87,20 @@
 - [x] Simplify Chapter 4 and Conclusion to concise, practical student reflections
 - [x] Maintain zero orphan pages and perfect pagination in 19-page master PDF
 - [x] Complete Human Writing & Logic Audit (`qa/HUMAN_WRITING_LOGIC_AUDIT.md`)
+
+## Phase 3I: Final Human Prose Pass
+- [x] Simplify Introduction objectives to 2 focused bullets
+- [x] Convert Table 4 to natural prose paragraph
+- [x] Simplify synthesis table to 3 columns
+- [x] Rewrite Chapter 4 into continuous academic prose
+- [x] Rewrite Conclusion into 2 natural paragraphs
+
+## Phase 3J: Content Safety Patch
+- [x] Remove unverified faculty line from cover
+- [x] Add explicit 5,429-order distinction in Section 3.1.2
+- [x] Replace "chưa rõ nguồn gốc" with safe product quality phrasing in Chapter 4.1
+- [x] Correct image-consent formulation in Chapter 4.2 and Table 4
+- [x] Qualify opening statement in Conclusion
+- [x] Rebuild deliverables and verify regression scan
 - [ ] Fill lecturer name, class, student member names and MSSV in placeholders
-- [ ] Final team reading and submission
+- [ ] Independent Codex final audit and submission
