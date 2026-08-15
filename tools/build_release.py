@@ -604,12 +604,17 @@ def build_docx(text: str):
                 if num_cols == 3:
                     set_table_col_widths(tbl, [Cm(3.8), Cm(7.2), Cm(4.8)])
                 elif num_cols == 4:
-                    set_table_col_widths(tbl, [Cm(3.5), Cm(4.5), Cm(3.8), Cm(4.0)])
+                    set_table_col_widths(tbl, [Cm(3.2), Cm(4.6), Cm(4.0), Cm(4.0)])
                 elif num_cols == 5:
                     set_table_col_widths(tbl, [Cm(1.2), Cm(3.8), Cm(2.4), Cm(2.8), Cm(5.6)])
                 else:
                     col_w = total_w / num_cols
                     set_table_col_widths(tbl, [col_w] * num_cols)
+                for r_idx, row in enumerate(tbl.rows):
+                    trPr = row._tr.get_or_add_trPr()
+                    trPr.append(OxmlElement('w:cantSplit'))
+                    if r_idx == 0:
+                        trPr.append(OxmlElement('w:tblHeader'))
             continue
 
         # Blank or HR
