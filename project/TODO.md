@@ -40,17 +40,22 @@
 - [x] Verify HTML / Print styling & Parity
 - [x] Update Project State & Commit Handoff
 
-## Phase 3: Final Independent Audit
+## Phase 3: Final Independent Audit & Hardening
 - [x] Independent legal audit
 - [x] Independent citation and source audit
-- [x] Identify release-blocking P0 source gap
-- [x] Obtain a reproducible primary source for the case
+- [x] Obtain reproducible primary source (`research/PRIMARY_SOURCE_RECORD.md`)
 - [x] Re-verify procedural date, accused persons, roles, figures and platforms
 - [x] Create final canonical manuscript (`report/REPORT_FINAL.md`)
-- [x] Build final HTML, PDF and editable DOCX
-- [x] Complete visual PDF QA
-- [x] Final release commit and remote verification
-- [ ] Fill lecturer name
-- [ ] Fill member names/MSSV
-- [ ] Team human read-through
-- [ ] Submission
+
+## Phase 3D: Gemini Maximum Polish & Professionalization
+- [x] Eliminate all manual Markdown TOC link leakage from canonical manuscript
+- [x] Normalize reference numbering sequentially 1 $\rightarrow$ 6 and synchronize all in-text citations atomically
+- [x] Harden UIT course theory in Section 1.5 (mandatory act vs harm vs causal relationship)
+- [x] Audit and sequentially number all document tables (Bảng 1 đến Bảng 7)
+- [x] Rebuild master submission DOCX with native Word Table of Contents field
+- [x] Automate Word COM field update and direct PDF export (26 pages, 100% pagination match)
+- [x] Conduct full visual & layout audit on all 26 pages of PDF and DOCX
+- [x] Perform automated publishing regression scan (`qa/PUBLISHING_REGRESSION_SCAN.md`)
+- [x] Complete Final QA Report V3 (`qa/FINAL_QA_REPORT_V3.md`), DOCX QA V3 (`qa/DOCX_QA_V3.md`), PDF Visual QA V3 (`qa/PDF_VISUAL_QA_V3.md`), Citation Audit V3 (`qa/CITATION_AUDIT_V3.md`)
+- [ ] Fill lecturer name, class, student member names and MSSV in placeholders
+- [ ] Final team reading and submission
