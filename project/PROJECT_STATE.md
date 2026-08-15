@@ -7,6 +7,7 @@ Phase 2: Full Report Writing, Legal Analysis & Self-Review
 - [Phase 1] Project Initialization, Source Audit, Case Fact Sheet, Timeline, Legal Basis Matrix, Legal Analysis Notes, Report Architecture.
 - [Phase 2] Checkpoint 1: Drafted Introduction and Chapter 1 (Legal Framework).
 - [Phase 2] Checkpoint 2: Drafted Chapter 2 (Verified Case Overview).
+- [Phase 2] Checkpoint 3: Drafted Section 3.1 & 3.2 (Object and Objective Elements).
 
 ## Sources Verified
 Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cựu chiến binh, CSDL Quốc gia về VBPL, Giáo trình Pháp luật đại cương.
@@ -23,16 +24,16 @@ Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cự
 - `/research/*`
 
 ## Open Questions
-- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Đã phân biệt rành mạch giữa doanh thu (2,67 tỷ) và thiệt hại thực tế; tuân thủ nguyên tắc suy đoán vô tội khi trình bày diễn biến vụ việc.
+- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Đã phân tích chi tiết mối quan hệ nhân quả và phân biệt rạch ròi giữa Doanh thu (2,67 tỷ) và thiệt hại thực tế trong mục 3.2.
 
 ## Risks
-- Đảm bảo Chương 3 sắp tới bám chắc lý luận PLĐC về 4 yếu tố cấu thành vi phạm pháp luật.
+- Đảm bảo các mục 3.3 (Chủ thể) và 3.4 (Mặt chủ quan) sắp tới phân tích sâu sắc yếu tố lỗi, phân hóa vai trò và giữ vững nguyên tắc suy đoán vô tội.
 
 ## Latest Successful Git Commit
-1461e0b
+481e1fd
 
 ## Last Safe Checkpoint
-Checkpoint 2 (Case Overview)
+Checkpoint 3 (Object and Objective Elements)
 
 ## Exact Next Action
-Draft Section 3.1 (Khách thể) & Section 3.2 (Mặt khách quan) in Chapter 3 and execute Checkpoint 3.
+Draft Section 3.3 (Chủ thể), 3.4 (Mặt chủ quan) & 3.5 (Bảng tổng hợp) and execute Checkpoint 4.

@@ -51,6 +51,11 @@
   - [2.4. Diễn biến điều tra và trạng thái tố tụng hiện tại](#24-diễn-biến-điều-tra-và-trạng-thái-tố-tụng-hiện-tại)
   - [2.5. Bảng tổng hợp dữ kiện và dòng thời gian vụ việc](#25-bảng-tổng-hợp-dữ-kiện-và-dòng-thời-gian-vụ-việc)
 - [CHƯƠNG 3: PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TRONG VỤ VIỆC](#chương-3-phân-tích-các-yếu-tố-cấu-thành-vi-phạm-pháp-luật-trong-vụ-việc)
+  - [3.1. Phân tích yếu tố Khách thể của vi phạm pháp luật](#31-phân-tích-yếu-tố-khách-thể-của-vi-phạm-pháp-luật)
+  - [3.2. Phân tích yếu tố Mặt khách quan của vi phạm pháp luật](#32-phân-tích-yếu-tố-mặt-khách-quan-của-vi-phạm-pháp-luật)
+  - [3.3. Phân tích yếu tố Chủ thể của vi phạm pháp luật](#33-phân-tích-yếu-tố-chủ-thể-của-vi-phạm-pháp-luật)
+  - [3.4. Phân tích yếu tố Mặt chủ quan của vi phạm pháp luật](#34-phân-tích-yếu-tố-mặt-chủ-quan-của-vi-phạm-pháp-luật)
+  - [3.5. Bảng tổng hợp bốn yếu tố cấu thành vi phạm pháp luật](#35-bảng-tổng-hợp-bốn-yếu-tố-cấu-thành-vi-phạm-pháp-luật)
 - [CHƯƠNG 4: NHẬN XÉT, BÀI HỌC KINH NGHIỆM VÀ KIẾN NGHỊ](#chương-4-nhận-xét-bài-học-kinh-nghiệm-và-kiến-nghị)
 - [KẾT LUẬN](#kết-luận)
 - [TÀI LIỆU THAM KHẢO](#tài-liệu-tham-khảo)
@@ -279,3 +284,141 @@ Kết quả điều tra ban đầu xác định cơ cấu tổ chức của đư
 giá 23k từ cty Nguyệt    Chốt 5.429 đơn hàng; Thu     cấp; Thu giữ tang vật;   can về tội "Lừa dối
 Ánh; Tuyển dụng nhân sự  về hơn 2,67 tỷ đồng doanh thu Phong tỏa 1,77 tỷ đồng  khách hàng" (Đ198 BLHS)
 ```
+
+---
+
+# CHƯƠNG 3: PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TRONG VỤ VIỆC
+
+Chương 3 là phần trọng tâm cốt lõi của bài tiểu luận. Dưới góc độ lý luận môn học Pháp luật đại cương, việc xem xét hành vi của các đối tượng trong đường dây quảng cáo gian dối sản phẩm "Xương khớp bà Sáu" sẽ được tiến hành thông qua việc phân tích toàn diện bốn yếu tố cấu thành vi phạm pháp luật: Khách thể, Mặt khách quan, Chủ thể và Mặt chủ quan.
+
+## 3.1. Phân tích yếu tố Khách thể của vi phạm pháp luật
+
+### 3.1.1. Cơ sở lý luận áp dụng
+Như đã trình bày tại Chương 1, khách thể của vi phạm pháp luật là các quan hệ xã hội được pháp luật xác lập và bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại, làm thay đổi hoặc đe dọa làm biến đổi trạng thái an toàn, lành mạnh của các quan hệ đó. Khách thể phản ánh bản chất xã hội của hành vi vi phạm: hành vi càng xâm phạm đến các quan hệ xã hội quan trọng thì tính chất nguy hiểm cho xã hội càng cao.
+
+Trong hoạt động thương mại và tiếp thị sản phẩm chăm sóc sức khỏe, pháp luật bảo vệ đồng thời nhiều nhóm quan hệ xã hội mang tính rường cột, bao gồm: trật tự quản lý thị trường, quyền được bảo vệ an toàn tính mạng, sức khỏe và quyền được cung cấp thông tin trung thực của người tiêu dùng, cũng như quyền nhân thân về hình ảnh của cá nhân.
+
+### 3.1.2. Dữ kiện thực tế ghi nhận
+Trong vụ việc đang nghiên cứu, các dữ kiện điều tra ban đầu phản ánh rõ nét sự tác động tiêu cực đến các nhóm quan hệ xã hội:
+1. Sản phẩm "Xương khớp bà Sáu" có giá nhập chỉ 23.000 đồng nhưng được quảng cáo như một loại thuốc Đông y đặc trị, thổi phồng công dụng nhằm bán với giá 199.000 đồng.
+2. Hình ảnh, video của nhiều nghệ sĩ, bác sĩ, chuyên gia y tế uy tín bị cắt ghép trái phép, tạo dựng niềm tin gian dối cho người tiêu dùng.
+3. Hơn 5.429 đơn hàng đã được giao dịch thành công trên toàn quốc, tác động trực tiếp đến hàng ngàn bệnh nhân và người cao tuổi.
+
+### 3.1.3. Phân tích pháp lý chi tiết
+
+#### A. Các nhóm quan hệ xã hội bị xâm hại
+Dưới góc độ pháp lý, hành vi của các đối tượng trong đường dây đã trực tiếp xâm phạm ba nhóm quan hệ xã hội cụ thể:
+
+1. **Trật tự quản lý hành chính nhà nước trong lĩnh vực thương mại, dược phẩm và quảng cáo:**
+   Nhà nước ban hành các quy định pháp luật (Luật Quảng cáo 2012, Luật Dược 2016, Nghị định về quản lý thực phẩm bảo vệ sức khỏe) nhằm thiết lập một thị trường minh bạch, kiểm soát chất lượng hàng hóa y tế trước khi lưu thông. Việc tự ý dựng chuyện, phóng đại công dụng, kinh doanh sản phẩm Đông y mập mờ về chất lượng đã phá vỡ sự ổn định của trật tự quản lý thị trường, tạo ra sự cạnh tranh bất bình đẳng đối với các doanh nghiệp dược phẩm chân chính.
+
+2. **Quyền và lợi ích hợp pháp của người tiêu dùng:**
+   Đây là khách thể trực tiếp và chịu tổn hại nặng nề nhất. Căn cứ theo **Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng 2023**, pháp luật nghiêm cấm hành vi *“Lừa dối hoặc gây nhầm lẫn cho người tiêu dùng thông qua hoạt động cung cấp thông tin, quảng cáo...”*. Khách hàng có quyền được cung cấp thông tin chính xác, trung thực về nguồn gốc, thành phần, công dụng và giá cả của sản phẩm. Khi bị dẫn dắt bởi thông tin gian dối, quyền tự do lựa chọn dựa trên sự hiểu biết đúng đắn của người tiêu dùng đã bị tước đoạt. Nguy hiểm hơn, việc người bệnh xương khớp tin dùng sản phẩm kém chất lượng hoặc không đúng chỉ định y khoa có thể khiến họ bỏ lỡ "giai đoạn vàng" điều trị tại các bệnh viện chuyên khoa, đe dọa trực tiếp đến an toàn sức khỏe lâu dài.
+
+3. **Quyền nhân thân về hình ảnh và uy tín cá nhân của người nổi tiếng, chuyên gia:**
+   Theo quy định của Bộ luật Dân sự 2015 và Luật Quảng cáo 2012, việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý. Hành vi tự ý cắt ghép video của các nghệ sĩ, bác sĩ đầu ngành để gán ghép với sản phẩm đã xâm phạm nghiêm trọng đến quyền về hình ảnh, làm suy giảm uy tín và danh dự nghề nghiệp của các cá nhân này trước công chúng.
+
+#### B. Phân biệt Khách thể với Đối tượng tác động và Người bị ảnh hưởng
+Để đảm bảo tính chuẩn xác trong tư duy pháp lý của sinh viên đại học, bài tiểu luận phân định rạch ròi các khái niệm sau:
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ KHÁCH THỂ                                                              │
+│ - Quan hệ quản lý nhà nước về hoạt động thương mại & quảng cáo y dược. │
+│ - Quyền được bảo đảm an toàn sức khỏe, tài sản & thông tin của NTD.    │
+│ - Quan hệ pháp luật về bảo vệ quyền nhân thân (hình ảnh, danh dự).    │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼ tác động thông qua
+┌────────────────────────────────────────────────────────────────────────┐
+│ ĐỐI TƯỢNG TÁC ĐỘNG (VẬT THỂ / PHƯƠNG TIỆN CỤ THỂ)                     │
+│ - Sản phẩm hộp thảo dược "Xương khớp bà Sáu", vỏ hộp, tem nhãn.        │
+│ - Các video clip cắt ghép, bài viết quảng cáo sai sự thật trên mạng.   │
+│ - Số tiền thanh toán (2,67 tỷ đồng doanh thu) của người mua hàng.      │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼ gây thiệt hại cho
+┌────────────────────────────────────────────────────────────────────────┐
+│ NGƯỜI BỊ ẢNH HƯỞNG (CHỦ THỂ CỦA QUAN HỆ BỊ XÂM HẠI)                    │
+│ - 5.429 lượt người mua hàng (phần lớn là người cao tuổi, người bệnh).  │
+│ - Các văn nghệ sĩ, bác sĩ, chuyên gia y tế bị lợi dụng hình ảnh.       │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+### 3.1.4. Nhận xét tiểu mục 3.1
+Việc xác định đúng khách thể cho thấy tính chất nguy hiểm cao của vụ việc. Hành vi gian dối này không đơn thuần là giao dịch dân sự không trung thực mà đã xâm phạm cùng lúc đến nhiều trật tự pháp lý quan trọng được Nhà nước bảo hộ, đặc biệt là niềm tin xã hội và sức khỏe của cộng đồng trong môi trường thương mại điện tử.
+
+---
+
+## 3.2. Phân tích yếu tố Mặt khách quan của vi phạm pháp luật
+
+### 3.2.1. Cơ sở lý luận áp dụng
+Mặt khách quan của vi phạm pháp luật bao gồm các biểu hiện cụ thể ra bên ngoài thế giới thực tế, có thể cảm nhận và kiểm chứng được. Cấu thành mặt khách quan đòi hỏi phải chứng minh đầy đủ: hành vi trái pháp luật, hậu quả nguy hại cho xã hội, mối quan hệ nhân quả tất yếu giữa hành vi và hậu quả, cùng các điều kiện về không gian, thời gian, công cụ và phương tiện thực hiện vi phạm.
+
+### 3.2.2. Dữ kiện thực tế ghi nhận
+Cơ quan điều tra Công an tỉnh Phú Thọ đã thu thập hệ thống chứng cứ vật chất và dữ liệu điện tử chứng minh chuỗi hành vi liên hoàn của đường dây:
+- Hoạt động mua bán hàng ngàn sản phẩm với mức chênh lệch giá bất thường (mua 23.000 đồng, bán 199.000 đồng).
+- Xây dựng hệ thống các trang mạng xã hội để chạy chiến dịch quảng cáo với nội dung sai sự thật, sử dụng công nghệ cắt ghép video mạo danh người có uy tín.
+- Vận hành tổng đài telesale gọi điện tư vấn mạo nhận là chuyên gia, bác sĩ y học cổ truyền để ép khách mua hàng.
+- Thực hiện thành công 5.429 đơn hàng với tổng số tiền ghi nhận hơn 2,67 tỷ đồng trong giai đoạn từ tháng 5 đến tháng 7/2026.
+
+### 3.2.3. Phân tích pháp lý chi tiết
+
+#### A. Hành vi trái pháp luật (Hành vi khách quan)
+Chuỗi hành vi khách quan của các đối tượng thể hiện dưới dạng **hành động** và bao gồm bốn nhóm hành vi liên hoàn:
+
+1. **Hành vi quảng cáo sai sự thật, thổi phồng công dụng sản phẩm:**
+   Các đối tượng đã cố ý đưa ra các thông tin gian dối, biến một sản phẩm thảo dược hỗ trợ thông thường thành "bài thuốc thần kỳ" có khả năng trị dứt điểm các bệnh xương khớp nan y. Hành vi này vi phạm trực tiếp **khoản 9 Điều 8 Luật Quảng cáo 2012** (nghiêm cấm quảng cáo không đúng hoặc gây nhầm lẫn về chất lượng, công dụng của sản phẩm).
+
+2. **Hành vi giả mạo, sử dụng trái phép hình ảnh, video của người có uy tín:**
+   Nhóm kỹ thuật đã cắt ghép các video phỏng vấn của các bác sĩ đầu ngành và nghệ sĩ nổi tiếng, lồng ghép vào nội dung quảng cáo sản phẩm "Xương khớp bà Sáu" mà không có sự đồng ý của họ. Đây là hành vi mạo danh, tạo dựng chứng cứ giả mạo nhằm lừa dối người tiêu dùng về uy tín chuyên môn của sản phẩm.
+
+3. **Hành vi gian dối trong khâu tư vấn, bán hàng (Mạo danh chuyên gia y tế):**
+   Nhân viên telesale sử dụng các "kịch bản đóng vai" soạn sẵn, tự xưng là dược sĩ, bác sĩ để chẩn đoán bệnh từ xa qua điện thoại. Đây là hành vi tư vấn khám chữa bệnh trái pháp luật, trực tiếp đưa ra thông tin gian dối về tình trạng sức khỏe của khách hàng để thúc đẩy việc bán hàng với giá cao.
+
+4. **Hành vi phân phối, thu lợi bất chính từ việc lừa dối khách hàng:**
+   Thực hiện việc đóng gói, chuyển phát sản phẩm và thu tiền với mức giá 199.000 đồng/hộp dựa trên toàn bộ chuỗi thông tin gian dối đã thiết lập trước đó. Hành vi này thỏa mãn dấu hiệu hành vi của tội *"Lừa dối khách hàng"* quy định tại **Điều 198 Bộ luật Hình sự**.
+
+#### B. Phương thức, thủ đoạn, công cụ và phương tiện thực hiện
+- **Phương thức thủ đoạn:** Lợi dụng tính ẩn danh và khả năng lan tỏa nhanh chóng của mạng xã hội (Facebook, TikTok) kết hợp với công nghệ chỉnh sửa đa phương tiện để tạo vỏ bọc chuyên môn đáng tin cậy. Nhóm đối tượng vận hành quy trình khép kín: Truyền thông tiếp thị $\rightarrow$ Tư vấn thao túng tâm lý $\rightarrow$ Giao hàng thu hộ COD để che giấu danh tính và địa điểm hoạt động thực tế.
+- **Công cụ, phương tiện:** Hệ thống máy vi tính, điện thoại thông minh, tài khoản quảng cáo trực tuyến, phần mềm dựng video, hệ thống máy in vận đơn và các dịch vụ chuyển phát nhanh bưu chính.
+- **Thời gian và không gian:** Hành vi diễn ra liên tục từ đầu năm 2026, cao điểm từ tháng 5/2026 đến tháng 7/2026; không gian vi phạm diễn ra trên phạm vi toàn quốc thông qua không gian mạng và mạng lưới bưu chính.
+
+#### C. Hậu quả nguy hiểm cho xã hội
+Hậu quả của hành vi vi phạm pháp luật trong vụ việc thể hiện trên hai phương diện:
+
+1. **Hậu quả về mặt vật chất và trật tự kinh tế:**
+   - 5.429 đơn hàng được xác nhận giao dịch thành công với tổng giá trị hơn 2,67 tỷ đồng.
+   - *Phân biệt giữa Doanh thu và Thiệt hại thực tế:* Cần lưu ý rằng con số **2,67 tỷ đồng là tổng doanh thu bán hàng**, không tự động đồng nhất hoàn toàn với số tiền thiệt hại thực tế của khách hàng (do trong giá bán có thể có một phần giá trị thực của sản phẩm thảo dược và các chi phí trung gian). Tuy nhiên, con số này phản ánh quy mô tài chính đặc biệt lớn của hành vi lừa dối, vượt xa ngưỡng khởi điểm định lượng trách nhiệm hình sự (50 triệu đồng theo khoản 2 Điều 198 BLHS).
+
+2. **Hậu quả phi vật chất và tác động sức khỏe cộng đồng:**
+   - Gây hoang mang, làm xói mòn niềm tin của người dân vào nền y học cổ truyền và hệ thống thương mại trực tuyến.
+   - Gây nguy cơ suy giảm sức khỏe của người bệnh do sử dụng sản phẩm không rõ chất lượng và trì hoãn việc điều trị y tế chính quy.
+   - Gây tổn hại danh dự, uy tín nghề nghiệp của các chuyên gia y tế, nghệ sĩ bị lợi dụng hình ảnh.
+
+#### D. Mối quan hệ nhân quả giữa hành vi và hậu quả
+Quan hệ nhân quả trong vụ việc mang tính chất trực tiếp và tất yếu:
+- Chuỗi hành vi quảng cáo gian dối, cắt ghép video nghệ sĩ và mạo danh bác sĩ tư vấn (Nguyên nhân) đã trực tiếp tạo ra sự nhầm lẫn, tin tưởng sai lệch trong tâm trí của khách hàng.
+- Xuất phát từ sự tin tưởng sai lệch này, 5.429 khách hàng đã quyết định chi trả số tiền 199.000 đồng/sản phẩm để mua hàng (Hậu quả).
+- Nếu không có hành vi quảng cáo phóng đại và tư vấn giả mạo thì khách hàng sẽ không bao giờ chấp nhận mua một sản phẩm thảo dược thông thường với giá tiền cao gấp gần 9 lần giá gốc.
+
+```
+┌───────────────────────────────┐
+│     HÀNH VI NGUYÊN NHÂN       │
+│ - Quảng cáo thổi phồng        │
+│ - Cắt ghép clip người uy tín  │
+│ - Telesale mạo danh bác sĩ    │
+└──────────────┬────────────────┘
+               │
+               │ (Tác động tâm lý, tạo niềm tin sai lệch)
+               ▼
+┌───────────────────────────────┐
+│       HẬU QUẢ TẤT YẾU         │
+│ - 5.429 đơn hàng bị lừa dối   │
+│ - Chiếm đoạt tiền của khách   │
+│ - Gây thiệt hại sức khỏe & VT │
+└───────────────────────────────┘
+```
+
+### 3.2.4. Nhận xét tiểu mục 3.2
+Mặt khách quan của vụ việc thể hiện đầy đủ tính chất nguy hiểm cao của hành vi vi phạm pháp luật có tổ chức trong thời đại số: phương thức tinh vi, công cụ công nghệ hiện đại, quy mô giao dịch lớn và hậu quả xâm hại trực tiếp đến quyền lợi kinh tế cũng như sức khỏe của hàng ngàn người dân.
