@@ -5,225 +5,297 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Báo cáo Tiểu luận Pháp luật đại cương - UIT</title>
     <style>
+        @page {
+            size: A4;
+            margin: 25mm 20mm 20mm 20mm;
+        }
         :root {
-            --primary-color: #0d47a1;
-            --secondary-color: #1565c0;
-            --text-color: #212121;
+            --text-color: #111111;
+            --heading-color: #0d233a;
+            --subheading-color: #1a365d;
             --bg-color: #ffffff;
-            --sidebar-bg: #f8f9fa;
-            --border-color: #e0e0e0;
-            --highlight: #e3f2fd;
+            --border-color: #333333;
         }
         body {
-            font-family: 'Times New Roman', Times, serif, system-ui, -apple-system, sans-serif;
-            line-height: 1.6;
+            font-family: 'Times New Roman', Times, Georgia, serif;
+            font-size: 13pt;
+            line-height: 1.5;
             color: var(--text-color);
-            background-color: #f4f6f9;
+            background-color: #f8f9fa;
             margin: 0;
             padding: 0;
         }
-        .container {
-            max-width: 900px;
+        .page-container {
+            max-width: 850px;
             margin: 30px auto;
             background: #ffffff;
-            padding: 60px 80px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-            border-radius: 4px;
+            padding: 50px 70px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            box-sizing: border-box;
         }
+        /* Cover Page */
         .cover-page {
             text-align: center;
-            border: 2px solid #1a237e;
-            padding: 40px;
+            border: 2px double #000000;
+            padding: 40px 30px;
             margin-bottom: 50px;
             page-break-after: always;
+            box-sizing: border-box;
         }
-        .cover-header {
-            font-size: 16pt;
+        .cover-institution {
+            font-size: 13pt;
             font-weight: bold;
             text-transform: uppercase;
-            margin-bottom: 20px;
             line-height: 1.4;
         }
-        .divider {
-            width: 150px;
-            height: 2px;
-            background-color: #1a237e;
-            margin: 15px auto 30px auto;
+        .cover-line {
+            width: 140px;
+            height: 1px;
+            background: #000000;
+            margin: 12px auto 30px auto;
         }
-        .report-title-box {
+        .cover-title-area {
             margin: 60px 0;
         }
-        .report-label {
+        .cover-type {
             font-size: 14pt;
             font-weight: bold;
             text-transform: uppercase;
-            color: #333;
+            margin-bottom: 10px;
         }
-        .report-title {
-            font-size: 20pt;
-            font-weight: bold;
-            color: #0d47a1;
-            margin-top: 15px;
-            line-height: 1.3;
-            text-transform: uppercase;
-        }
-        .meta-box {
-            text-align: left;
-            margin: 60px auto 30px auto;
-            width: 80%;
+        .cover-subject {
             font-size: 13pt;
+            font-weight: bold;
+            margin-bottom: 25px;
+        }
+        .cover-topic {
+            font-size: 18pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            line-height: 1.35;
+            color: var(--heading-color);
+            padding: 0 15px;
+        }
+        .cover-meta {
+            text-align: left;
+            margin: 70px auto 30px 60px;
+            width: 80%;
+            font-size: 12.5pt;
             line-height: 1.8;
         }
-        .location-year {
-            margin-top: 40px;
-            font-size: 13pt;
+        .cover-location {
+            margin-top: 50px;
+            font-size: 12pt;
             font-weight: bold;
-        }
-        h1 {
-            color: var(--primary-color);
-            border-bottom: 2px solid var(--secondary-color);
-            padding-bottom: 8px;
-            margin-top: 40px;
-            font-size: 18pt;
             text-transform: uppercase;
         }
-        h2 {
-            color: var(--secondary-color);
-            margin-top: 25px;
+        /* Headings */
+        h1 {
             font-size: 15pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: var(--heading-color);
+            border-bottom: 1.5px solid #000000;
+            padding-bottom: 5px;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            page-break-after: avoid;
+        }
+        h2 {
+            font-size: 13.5pt;
+            font-weight: bold;
+            color: var(--subheading-color);
+            margin-top: 25px;
+            margin-bottom: 10px;
+            page-break-after: avoid;
         }
         h3 {
-            color: #2e7d32;
-            margin-top: 20px;
-            font-size: 13.5pt;
+            font-size: 13pt;
+            font-weight: bold;
+            color: #222222;
+            margin-top: 18px;
+            margin-bottom: 8px;
+            page-break-after: avoid;
         }
         h4 {
-            color: #424242;
-            margin-top: 15px;
-            font-size: 12.5pt;
+            font-size: 13pt;
+            font-weight: bold;
+            font-style: italic;
+            color: #333333;
+            margin-top: 14px;
+            margin-bottom: 6px;
+            page-break-after: avoid;
         }
         p {
-            font-size: 13pt;
             text-align: justify;
             text-indent: 1.25cm;
-            margin-bottom: 12px;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        p.no-indent {
+            text-indent: 0;
         }
         ul, ol {
-            font-size: 13pt;
-            margin-bottom: 15px;
-            padding-left: 40px;
+            margin-top: 0;
+            margin-bottom: 12px;
+            padding-left: 35px;
         }
         li {
-            margin-bottom: 6px;
             text-align: justify;
+            margin-bottom: 5px;
         }
+        /* Tables */
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 25px 0;
+            margin: 20px 0;
             font-size: 11.5pt;
+            page-break-inside: avoid;
         }
         table, th, td {
-            border: 1px solid #9e9e9e;
+            border: 1px solid #333333;
         }
         th {
-            background-color: #f5f5f5;
-            color: #0d47a1;
+            background-color: #f2f2f2;
             font-weight: bold;
-            padding: 10px;
             text-align: center;
+            padding: 8px 6px;
+            color: #000000;
         }
         td {
-            padding: 8px 12px;
+            padding: 6px 10px;
             vertical-align: top;
         }
+        /* ASCII Diagrams / Preformatted */
         pre {
-            background: #f8f9fa;
-            border: 1px solid #cfd8dc;
-            border-left: 4px solid var(--primary-color);
-            padding: 15px;
+            background-color: #fafafa;
+            border: 1px solid #cccccc;
+            padding: 12px;
+            font-family: 'Consolas', 'Courier New', monospace;
+            font-size: 10pt;
+            line-height: 1.3;
             overflow-x: auto;
-            font-family: Consolas, monospace;
-            font-size: 11pt;
-            line-height: 1.4;
-            margin: 20px 0;
+            margin: 18px 0;
+            page-break-inside: avoid;
         }
         blockquote {
-            background: #e8f5e9;
-            border-left: 5px solid #2e7d32;
-            margin: 20px 0;
-            padding: 12px 20px;
+            margin: 15px 0;
+            padding: 10px 18px;
+            background-color: #f9f9f9;
+            border-left: 3px solid #666666;
             font-style: italic;
-            font-size: 12.5pt;
+            font-size: 12pt;
         }
-        .toc {
-            background: #fafafa;
-            border: 1px solid #e0e0e0;
+        /* Table of Contents */
+        .toc-box {
+            background: #ffffff;
+            border: 1px solid #cccccc;
             padding: 20px 30px;
-            margin-bottom: 40px;
-            border-radius: 4px;
+            margin-bottom: 35px;
         }
-        .toc ul {
+        .toc-box h2 {
+            text-align: center;
+            margin-top: 0;
+            text-transform: uppercase;
+        }
+        .toc-box ul {
             list-style-type: none;
-            padding-left: 20px;
+            padding-left: 15px;
         }
-        .toc > ul {
+        .toc-box > ul {
             padding-left: 0;
         }
-        .toc a {
-            color: #1565c0;
+        .toc-box li {
+            margin-bottom: 4px;
+        }
+        .toc-box a {
+            color: #003366;
             text-decoration: none;
         }
-        .toc a:hover {
+        .toc-box a:hover {
             text-decoration: underline;
         }
+        /* Print Rules */
         @media print {
-            body { background: transparent; }
-            .container { box-shadow: none; padding: 0; margin: 0; max-width: 100%; }
+            body {
+                background: #ffffff;
+                font-size: 12pt;
+            }
+            .page-container {
+                max-width: 100%;
+                margin: 0;
+                padding: 0;
+                box-shadow: none;
+            }
+            .cover-page {
+                border: 2px solid #000000;
+                height: 98vh;
+                margin: 0;
+                padding: 40px;
+            }
+            a {
+                color: #000000;
+                text-decoration: none;
+            }
+            h1 {
+                page-break-before: always;
+                margin-top: 20px;
+            }
+            #modau {
+                page-break-before: always;
+            }
+            .toc-box {
+                page-break-after: always;
+                border: none;
+                padding: 0;
+            }
         }
     </style>
 </head>
 <body>
 
-<div class="container">
+<div class="page-container">
+
+    <!-- TRANG BÌA CHUẨN ĐẠI HỌC -->
     <div class="cover-page">
-        <div class="cover-header">
+        <div class="cover-institution">
             ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH<br>
             TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN<br>
-            KHOA LÝ LUẬN CHÍNH TRỊ
+            BỘ MÔN LÝ LUẬN CHÍNH TRỊ
         </div>
-        <div class="divider"></div>
+        <div class="cover-line"></div>
 
-        <div class="report-title-box">
-            <div class="report-label">BÁO CÁO BÀI TẬP NHÓM TIỂU LUẬN</div>
-            <div style="font-size: 14pt; margin-top: 10px; font-weight: bold;">MÔN: PHÁP LUẬT ĐẠI CƯƠNG</div>
-            <div class="report-title">
+        <div class="cover-title-area">
+            <div class="cover-type">BÁO CÁO TIỂU LUẬN</div>
+            <div class="cover-subject">MÔN HỌC: PHÁP LUẬT ĐẠI CƯƠNG</div>
+            <div class="cover-topic">
                 PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TỪ VỤ VIỆC QUẢNG CÁO GIAN DỐI SẢN PHẨM ĐÔNG Y TRÊN MẠNG XÃ HỘI
             </div>
         </div>
 
-        <div class="meta-box">
+        <div class="cover-meta">
             <div><strong>Giảng viên hướng dẫn:</strong> [Placeholder - Tên Giảng viên]</div>
             <div><strong>Lớp học phần:</strong> [Placeholder - Mã Lớp]</div>
             <div><strong>Nhóm sinh viên thực hiện:</strong> [Placeholder - Nhóm Số]</div>
-            <div><strong>Mã số sinh viên:</strong> [Placeholder - Danh sách MSSV]</div>
+            <div><strong>Năm học:</strong> 2025 – 2026</div>
         </div>
 
-        <div class="location-year">
+        <div class="cover-location">
             THÀNH PHỐ HỒ CHÍ MINH, NĂM 2026
         </div>
     </div>
 
+    <!-- DANH SÁCH THÀNH VIÊN -->
     <h1>DANH SÁCH THÀNH VIÊN VÀ PHÂN CÔNG NHIỆM VỤ</h1>
     <table>
         <thead>
             <tr>
-                <th>STT</th>
-                <th>Họ và tên</th>
-                <th>Mã số sinh viên</th>
-                <th>Vai trò</th>
-                <th>Nội dung phân công</th>
-                <th>Đánh giá</th>
+                <th style="width: 7%;">STT</th>
+                <th style="width: 23%;">Họ và tên</th>
+                <th style="width: 15%;">Mã số sinh viên</th>
+                <th style="width: 15%;">Vai trò</th>
+                <th style="width: 30%;">Nội dung phân công</th>
+                <th style="width: 10%;">Đánh giá</th>
             </tr>
         </thead>
         <tbody>
@@ -270,162 +342,574 @@
         </tbody>
     </table>
 
-    <div class="toc">
-        <h2 style="margin-top: 0; text-align: center;">MỤC LỤC BÁO CÁO</h2>
+    <!-- MỤC LỤC -->
+    <div class="toc-box">
+        <h2>MỤC LỤC</h2>
         <ul>
-            <li><strong><a href="#modau">MỞ ĐẦU</a></strong></li>
+            <li><strong><a href="#modau">MỞ ĐẦU</a></strong>
+                <ul>
+                    <li><a href="#modau-1">1. Lý do chọn đề tài</a></li>
+                    <li><a href="#modau-2">2. Mục tiêu nghiên cứu</a></li>
+                    <li><a href="#modau-3">3. Đối tượng nghiên cứu</a></li>
+                    <li><a href="#modau-4">4. Phạm vi nghiên cứu</a></li>
+                    <li><a href="#modau-5">5. Phương pháp nghiên cứu</a></li>
+                </ul>
+            </li>
             <li><strong><a href="#chuong1">CHƯƠNG 1: CƠ SỞ LÝ LUẬN VỀ VI PHẠM PHÁP LUẬT VÀ CẤU THÀNH VI PHẠM PHÁP LUẬT</a></strong>
                 <ul>
-                    <li>1.1. Khái niệm vi phạm pháp luật</li>
-                    <li>1.2. Các dấu hiệu cơ bản của vi phạm pháp luật</li>
-                    <li>1.3. Khái niệm và ý nghĩa của cấu thành vi phạm pháp luật</li>
-                    <li>1.4. Khách thể của vi phạm pháp luật</li>
-                    <li>1.5. Mặt khách quan của vi phạm pháp luật</li>
-                    <li>1.6. Chủ thể của vi phạm pháp luật</li>
-                    <li>1.7. Mặt chủ quan của vi phạm pháp luật</li>
+                    <li><a href="#chuong1-1">1.1. Khái niệm vi phạm pháp luật</a></li>
+                    <li><a href="#chuong1-2">1.2. Các dấu hiệu cơ bản của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong1-3">1.3. Khái niệm và ý nghĩa của cấu thành vi phạm pháp luật</a></li>
+                    <li><a href="#chuong1-4">1.4. Khách thể của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong1-5">1.5. Mặt khách quan của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong1-6">1.6. Chủ thể của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong1-7">1.7. Mặt chủ quan của vi phạm pháp luật</a></li>
                 </ul>
             </li>
             <li><strong><a href="#chuong2">CHƯƠNG 2: KHÁI QUÁT VỤ VIỆC QUẢNG CÁO GIAN DỐI SẢN PHẨM ĐÔNG Y TRÊN MẠNG XÃ HỘI</a></strong>
                 <ul>
-                    <li>2.1. Nguồn gốc thông tin và bối cảnh vụ việc</li>
-                    <li>2.2. Phương thức và thủ đoạn hoạt động</li>
-                    <li>2.3. Các chủ thể liên quan và phân công vai trò</li>
-                    <li>2.4. Diễn biến điều tra và trạng thái tố tụng hiện tại</li>
-                    <li>2.5. Bảng tổng hợp dữ kiện và dòng thời gian vụ việc</li>
+                    <li><a href="#chuong2-1">2.1. Nguồn gốc thông tin và bối cảnh vụ việc</a></li>
+                    <li><a href="#chuong2-2">2.2. Phương thức và diễn biến hành vi theo thông tin điều tra ban đầu</a></li>
+                    <li><a href="#chuong2-3">2.3. Các chủ thể liên quan và phân công vai trò</a></li>
+                    <li><a href="#chuong2-4">2.4. Trạng thái tố tụng hiện tại</a></li>
+                    <li><a href="#chuong2-5">2.5. Bảng tổng hợp dữ kiện và dòng thời gian vụ việc</a></li>
                 </ul>
             </li>
             <li><strong><a href="#chuong3">CHƯƠNG 3: PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TRONG VỤ VIỆC</a></strong>
                 <ul>
-                    <li>3.1. Phân tích yếu tố Khách thể của vi phạm pháp luật</li>
-                    <li>3.2. Phân tích yếu tố Mặt khách quan của vi phạm pháp luật</li>
-                    <li>3.3. Phân tích yếu tố Chủ thể của vi phạm pháp luật</li>
-                    <li>3.4. Phân tích yếu tố Mặt chủ quan của vi phạm pháp luật</li>
-                    <li>3.5. Bảng tổng hợp bốn yếu tố cấu thành vi phạm pháp luật</li>
+                    <li><a href="#chuong3-1">3.1. Phân tích yếu tố Khách thể của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong3-2">3.2. Phân tích yếu tố Mặt khách quan của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong3-3">3.3. Phân tích yếu tố Chủ thể của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong3-4">3.4. Phân tích yếu tố Mặt chủ quan của vi phạm pháp luật</a></li>
+                    <li><a href="#chuong3-5">3.5. Bảng tổng hợp bốn yếu tố cấu thành vi phạm pháp luật</a></li>
                 </ul>
             </li>
-            <li><strong><a href="#chuong4">CHƯƠNG 4: NHẬN XÉT, BÀI HỌC KINH NGHIỆM VÀ KIẾN NGHỊ</a></strong></li>
+            <li><strong><a href="#chuong4">CHƯƠNG 4: NHẬN XÉT, BÀI HỌC KINH NGHIỆM VÀ KIẾN NGHỊ</a></strong>
+                <ul>
+                    <li><a href="#chuong4-1">4.1. Nhận xét đánh giá tổng quan về tính chất vi phạm trên không gian mạng</a></li>
+                    <li><a href="#chuong4-2">4.2. Bài học kinh nghiệm đối với hoạt động kinh doanh trực tuyến</a></li>
+                    <li><a href="#chuong4-3">4.3. Bài học cảnh giác và tự bảo vệ đối với người tiêu dùng</a></li>
+                    <li><a href="#chuong4-4">4.4. Bài học nâng cao nhận thức pháp luật và đạo đức số cho sinh viên CNTT</a></li>
+                    <li><a href="#chuong4-5">4.5. Một số kiến nghị thực tiễn nhằm hoàn thiện cơ chế quản lý</a></li>
+                </ul>
+            </li>
             <li><strong><a href="#ketluan">KẾT LUẬN</a></strong></li>
             <li><strong><a href="#tailieuthamkhao">TÀI LIỆU THAM KHẢO</a></strong></li>
         </ul>
     </div>
 
+    <!-- MỞ ĐẦU -->
     <h1 id="modau">MỞ ĐẦU</h1>
-    <h2>1. Lý do chọn đề tài</h2>
-    <p>Trong sự phát triển mạnh mẽ của kinh tế số và mạng xã hội tại Việt Nam, các nền tảng trực tuyến như Facebook, TikTok hay các ứng dụng thương mại điện tử đã trở thành kênh tiếp thị và phân phối hàng hóa phổ biến. Tuy nhiên, mặt trái của sự tiện lợi này là sự xuất hiện ngày càng tinh vi của các hành vi gian dối thương mại, tiếp thị sai lệch và lừa dối người tiêu dùng. Đặc biệt, trong lĩnh vực y dược và thực phẩm chăm sóc sức khỏe – nhóm sản phẩm tác động trực tiếp đến tính mạng, sức khỏe của người dân – tình trạng quảng cáo thổi phồng công dụng, cắt ghép trái phép hình ảnh nhân vật uy tín để bán hàng giá cao diễn ra hết sức phức tạp.</p>
-    <p>Vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ khởi tố 21 bị can trong đường dây sản xuất, phân phối và quảng cáo gian dối sản phẩm Đông y "Xương khớp bà Sáu" trên mạng xã hội vào tháng 8/2026 là một tình huống điển hình. Vụ việc thể hiện đầy đủ các khía cạnh pháp lý: từ việc tổ chức đường dây quy mô lớn, lợi dụng công nghệ truyền thông đa phương tiện để đánh lừa khách hàng, cho đến việc xâm phạm nghiêm trọng quyền lợi người tiêu dùng và trật tự quản lý kinh tế của Nhà nước.</p>
-    <p>Dưới góc độ môn học Pháp luật đại cương, việc nghiên cứu vụ việc này mang lại giá trị thực tiễn và học thuật sâu sắc. Đây là cơ hội để sinh viên củng cố tri thức lý luận về cấu thành vi phạm pháp luật, rèn luyện kỹ năng phân tích hành vi pháp lý dựa trên dữ kiện thực tế, đồng thời nâng cao ý thức tuân thủ pháp luật trong môi trường số đối với sinh viên công nghệ thông tin.</p>
+    <h2 id="modau-1">1. Lý do chọn đề tài</h2>
+    <p>Trong sự phát triển nhanh chóng của nền kinh tế số và mạng xã hội tại Việt Nam, các nền tảng trực tuyến như Facebook, TikTok hay các ứng dụng thương mại điện tử đã trở thành kênh tiếp thị và phân phối hàng hóa phổ biến. Tuy nhiên, cùng với những tiện ích đó, tình trạng tiếp thị sai lệch, cung cấp thông tin không trung thực và lừa dối người tiêu dùng trên không gian mạng cũng diễn biến ngày càng phức tạp. Đặc biệt, trong nhóm sản phẩm chăm sóc sức khỏe và thảo dược Đông y – lĩnh vực liên quan mật thiết đến thể trạng người dân – các hành vi cắt ghép hình ảnh người có uy tín để thổi phồng công dụng sản phẩm nhằm bán hàng giá cao đang đặt ra nhiều vấn đề pháp lý đáng lưu tâm.</p>
+    <p>Vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ ra quyết định khởi tố vụ án, khởi tố 21 bị can liên quan đến đường dây quảng cáo gian dối sản phẩm Đông y mang nhãn hiệu "Xương khớp bà Sáu" trên không gian mạng vào tháng 8/2026 là một trường hợp thực tiễn điển hình. Dưới góc độ môn học Pháp luật đại cương, vụ việc thể hiện rõ các dấu hiệu của hành vi vi phạm pháp luật có tổ chức trên môi trường trực tuyến, xâm phạm trật tự quản lý thương mại và quyền lợi của người tiêu dùng.</p>
+    <p>Việc lựa chọn đề tài này giúp sinh viên củng cố vững chắc tri thức lý luận về cấu thành vi phạm pháp luật (Khách thể, Mặt khách quan, Chủ thể, Mặt chủ quan), rèn luyện kỹ năng phân tích hành vi dựa trên các dữ kiện công khai chính thức, đồng thời nâng cao ý thức tuân thủ pháp luật và đạo đức nghề nghiệp trong thời đại số đối với sinh viên Trường Đại học Công nghệ Thông tin – ĐHQG-HCM.</p>
 
-    <h2>2. Mục tiêu nghiên cứu</h2>
+    <h2 id="modau-2">2. Mục tiêu nghiên cứu</h2>
     <ul>
         <li>Hệ thống hóa các kiến thức lý luận nền tảng về vi phạm pháp luật và bốn yếu tố cấu thành vi phạm pháp luật theo chương trình môn học Pháp luật đại cương.</li>
-        <li>Thu thập, đối chiếu và làm rõ các dữ kiện thực tế đã được cơ quan điều tra công bố liên quan đến đường dây quảng cáo gian dối sản phẩm Đông y.</li>
-        <li>Ứng dụng mô hình bốn yếu tố (Khách thể, Mặt khách quan, Chủ thể, Mặt chủ quan) để phân tích toàn diện hành vi vi phạm trong vụ việc.</li>
-        <li>Đúc kết các bài học kinh nghiệm về mặt pháp lý và thực tiễn cho người kinh doanh, người tiêu dùng và sinh viên, từ đó đề xuất một số kiến nghị góp phần nâng cao hiệu quả phòng ngừa vi phạm.</li>
+        <li>Thu thập, tổng hợp và đối chiếu các dữ kiện thực tế đã được cơ quan điều tra và báo chí chính thống công bố liên quan đến vụ việc tại Phú Thọ.</li>
+        <li>Vận dụng mô hình bốn yếu tố cấu thành vi phạm pháp luật để phân tích một cách có hệ thống, khách quan bản chất pháp lý của hành vi.</li>
+        <li>Rút ra những bài học kinh nghiệm thiết thực cho người kinh doanh, người tiêu dùng và sinh viên, từ đó đề xuất một số kiến nghị góp phần nâng cao hiệu quả phòng ngừa vi phạm.</li>
     </ul>
 
-    <h2>3. Đối tượng nghiên cứu</h2>
-    <p>Đối tượng nghiên cứu của tiểu luận là các yếu tố cấu thành vi phạm pháp luật trong vụ việc khởi tố đường dây quảng cáo gian dối sản phẩm Đông y "Xương khớp bà Sáu" trên mạng xã hội.</p>
+    <h2 id="modau-3">3. Đối tượng nghiên cứu</h2>
+    <p>Đối tượng nghiên cứu của tiểu luận là các yếu tố cấu thành vi phạm pháp luật trong vụ việc khởi tố đường dây quảng cáo gian dối sản phẩm Đông y "Xương khớp bà Sáu" trên mạng xã hội theo thông tin công bố của cơ quan chức năng tỉnh Phú Thọ.</p>
 
-    <h2>4. Phạm vi nghiên cứu</h2>
+    <h2 id="modau-4">4. Phạm vi nghiên cứu</h2>
     <ul>
-        <li><strong>Phạm vi nội dung:</strong> Tập trung vào lý luận cấu thành vi phạm pháp luật của môn học Pháp luật đại cương. Các quy định của Bộ luật Hình sự 2015, Luật Quảng cáo 2012 và Luật Bảo vệ quyền lợi người tiêu dùng 2023 được sử dụng như cơ sở pháp lý tham chiếu để xác định tính trái pháp luật của hành vi.</li>
-        <li><strong>Phạm vi dữ liệu:</strong> Nghiên cứu dựa trên các thông tin, dữ liệu chính thức được cơ quan chức năng công bố trên các phương tiện truyền thông chính thống tính đến thời điểm tháng 8/2026.</li>
-        <li><strong>Lưu ý nguyên tắc tố tụng:</strong> Do vụ án đang trong giai đoạn điều tra mở rộng và chưa có bản án có hiệu lực pháp luật của Tòa án, toàn bộ các phân tích trong tiểu luận được tiếp cận dưới góc độ lý luận khoa học pháp lý trên cơ sở dữ liệu cáo buộc ban đầu, hoàn toàn tôn trọng nguyên tắc suy đoán vô tội.</li>
+        <li><strong>Phạm vi nội dung:</strong> Tập trung vào lý luận cấu thành vi phạm pháp luật của môn học Pháp luật đại cương. Các quy định pháp luật hiện hành như Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017), Luật Quảng cáo năm 2012 (sửa đổi, bổ sung năm 2018 và năm 2025), Luật Bảo vệ quyền lợi người tiêu dùng năm 2023 và Bộ luật Dân sự năm 2015 được sử dụng làm cơ sở pháp lý tham chiếu để đối chiếu tính trái pháp luật của hành vi.</li>
+        <li><strong>Phạm vi dữ liệu:</strong> Dữ liệu nghiên cứu được trích xuất từ các nguồn tin tức chính thức do cơ quan công an công bố qua các cơ quan thông tấn, báo chí nhà nước (Cổng thông tin điện tử Chính phủ, Báo Tuổi Trẻ, Báo Tiền Phong, Đài Truyền hình Việt Nam VTV, Báo Cựu chiến binh Việt Nam, Báo Doanh nghiệp & Hội nhập) tính đến tháng 8/2026.</li>
+        <li><strong>Nguyên tắc tôn trọng tố tụng:</strong> Do vụ án đang trong giai đoạn điều tra mở rộng và chưa có bản án có hiệu lực pháp luật của Tòa án nhân dân có thẩm quyền, bài tiểu luận tiếp cận vấn đề hoàn toàn dưới góc độ nghiên cứu học thuật thuần túy, dựa trên các dữ kiện cáo buộc ban đầu và tuân thủ chặt chẽ nguyên tắc suy đoán vô tội.</li>
     </ul>
 
-    <h2>5. Phương pháp nghiên cứu</h2>
-    <p>Tiểu luận sử dụng kết hợp các phương pháp nghiên cứu khoa học xã hội và pháp lý: phương pháp phân tích và tổng hợp lý thuyết, phương pháp nghiên cứu tình huống (Case study), phương pháp đối chiếu so sánh quy phạm pháp luật và phương pháp logic pháp lý.</p>
+    <h2 id="modau-5">5. Phương pháp nghiên cứu</h2>
+    <p>Tiểu luận sử dụng các phương pháp nghiên cứu khoa học xã hội và pháp lý cơ bản: Phương pháp phân tích và tổng hợp tài liệu, Phương pháp nghiên cứu trường hợp (Case study), Phương pháp đối chiếu quy phạm, Phương pháp logic học.</p>
 
+    <!-- CHƯƠNG 1 -->
     <h1 id="chuong1">CHƯƠNG 1: CƠ SỞ LÝ LUẬN VỀ VI PHẠM PHÁP LUẬT VÀ CẤU THÀNH VI PHẠM PHÁP LUẬT</h1>
-    <h2>1.1. Khái niệm vi phạm pháp luật</h2>
-    <p>Theo giáo trình Pháp luật đại cương, <strong>vi phạm pháp luật</strong> là hành vi (hành động hoặc không hành động) trái pháp luật, có lỗi, do chủ thể có năng lực trách nhiệm pháp lý thực hiện, xâm hại đến các quan hệ xã hội được pháp luật bảo vệ.</p>
 
-    <h2>1.2. Các dấu hiệu cơ bản của vi phạm pháp luật</h2>
+    <h2 id="chuong1-1">1.1. Khái niệm vi phạm pháp luật</h2>
+    <p>Trong đời sống xã hội, pháp luật giữ vai trò là quy tắc xử sự chung có tính bắt buộc, do Nhà nước ban hành hoặc thừa nhận nhằm duy trì trật tự xã hội và bảo vệ quyền, lợi ích hợp pháp của các chủ thể. Khi một chủ thể thực hiện hành vi trái với các quy định đó, gây nguy hại hoặc đe dọa gây nguy hại cho xã hội thì hành vi đó bị xác định là vi phạm pháp luật.</p>
+    <p>Theo giáo trình Pháp luật đại cương, <strong>vi phạm pháp luật</strong> là hành vi (hành động hoặc không hành động) trái pháp luật, có lỗi, do chủ thể có năng lực trách nhiệm pháp lý thực hiện, xâm hại đến các quan hệ xã hội được pháp luật bảo vệ.</p>
+    <p>Vi phạm pháp luật là hiện tượng xã hội – pháp lý tiêu cực, thể hiện sự xâm phạm trật tự kỷ cương do Nhà nước xác lập và là cơ sở duy nhất để truy cứu trách nhiệm pháp lý.</p>
+
+    <h2 id="chuong1-2">1.2. Các dấu hiệu cơ bản của vi phạm pháp luật</h2>
+    <p>Để nhận diện một hiện tượng thực tế có phải là vi phạm pháp luật hay không, khoa học pháp lý xác định bốn dấu hiệu đặc trưng bắt buộc phải hội tụ đồng thời:</p>
     <ol>
-        <li><strong>Là hành vi xác định của con người:</strong> Pháp luật chỉ điều chỉnh hành vi thực tế bộc lộ ra thế giới khách quan (hành động hoặc không hành động), không điều chỉnh suy nghĩ nội tâm.</li>
-        <li><strong>Có tính chất trái pháp luật:</strong> Xử sự không phù hợp với quy tắc pháp luật (làm điều pháp luật cấm, không làm điều pháp luật bắt buộc, hoặc vượt quá giới hạn cho phép).</li>
-        <li><strong>Chứa đựng yếu tố lỗi:</strong> Thể hiện trạng thái tâm lý chủ quan của chủ thể đối với hành vi và hậu quả do hành vi gây ra.</li>
-        <li><strong>Do chủ thể có năng lực trách nhiệm pháp lý thực hiện:</strong> Đạt độ tuổi luật định và có khả năng nhận thức, điều khiển hành vi bình thường.</li>
+        <li><strong>Là hành vi xác định của con người:</strong> Pháp luật chỉ điều chỉnh hành vi thực tế của con người bộc lộ ra thế giới khách quan, không điều chỉnh suy nghĩ, ý thức nội tâm chưa chuyển hóa thành hành động. Hành vi này tồn tại dưới hai dạng thức: <em>hành động</em> (chủ thể làm điều pháp luật cấm) hoặc <em>không hành động</em> (chủ thể không làm điều pháp luật bắt buộc phải làm dù có đủ điều kiện thực hiện).</li>
+        <li><strong>Có tính chất trái pháp luật:</strong> Hành vi không phù hợp với các quy tắc xử sự được ghi nhận trong quy phạm pháp luật, biểu hiện qua việc thực hiện điều bị nghiêm cấm, vượt quá giới hạn quyền cho phép hoặc không thực hiện nghĩa vụ pháp lý. Hành vi này xâm hại hoặc đe dọa xâm hại đến các quan hệ xã hội được pháp luật bảo vệ.</li>
+        <li><strong>Có lỗi của chủ thể:</strong> Lỗi là trạng thái tâm lý chủ quan phản ánh thái độ tiêu cực của chủ thể đối với hành vi trái pháp luật và hậu quả của hành vi đó tại thời điểm thực hiện. Chủ thể có điều kiện và khả năng lựa chọn cách xử sự hợp pháp nhưng đã lựa chọn xử sự trái pháp luật. Trường hợp hành vi gây thiệt hại do sự kiện bất khả kháng hoặc phòng vệ chính đáng không có lỗi thì không cấu thành vi phạm pháp luật.</li>
+        <li><strong>Do chủ thể có năng lực trách nhiệm pháp lý thực hiện:</strong> Chủ thể thực hiện hành vi phải đạt độ tuổi luật định và có trạng thái tâm thần bình thường, đủ khả năng nhận thức tính chất nguy hiểm cho xã hội của hành vi và có khả năng điều khiển hành vi của mình.</li>
     </ol>
 
-    <h2>1.3. Khái niệm và ý nghĩa của cấu thành vi phạm pháp luật</h2>
-    <p>Cấu thành vi phạm pháp luật là mô hình lý luận thống nhất gồm bốn yếu tố: Khách thể, Mặt khách quan, Chủ thể và Mặt chủ quan. Việc phân tích cấu thành là căn cứ pháp lý khoa học để định danh vi phạm và áp dụng chế tài chính xác.</p>
+    <h2 id="chuong1-3">1.3. Khái niệm và ý nghĩa của cấu thành vi phạm pháp luật</h2>
+    <p><strong>Cấu thành vi phạm pháp luật</strong> là tổng thể các yếu tố, điều kiện khách quan và chủ quan được pháp luật quy định, đặc trưng cho một vi phạm pháp luật cụ thể. Mô hình cấu thành vi phạm pháp luật gồm bốn yếu tố có mối quan hệ biện chứng, hữu cơ với nhau: Khách thể, Mặt khách quan, Chủ thể và Mặt chủ quan.</p>
 
+<pre>
+       ┌─────────────────────────────────────────────────────────────┐
+       │             CẤU THÀNH VI PHẠM PHÁP LUẬT                     │
+       └──────────────────────────────┬──────────────────────────────┘
+                                      │
+          ┌───────────────────────────┼───────────────────────────┐
+          │                           │                           │
+          ▼                           ▼                           ▼
+┌───────────────────┐       ┌───────────────────┐       ┌───────────────────┐
+│     KHÁCH THỂ     │       │   MẶT KHÁCH QUAN  │       │      CHỦ THỂ      │
+│ (Quan hệ xã hội   │       │ (Hành vi, hậu quả,│       │ (Cá nhân, tổ chức │
+│  được bảo vệ)     │       │  MQH nhân quả...) │       │  có năng lực TNPL)│
+└───────────────────┘       └───────────────────┘       └───────────────────┘
+                                      │
+                                      ▼
+                            ┌───────────────────┐
+                            │   MẶT CHỦ QUAN    │
+                            │ (Lỗi, động cơ,    │
+                            │  mục đích)        │
+                            └───────────────────┘
+</pre>
+
+    <p>Việc nghiên cứu và áp dụng mô hình cấu thành có ý nghĩa nền tảng: Là công cụ nhận thức khoa học giúp đánh giá đầy đủ, chuẩn xác tính chất pháp lý của một hành vi thực tế; là cơ sở phân biệt vi phạm pháp luật với các hiện tượng xã hội khác; và là căn cứ xác định đúng đắn chế tài trách nhiệm pháp lý.</p>
+
+    <h2 id="chuong1-4">1.4. Khách thể của vi phạm pháp luật</h2>
+    <p>Khách thể của vi phạm pháp luật là những quan hệ xã hội được pháp luật xác lập và bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại, làm thay đổi hoặc đe dọa làm biến đổi trạng thái an toàn, bình thường của các quan hệ đó. Cần phân biệt rõ: Khách thể (quan hệ xã hội được bảo vệ), Đối tượng tác động (vật thể, hiện tượng vật chất hoặc thông tin cụ thể bị tác động) và Chủ thể của quan hệ bị xâm hại (cá nhân, tổ chức bị ảnh hưởng, tổn hại).</p>
+
+    <h2 id="chuong1-5">1.5. Mặt khách quan của vi phạm pháp luật</h2>
+    <p>Mặt khách quan của vi phạm pháp luật là những biểu hiện bên ngoài của vi phạm pháp luật diễn ra trong thực tế khách quan, bao gồm: Hành vi trái pháp luật (dạng hành động hoặc không hành động), Hậu quả nguy hiểm cho xã hội, Mối quan hệ nhân quả giữa hành vi và hậu quả, cùng các điều kiện về thời gian, địa điểm, phương thức và công cụ thực hiện.</p>
+
+    <h2 id="chuong1-6">1.6. Chủ thể của vi phạm pháp luật</h2>
+    <p>Chủ thể của vi phạm pháp luật là cá nhân hoặc tổ chức có năng lực trách nhiệm pháp lý đã thực hiện hành vi vi phạm pháp luật. Đối với cá nhân, năng lực trách nhiệm pháp lý đòi hỏi thỏa mãn điều kiện về độ tuổi luật định và khả năng nhận thức, làm chủ hành vi.</p>
+
+    <h2 id="chuong1-7">1.7. Mặt chủ quan của vi phạm pháp luật</h2>
+    <p>Mặt chủ quan của vi phạm pháp luật là trạng thái tâm lý bên trong của chủ thể gắn liền với hành vi trái pháp luật và hậu quả do hành vi đó gây ra, bao gồm: Lỗi (lỗi cố ý hoặc lỗi vô ý), Động cơ và Mục đích vi phạm.</p>
+
+    <!-- CHƯƠNG 2 -->
     <h1 id="chuong2">CHƯƠNG 2: KHÁI QUÁT VỤ VIỆC QUẢNG CÁO GIAN DỐI SẢN PHẨM ĐÔNG Y TRÊN MẠNG XÃ HỘI</h1>
-    <h2>2.1. Nguồn gốc thông tin và bối cảnh vụ việc</h2>
-    <p>Ngày 10/8/2026, Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ ra quyết định khởi tố vụ án hình sự, khởi tố 21 bị can liên quan đến đường dây sản xuất, kinh doanh và quảng cáo gian dối sản phẩm "Xương khớp bà Sáu" trên mạng xã hội.</p>
 
-    <h2>2.2. Phương thức và thủ đoạn hoạt động</h2>
-    <p>Đường dây do Nguyễn Tiến Đạt (sinh năm 1997) cầm đầu, mua sản phẩm thảo dược với giá gốc <strong>23.000 đồng/sản phẩm</strong> từ Công ty Dược liệu Nguyệt Ánh, sau đó thiết lập hệ thống marketing cắt ghép video bác sĩ, nghệ sĩ uy tín, sử dụng kịch bản mạo danh bác sĩ tư vấn qua điện thoại để ép khách mua với giá <strong>199.000 đồng/sản phẩm</strong>.</p>
-    <p>Từ tháng 5/2026 đến tháng 7/2026, đường dây đã tiêu thụ thành công <strong>5.429 đơn hàng</strong> với tổng doanh thu hơn <strong>2,67 tỷ đồng</strong>.</p>
+    <h2 id="chuong2-1">2.1. Nguồn gốc thông tin và bối cảnh vụ việc</h2>
+    <p>Trong những năm gần đây, sự bùng nổ của thương mại điện tử trên các nền tảng mạng xã hội đã tạo điều kiện thuận lợi cho hoạt động giao thương. Tuy nhiên, môi trường này cũng bị một số đối tượng lợi dụng để thực hiện các hành vi gian dối thương mại, quảng cáo không đúng sự thật nhằm trục lợi. Đặc biệt trong lĩnh vực sản phẩm y dược cổ truyền, thảo dược chăm sóc sức khỏe, sự thiếu hụt thông tin của người tiêu dùng dễ bị khai thác bởi các nội dung quảng cáo phóng đại.</p>
+    <p>Ngày 10/8/2026, các cơ quan báo chí chính thống như Cổng thông tin điện tử Chính phủ, Báo Tuổi Trẻ, Báo Tiền Phong, Báo Quân đội nhân dân và Đài Truyền hình Việt Nam (VTV) đồng loạt đưa tin về việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ ra quyết định khởi tố vụ án hình sự, khởi tố 21 bị can liên quan đến đường dây sản xuất, phân phối và quảng cáo gian dối sản phẩm mang tên "Xương khớp bà Sáu" trên mạng xã hội.</p>
 
-    <h1 id="chuong3">CHƯƠNG 3: PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TRONG VỤ VIỆC</h1>
-    
-    <h2>3.1. Phân tích yếu tố Khách thể</h2>
-    <p>Hành vi xâm phạm đồng thời ba nhóm quan hệ xã hội: (1) Trật tự quản lý hành chính nhà nước về thương mại y dược và quảng cáo; (2) Quyền được cung cấp thông tin trung thực, an toàn sức khỏe và tài sản của người tiêu dùng (Điều 10 Luật BVQLNTD 2023); (3) Quyền nhân thân về danh dự, hình ảnh của các chuyên gia y tế, nghệ sĩ.</p>
+    <h2 id="chuong2-2">2.2. Phương thức và diễn biến hành vi theo thông tin điều tra ban đầu</h2>
+    <p>Theo tài liệu điều tra ban đầu được cơ quan công an công bố, vụ việc có những diễn biến và phương thức hoạt động chính như sau:</p>
+    <ol>
+        <li><strong>Nguồn gốc hàng hóa và chênh lệch giá:</strong> Đối tượng Nguyễn Tiến Đạt đã thỏa thuận thu mua sản phẩm dạng thảo dược mang nhãn hiệu "Xương khớp bà Sáu" từ Phùng Thị Nguyệt Ánh (Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh) với mức giá khoảng <strong>23.000 đồng/sản phẩm</strong>.</li>
+        <li><strong>Tiếp thị qua không gian mạng với nội dung sai lệch:</strong> Đạt tổ chức nhóm nhân sự thiết lập các trang trên mạng xã hội (Facebook, TikTok) và tiến hành chạy các chiến dịch quảng cáo. Nhóm này bị cáo buộc đã sử dụng hình ảnh, video của các nghệ sĩ, bác sĩ, chuyên gia y tế bị cắt ghép trái phép nhằm tạo dựng uy tín giả mạo, đồng thời đưa ra các thông tin thổi phồng công dụng của sản phẩm thảo dược hỗ trợ thành bài thuốc đặc trị dứt điểm bệnh xương khớp.</li>
+        <li><strong>Bán hàng và phân phối:</strong> Nhóm nhân sự bán hàng tiếp nhận dữ liệu khách hàng để tư vấn và chốt bán sản phẩm với mức giá <strong>199.000 đồng/sản phẩm</strong> (chênh lệch gần 9 lần so với giá nhập ban đầu). Sau đó, bộ phận vận đơn thực hiện đóng gói và chuyển phát hàng hóa thu tiền hộ (COD) trên phạm vi toàn quốc.</li>
+    </ol>
 
-    <h2>3.2. Phân tích yếu tố Mặt khách quan</h2>
-    <p>Thể hiện qua chuỗi hành động trái pháp luật liên hoàn: tạo dựng quảng cáo thổi phồng công dụng (vi phạm Điều 8 Luật Quảng cáo 2012), cắt ghép video trái phép, mạo danh bác sĩ tư vấn dối trá và thu tiền lừa dối người tiêu dùng (Điều 198 BLHS). Hành vi là nguyên nhân trực tiếp dẫn đến việc 5.429 khách hàng bị lừa dối.</p>
+<pre>
+┌────────────────────────────────┐
+│  Cung ứng sản phẩm thô/gốc     │ (Công ty Dược liệu Nguyệt Ánh - 23.000đ/sp)
+└───────────────┬────────────────┘
+                │
+                ▼
+┌────────────────────────────────┐
+│   Tổ chức & Quản lý bán hàng   │ (Nguyễn Tiến Đạt - Điều hành chung)
+└───────────────┬────────────────┘
+                │
+        ┌───────┴────────────────────────┐
+        ▼                                ▼
+┌──────────────────────────────┐ ┌──────────────────────────────┐
+│  Nhóm Kỹ thuật / Marketing   │ │  Nhóm Bán hàng & Vận đơn     │
+│ - Cắt ghép video, hình ảnh   │ │ - Tư vấn chốt đơn hàng       │
+│ - Chạy quảng cáo sai sự thật │ │ - Đóng gói, giao dịch COD    │
+└───────────────┬──────────────┘ └──────────────┬───────────────┘
+                │                               │
+                └───────────────┬───────────────┘
+                                │
+                                ▼
+┌───────────────────────────────────────────────────────────────┐
+│     5.429 đơn hàng giao dịch thành công (Giá: 199.000đ/sp)    │
+│     Tổng doanh thu bán hàng ghi nhận: Hơn 2,67 tỷ đồng        │
+└───────────────────────────────────────────────────────────────┘
+</pre>
 
-    <h2>3.3. Phân tích yếu tố Chủ thể</h2>
-    <p>21 bị can đều là cá nhân đã thành niên (từ đủ 18 tuổi trở lên), có đầy đủ năng lực nhận thức và điều khiển hành vi. Trong đó phân hóa rõ vai trò: người cầm đầu tổ chức (Nguyễn Tiến Đạt), người cung ứng sản phẩm (Phùng Thị Nguyệt Ánh), nhóm marketing, nhóm telesale và nhóm hậu cần.</p>
+    <h2 id="chuong2-3">2.3. Các chủ thể liên quan và phân công vai trò</h2>
+    <p>Kết quả điều tra ban đầu xác định có 21 cá nhân bị khởi tố, với sự phân công vai trò bước đầu như sau:</p>
+    <ul>
+        <li><strong>Người chủ mưu, tổ chức:</strong> Nguyễn Tiến Đạt (sinh năm 1997, trú tại Hà Nội), là người liên hệ nguồn hàng, thuê địa điểm, mua sắm máy móc và điều hành hoạt động của các nhóm.</li>
+        <li><strong>Chủ thể cung ứng:</strong> Phùng Thị Nguyệt Ánh (Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh) – cung cấp sản phẩm cho Đạt.</li>
+        <li><strong>Nhóm nhân sự phụ trách marketing, kỹ thuật:</strong> Chịu trách nhiệm sản xuất nội dung, cắt ghép video và quản trị các chiến dịch quảng cáo trực tuyến.</li>
+        <li><strong>Nhóm nhân sự bán hàng (telesale), vận đơn và đóng gói:</strong> Thực hiện liên hệ khách hàng, đóng gói bao bì và giao hàng qua bưu cục.</li>
+    </ul>
 
-    <h2>3.4. Phân tích yếu tố Mặt chủ quan</h2>
-    <p>Thể hiện <strong>Lỗi cố ý trực tiếp</strong>: nhận thức rõ chất lượng sản phẩm và hành vi mạo danh là gian dối, thấy trước hậu quả thiệt hại của người tiêu dùng nhưng hoàn toàn mong muốn đạt được vì động cơ vụ lợi kinh tế và mục đích thu lợi bất chính tối đa.</p>
+    <h2 id="chuong2-4">2.4. Trạng thái tố tụng hiện tại</h2>
+    <ul>
+        <li>Ngày 31/7/2026: Cơ quan công an tiến hành khám xét khẩn cấp các địa điểm liên quan, tạm giữ nhiều thiết bị máy tính, điện thoại, các hộp sản phẩm "Xương khớp bà Sáu", tài liệu bán hàng và phong tỏa hơn <strong>1,77 tỷ đồng</strong> trong tài khoản ngân hàng.</li>
+        <li>Ngày 10/8/2026: Cơ quan CSĐT Công an tỉnh Phú Thọ ra quyết định khởi tố vụ án hình sự, khởi tố 21 bị can về tội <em>"Lừa dối khách hàng"</em> theo quy định tại khoản 2 Điều 198 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017).</li>
+        <li>Vụ án hiện đang trong giai đoạn điều tra mở rộng nhằm xác minh chi tiết hành vi của từng bị can và chất lượng thực tế của sản phẩm.</li>
+    </ul>
 
-    <h2>3.5. Bảng tổng hợp bốn yếu tố cấu thành</h2>
+    <h2 id="chuong2-5">2.5. Bảng tổng hợp dữ kiện và dòng thời gian vụ việc</h2>
     <table>
         <thead>
             <tr>
-                <th>Yếu tố cấu thành</th>
-                <th>Dữ kiện thực tế chính</th>
-                <th>Phân tích lý luận pháp lý</th>
-                <th>Kết luận đánh giá</th>
+                <th style="width: 25%;">Tiêu chí</th>
+                <th style="width: 45%;">Dữ kiện xác minh từ nguồn chính thức</th>
+                <th style="width: 30%;">Nguồn công bố</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Cơ quan thụ lý</strong></td>
+                <td>Cơ quan CSĐT Công an tỉnh Phú Thọ</td>
+                <td>Báo điện tử Chính phủ, VTV</td>
+            </tr>
+            <tr>
+                <td><strong>Quyết định tố tụng</strong></td>
+                <td>Khởi tố vụ án hình sự, khởi tố 21 bị can</td>
+                <td>Quyết định ngày 10/8/2026</td>
+            </tr>
+            <tr>
+                <td><strong>Tội danh khởi tố</strong></td>
+                <td>Tội "Lừa dối khách hàng" (khoản 2 Điều 198 BLHS)</td>
+                <td>Cổng TTĐT Bộ Công an, Tuổi Trẻ</td>
+            </tr>
+            <tr>
+                <td><strong>Đối tượng cầm đầu</strong></td>
+                <td>Nguyễn Tiến Đạt (sinh 1997, trú tại Hà Nội)</td>
+                <td>Báo Tiền Phong</td>
+            </tr>
+            <tr>
+                <td><strong>Tổ chức liên quan</strong></td>
+                <td>Công ty TNHH Dược liệu Nguyệt Ánh (Phùng Thị Nguyệt Ánh)</td>
+                <td>Báo Tiền Phong</td>
+            </tr>
+            <tr>
+                <td><strong>Sản phẩm liên quan</strong></td>
+                <td>"Xương khớp bà Sáu" (sản phẩm thảo dược)</td>
+                <td>Báo Tuổi Trẻ, Cựu chiến binh</td>
+            </tr>
+            <tr>
+                <td><strong>Chênh lệch giá</strong></td>
+                <td>Giá nhập 23.000 đồng $\rightarrow$ Giá bán 199.000 đồng</td>
+                <td>Báo Tiền Phong</td>
+            </tr>
+            <tr>
+                <td><strong>Quy mô đơn hàng</strong></td>
+                <td>5.429 đơn hàng thành công (từ tháng 5 – 7/2026)</td>
+                <td>Báo Doanh nghiệp & Hội nhập</td>
+            </tr>
+            <tr>
+                <td><strong>Tổng doanh thu bán hàng</strong></td>
+                <td>Hơn 2,67 tỷ đồng</td>
+                <td>Báo Tiền Phong, DNHN</td>
+            </tr>
+            <tr>
+                <td><strong>Tài sản bị phong tỏa</strong></td>
+                <td>Hơn 1,77 tỷ đồng trong tài khoản ngân hàng</td>
+                <td>Báo Cựu chiến binh</td>
+            </tr>
+        </tbody>
+    </table>
+
+<pre>
+  [Đầu năm 2026]           [05/2026 - 07/2026]          [31/07/2026]              [10/08/2026]
+         │                          │                         │                         │
+         ▼                          ▼                         ▼                         ▼
+Đạt thỏa thuận mua hàng   Triển khai quảng cáo sai lệch; Công an khám xét khẩn    Khởi tố vụ án và 21 bị
+giá 23k từ cty Nguyệt Ánh; Giao dịch 5.429 đơn hàng;    cấp; Tạm giữ tang vật;    can về tội "Lừa dối
+tuyển dụng nhóm nhân sự   Doanh thu hơn 2,67 tỷ đồng     Phong tỏa 1,77 tỷ đồng   khách hàng" (Đ198 BLHS)
+</pre>
+
+    <!-- CHƯƠNG 3 -->
+    <h1 id="chuong3">CHƯƠNG 3: PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TRONG VỤ VIỆC</h1>
+
+    <h2 id="chuong3-1">3.1. Phân tích yếu tố Khách thể của vi phạm pháp luật</h2>
+    <h3 id="chuong3-1-1">3.1.1. Cơ sở lý luận áp dụng</h3>
+    <p>Khách thể của vi phạm pháp luật là những quan hệ xã hội được pháp luật xác lập và bảo vệ nhưng bị hành vi trái pháp luật xâm hại. Trong hoạt động thương mại và tiếp thị sản phẩm chăm sóc sức khỏe, pháp luật bảo vệ trật tự quản lý thị trường, quyền và lợi ích hợp pháp của người tiêu dùng, cũng như quyền nhân thân của công dân đối với hình ảnh cá nhân.</p>
+
+    <h3 id="chuong3-1-2">3.1.2. Dữ kiện thực tế ghi nhận</h3>
+    <ul>
+        <li>Sản phẩm thảo dược giá gốc 23.000 đồng được quảng cáo thổi phồng công dụng để bán ra thị trường với giá 199.000 đồng.</li>
+        <li>Cắt ghép trái phép hình ảnh, video của các nghệ sĩ, bác sĩ chuyên khoa đưa vào các bài tiếp thị trực tuyến.</li>
+        <li>Thực hiện giao dịch thành công 5.429 đơn hàng trên phạm vi toàn quốc với tổng giá trị hơn 2,67 tỷ đồng.</li>
+    </ul>
+
+    <h3 id="chuong3-1-3">3.1.3. Phân tích pháp lý chi tiết</h3>
+    <p>Hành vi bị cáo buộc của các đối tượng đã xâm hại đồng thời các nhóm quan hệ xã hội sau:</p>
+    <ol>
+        <li><strong>Trật tự quản lý hành chính nhà nước về hoạt động quảng cáo và thương mại:</strong> Nhà nước ban hành các quy chuẩn pháp lý nhằm bảo đảm tính minh bạch, cạnh tranh lành mạnh trên thị trường. Việc đưa thông tin sai sự thật về công dụng hàng hóa và sử dụng hình ảnh không phép đã vi phạm quy tắc quản lý hoạt động quảng cáo được quy định tại <strong>Luật Quảng cáo năm 2012 (sửa đổi, bổ sung năm 2018 và năm 2025)</strong>, phá vỡ trật tự lưu thông hàng hóa bình thường.</li>
+        <li><strong>Quyền và lợi ích hợp pháp của người tiêu dùng:</strong> Căn cứ <strong>Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng năm 2023</strong>, pháp luật nghiêm cấm hành vi lừa dối hoặc gây nhầm lẫn cho người tiêu dùng thông qua hoạt động cung cấp thông tin, quảng cáo. Người tiêu dùng có quyền được cung cấp thông tin trung thực, chính xác về công dụng và giá trị sản phẩm. Việc cung cấp thông tin sai lệch làm tổn hại quyền được lựa chọn minh bạch của khách hàng, đồng thời tạo ra nguy cơ đối với sức khỏe nếu người bệnh dựa vào sản phẩm thảo dược mà bỏ qua việc thăm khám y khoa cần thiết.</li>
+        <li><strong>Quyền nhân thân về hình ảnh của cá nhân:</strong> Theo quy định tại <strong>Điều 32 Bộ luật Dân sự năm 2015</strong>, việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý. Hành vi tự ý cắt ghép video của nghệ sĩ, bác sĩ để gán ghép tiếp thị sản phẩm đã xâm phạm quyền về hình ảnh và ảnh hưởng tiêu cực đến uy tín cá nhân của họ trước công chúng.</li>
+    </ol>
+
+<pre>
+┌────────────────────────────────────────────────────────────────────────┐
+│ KHÁCH THỂ (Quan hệ xã hội được pháp luật bảo vệ)                       │
+│ - Trật tự quản lý nhà nước về hoạt động thương mại và quảng cáo.       │
+│ - Quyền được thông tin trung thực, an toàn sức khỏe và tài sản của NTD.│
+│ - Quyền nhân thân về hình ảnh của các cá nhân bị sử dụng không phép.   │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼ tác động thông qua
+┌────────────────────────────────────────────────────────────────────────┐
+│ ĐỐI TƯỢNG TÁC ĐỘNG (Thực thể vật chất / Thông tin cụ thể)              │
+│ - Sản phẩm thảo dược "Xương khớp bà Sáu", nhãn mác, bao bì.            │
+│ - Video clip, bài viết tiếp thị mang nội dung sai sự thật trên mạng.   │
+│ - Dòng tiền thanh toán từ 5.429 đơn hàng (hơn 2,67 tỷ đồng doanh thu). │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼ gây ảnh hưởng đến
+┌────────────────────────────────────────────────────────────────────────┐
+│ CHỦ THỂ BỊ ẢNH HƯỞNG (Cá nhân tham gia quan hệ bị xâm hại)             │
+│ - Người tiêu dùng đặt mua sản phẩm qua 5.429 đơn hàng.                 │
+│ - Các bác sĩ, văn nghệ sĩ bị cắt ghép hình ảnh trái phép.              │
+└────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+    <h3 id="chuong3-1-4">3.1.4. Nhận xét tiểu mục 3.1</h3>
+    <p>Việc xác định khách thể cho thấy tính chất nguy hại của vụ việc không chỉ dừng lại ở tranh chấp kinh tế thông thường, mà đã xâm phạm cùng lúc trật tự quản lý thương mại và quyền được bảo vệ an toàn thông tin, tài sản của cộng đồng người tiêu dùng trên không gian mạng.</p>
+
+    <h2 id="chuong3-2">3.2. Phân tích yếu tố Mặt khách quan của vi phạm pháp luật</h2>
+    <h3 id="chuong3-2-1">3.2.1. Cơ sở lý luận áp dụng</h3>
+    <p>Mặt khách quan của vi phạm pháp luật thể hiện qua hành vi trái pháp luật, hậu quả nguy hiểm cho xã hội, mối liên hệ nhân quả giữa hành vi và hậu quả, cùng các điều kiện về công cụ, phương tiện, phương thức thực hiện.</p>
+
+    <h3 id="chuong3-2-2">3.2.2. Dữ kiện thực tế ghi nhận</h3>
+    <ul>
+        <li>Thu mua sản phẩm với giá 23.000 đồng/hộp, bán ra với mức giá 199.000 đồng/hộp.</li>
+        <li>Sử dụng các phần mềm kỹ thuật số để cắt ghép video của nghệ sĩ, bác sĩ, đăng tải lên các nền tảng mạng xã hội để quảng cáo thổi phồng công dụng bài thuốc.</li>
+        <li>Tổ chức tư vấn, chốt đơn hàng và chuyển phát COD thành công 5.429 đơn hàng, đạt tổng doanh thu hơn 2,67 tỷ đồng.</li>
+    </ul>
+
+    <h3 id="chuong3-2-3">3.2.3. Phân tích pháp lý chi tiết</h3>
+    <h4>A. Hành vi trái pháp luật (Dạng hành động)</h4>
+    <ol>
+        <li><strong>Hành vi quảng cáo sai sự thật về công dụng sản phẩm:</strong> Cố ý đưa ra thông tin không đúng sự thật, biến một sản phẩm thảo dược hỗ trợ thông thường thành bài thuốc có khả năng trị dứt điểm bệnh xương khớp. Hành vi này vi phạm <strong>khoản 9 Điều 8 Luật Quảng cáo năm 2012 (được sửa đổi, bổ sung năm 2018 và năm 2025)</strong> về việc nghiêm cấm quảng cáo không đúng hoặc gây nhầm lẫn về công dụng của sản phẩm.</li>
+        <li><strong>Hành vi sử dụng trái phép hình ảnh người nổi tiếng, chuyên gia:</strong> Cắt ghép hình ảnh, video của bác sĩ và nghệ sĩ khi chưa được sự đồng ý, vi phạm quy định tại <strong>Điều 32 Bộ luật Dân sự năm 2015</strong>.</li>
+        <li><strong>Hành vi gian dối trong giao dịch thương mại nhằm thu lợi bất chính:</strong> Cung cấp thông tin sai lệch về tính năng và giá trị sản phẩm trong quá trình giao dịch với khách hàng nhằm bán sản phẩm với giá cao. Dấu hiệu này bước đầu phù hợp với hành vi bị cấm quy định tại <strong>Điều 198 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017)</strong> về tội <em>"Lừa dối khách hàng"</em>.</li>
+    </ol>
+
+    <h4>B. Hậu quả nguy hiểm cho xã hội</h4>
+    <ul>
+        <li><strong>Hậu quả tài chính:</strong> Thực hiện 5.429 đơn hàng với tổng giá trị ghi nhận hơn 2,67 tỷ đồng.
+            <br><em>Lưu ý về thuật ngữ tài chính:</em> Cần phân biệt <strong>Tổng doanh thu bán hàng (hơn 2,67 tỷ đồng)</strong> với <strong>Thiệt hại thực tế của người mua</strong> và <strong>Khoản thu lợi bất chính</strong>. Doanh thu là tổng giá trị đơn hàng; các nguồn công khai hiện chưa bóc tách cụ thể giá trị sử dụng thực của sản phẩm thảo dược và các chi phí hợp lý để định lượng chính xác số tiền thiệt hại thuần túy của người tiêu dùng. Tuy nhiên, quy mô doanh thu phản ánh tính chất nghiêm trọng của vụ việc.
+            <br><em>Về cấu trúc Điều 198 BLHS:</em> Ngưỡng định lượng để truy cứu trách nhiệm hình sự tại khoản 1 Điều 198 là thu lợi bất chính từ 5.000.000 đồng đến dưới 50.000.000 đồng (hoặc đã bị xử phạt hành chính/kết án chưa xóa án tích); khoản 2 quy định mức thu lợi bất chính từ 50.000.000 đồng trở lên hoặc có tổ chức.
+        </li>
+        <li><strong>Hậu quả phi vật chất:</strong> Gây nhầm lẫn cho người tiêu dùng về chất lượng sản phẩm, tiềm ẩn nguy cơ đối với sức khỏe nếu người bệnh chậm trễ tiếp cận điều trị y tế chính quy; làm ảnh hưởng đến uy tín của các cá nhân bị lợi dụng hình ảnh.</li>
+    </ul>
+
+    <h4>C. Mối liên hệ nhân quả giữa hành vi và hậu quả</h4>
+    <p>Thông tin quảng cáo sai lệch và hình ảnh cắt ghép của chuyên gia y tế đóng vai trò là yếu tố nguyên nhân trực tiếp dẫn dắt, tạo niềm tin không có căn cứ cho người tiêu dùng khi tiếp cận thông tin trên mạng xã hội. Xuất phát từ sự tin tưởng vào các thông tin quảng cáo này, người tiêu dùng đã đưa ra quyết định đặt mua sản phẩm với mức giá 199.000 đồng/hộp, dẫn đến việc hình thành 5.429 đơn hàng giao dịch thành công. Dưới góc độ lý luận vi phạm pháp luật, có mối liên hệ nhân quả trực tiếp giữa hành vi cung cấp thông tin sai lệch và hậu quả người tiêu dùng phải chi trả khoản tiền chênh lệch cho các đơn hàng.</p>
+
+<pre>
+┌───────────────────────────────────────┐
+│         HÀNH VI NGUYÊN NHÂN           │
+│ - Quảng cáo thổi phồng công dụng      │
+│ - Cắt ghép clip bác sĩ, nghệ sĩ       │
+│ - Đưa thông tin sai lệch khi bán hàng │
+└──────────────────┬────────────────────┘
+                   │
+                   │ (Tác động nhận thức, tạo niềm tin sai lệch)
+                   ▼
+┌───────────────────────────────────────┐
+│          HẬU QUẢ PHÁT SINH            │
+│ - 5.429 đơn hàng giao dịch thành công │
+│ - Phát sinh hơn 2,67 tỷ đồng doanh thu│
+│ - Ảnh hưởng quyền lợi NTD & uy tín y tế│
+└───────────────────────────────────────┘
+</pre>
+
+    <h3 id="chuong3-2-4">3.2.4. Nhận xét tiểu mục 3.2</h3>
+    <p>Mặt khách quan của vụ việc thể hiện chuỗi hành vi có tổ chức, ứng dụng công nghệ đa phương tiện để tiếp cận diện rộng người dùng mạng xã hội, tạo ra quy mô giao dịch đáng kể và tác động tiêu cực đến quyền lợi của người tiêu dùng.</p>
+
+    <h2 id="chuong3-3">3.3. Phân tích yếu tố Chủ thể của vi phạm pháp luật</h2>
+    <h3 id="chuong3-3-1">3.3.1. Cơ sở lý luận áp dụng</h3>
+    <p>Chủ thể của vi phạm pháp luật là cá nhân hoặc tổ chức có năng lực trách nhiệm pháp lý đã thực hiện hành vi vi phạm. Cá nhân phải đạt độ tuổi luật định (từ đủ 18 tuổi trở lên có đầy đủ năng lực hành vi và năng lực trách nhiệm pháp lý chung) và có trạng thái tâm thần bình thường, đủ khả năng nhận thức và điều khiển hành vi.</p>
+
+    <h3 id="chuong3-3-2">3.3.2. Dữ kiện thực tế ghi nhận</h3>
+    <p>Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ đã ra quyết định khởi tố đối với <strong>21 bị can</strong>, trong đó người cầm đầu được xác định là Nguyễn Tiến Đạt (sinh năm 1997, trú tại Hà Nội), cùng Phùng Thị Nguyệt Ánh (Giám đốc Công ty Dược liệu Nguyệt Ánh) và các cá nhân phụ trách marketing, bán hàng, vận đơn.</p>
+
+    <h3 id="chuong3-3-3">3.3.3. Phân tích pháp lý chi tiết</h3>
+    <h4>A. Đánh giá năng lực trách nhiệm pháp lý của chủ thể</h4>
+    <ul>
+        <li><strong>Về độ tuổi:</strong> Bị can Nguyễn Tiến Đạt sinh năm 1997 (29 tuổi tính đến năm 2026), đã đủ tuổi chịu trách nhiệm pháp lý đầy đủ. Đối với các bị can còn lại, việc họ tham gia ký kết hợp đồng, làm việc và vận hành các bộ phận cho thấy họ đều là người trong độ tuổi lao động đã thành niên.</li>
+        <li><strong>Về khả năng nhận thức và điều khiển hành vi:</strong> Dưới góc độ dữ liệu công khai, các cơ quan tiến hành tố tụng đã xem xét điều kiện năng lực trách nhiệm hình sự khi ra quyết định khởi tố bị can; không có thông tin về việc các cá nhân này mắc bệnh lý tâm thần làm mất khả năng nhận thức. (Việc kết luận tuyệt đối về tình trạng tâm thần của từng cá nhân theo trình tự tố tụng sẽ phụ thuộc vào kết luận giám định pháp y nếu được yêu cầu trong quá trình xét xử).</li>
+    </ul>
+
+    <h4>B. Phân hóa vai trò của các nhóm cá nhân trong vụ việc</h4>
+    <ol>
+        <li><strong>Người tổ chức, điều hành (Nguyễn Tiến Đạt):</strong> Là người khởi xướng, trực tiếp đàm phán mua sản phẩm, thuê mướn cơ sở vật chất, tuyển dụng và chỉ đạo chung toàn bộ quy trình.</li>
+        <li><strong>Chủ thể cung ứng sản phẩm (Phùng Thị Nguyệt Ánh):</strong> Cung cấp sản phẩm số lượng lớn cho đường dây với mức giá 23.000 đồng/sản phẩm; trách nhiệm liên đới sẽ được cơ quan điều tra làm rõ dựa trên mức độ thỏa thuận và nhận thức đối với mục đích sử dụng của Đạt.</li>
+        <li><strong>Nhóm phụ trách kỹ thuật, truyền thông (Marketing):</strong> Trực tiếp tạo dựng nội dung quảng cáo sai sự thật, cắt ghép video để phân phối trên mạng xã hội.</li>
+        <li><strong>Nhóm bán hàng, vận đơn và đóng gói:</strong> Tiếp nhận thông tin, tư vấn đơn hàng và thực hiện quy trình giao nhận.</li>
+    </ol>
+    <blockquote>
+        <strong>Ghi chú về tính mở của dữ liệu:</strong> Dưới góc độ nghiên cứu học thuật, mức độ nhận thức cụ thể của từng nhân viên làm việc tại các khâu hỗ trợ (đặc biệt là bộ phận đóng gói, vận đơn) cần căn cứ vào kết luận điều tra chính thức của cơ quan có thẩm quyền để phân hóa trách nhiệm một cách thỏa đáng.
+    </blockquote>
+
+    <h3 id="chuong3-3-4">3.3.4. Nhận xét tiểu mục 3.3</h3>
+    <p>Các chủ thể bị khởi tố đáp ứng các điều kiện chung về năng lực trách nhiệm pháp lý. Sự phân hóa vai trò phản ánh tính chất có tổ chức trong việc thực hiện chuỗi hành vi tiếp thị và phân phối sản phẩm.</p>
+
+    <h2 id="chuong3-4">3.4. Phân tích yếu tố Mặt chủ quan của vi phạm pháp luật</h2>
+    <h3 id="chuong3-4-1">3.4.1. Cơ sở lý luận áp dụng</h3>
+    <p>Mặt chủ quan phản ánh diễn biến tâm lý bên trong của chủ thể đối với hành vi và hậu quả, gồm ba yếu tố: Lỗi, Động cơ và Mục đích. Việc phân tích mặt chủ quan phải căn cứ vào các hành vi khách quan đã bộc lộ ra bên ngoài, có sự phân hóa theo từng vị trí vai trò, tránh áp đặt suy đoán chủ quan chung cho tất cả mọi cá nhân.</p>
+
+    <h3 id="chuong3-4-2">3.4.2. Phân tích chi tiết theo vai trò chủ thể</h3>
+    <h4>A. Dữ kiện và đánh giá đối với người chủ mưu, tổ chức và nhóm tiếp thị trực tiếp</h4>
+    <ul>
+        <li><strong>Về yếu tố Lỗi:</strong> Đối với bị can Nguyễn Tiến Đạt và những cá nhân trực tiếp sản xuất nội dung quảng cáo sai sự thật, hành vi thể hiện <strong>Lỗi cố ý trực tiếp</strong>:
+            <br>- <em>Về lý trí:</em> Nhận thức rõ sản phẩm nhập vào với giá 23.000 đồng là thảo dược thông thường; nhận thức rõ việc cắt ghép video chuyên gia y tế khi chưa được phép là gian dối; thấy trước việc quảng cáo này sẽ khiến người tiêu dùng nhầm lẫn về công dụng và chi tiền mua hàng.
+            <br>- <em>Về ý chí:</em> Chủ động mong muốn và thúc đẩy các thông tin sai lệch này tiếp cận người dùng để bán được số lượng đơn hàng lớn với giá cao (199.000 đồng/hộp).
+        </li>
+        <li><strong>Về Động cơ và Mục đích:</strong>
+            <br>- <em>Động cơ:</em> Động cơ vụ lợi kinh tế, tìm kiếm lợi nhuận thương mại từ việc kinh doanh chênh lệch giá dựa trên thông tin sai lệch.
+            <br>- <em>Mục đích:</em> Bán được càng nhiều sản phẩm càng tốt nhằm <strong>thu lợi bất chính</strong> từ chênh lệch giữa giá bán và giá vốn thực tế.
+        </li>
+    </ul>
+
+    <h4>B. Những gì có thể suy luận về mục đích kinh tế từ chuỗi hành vi</h4>
+    <p>Chênh lệch giá bán gấp gần 9 lần (nhập 23.000 đồng, bán 199.000 đồng) cùng với việc đầu tư ngân sách chạy quảng cáo trực tuyến cho thấy hoạt động này được xây dựng có chủ đích nhằm tối đa hóa doanh thu từ sự thiếu thông tin của khách hàng.</p>
+
+    <h4>C. Giới hạn dữ liệu đối với các cá nhân hỗ trợ còn lại</h4>
+    <p>Đối với các nhân viên phụ trách bán hàng, vận đơn và đóng gói, tài liệu công khai ban đầu chưa thể hiện chi tiết mức độ nhận thức chủ quan của từng người (có nhận thức đầy đủ về tính chất sai sự thật của sản phẩm ngay từ đầu hay chỉ làm công việc theo phân công). Trong khoa học pháp lý, cơ quan tiến hành tố tụng sẽ làm rõ ý thức chủ quan của từng cá nhân để xác định mức độ lỗi và vai trò đồng phạm tương ứng.</p>
+
+    <h4>D. Bảng đối chiếu lập luận khoa học về Mặt chủ quan</h4>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 25%;">Tiêu chí</th>
+                <th style="width: 50%;">Nội dung phân tích theo chuỗi lập luận</th>
+                <th style="width: 25%;">Đánh giá học thuật</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Fact (Dữ kiện)</strong></td>
+                <td>Đạt mua sản phẩm giá 23k, bán 199k; chỉ đạo nhóm kỹ thuật cắt ghép clip nghệ sĩ, bác sĩ.</td>
+                <td>Dữ liệu chính thức từ cơ quan điều tra</td>
+            </tr>
+            <tr>
+                <td><strong>Interpretation</strong></td>
+                <td>Đối tượng chủ mưu nhận thức rõ việc đưa thông tin sai sự thật để bán giá cao nhằm tối ưu lợi nhuận.</td>
+                <td>Diễn giải tâm lý logic và phù hợp</td>
+            </tr>
+            <tr>
+                <td><strong>Legal Reasoning</strong></td>
+                <td>Nhận thức rõ tính chất sai lệch, thấy trước hậu quả và mong muốn chốt đơn hàng $\rightarrow$ Lỗi cố ý trực tiếp.</td>
+                <td>Vận dụng chuẩn lý luận PLĐC</td>
+            </tr>
+            <tr>
+                <td><strong>Scope Limitation</strong></td>
+                <td>Phân hóa rõ lỗi cố ý của người tổ chức; giữ tính mở đối với mức độ nhận thức của nhân viên hỗ trợ.</td>
+                <td>Tuân thủ nguyên tắc khách quan</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 id="chuong3-4-3">3.4.3. Nhận xét tiểu mục 3.4</h3>
+    <p>Mặt chủ quan thể hiện rõ lỗi cố ý trực tiếp và động cơ vụ lợi của người cầm đầu và bộ phận tiếp thị. Việc phân hóa ý thức chủ quan giữa các nhóm nhân sự bảo đảm tính chặt chẽ, khách quan của phương pháp luận nghiên cứu pháp lý.</p>
+
+    <h2 id="chuong3-5">3.5. Bảng tổng hợp bốn yếu tố cấu thành vi phạm pháp luật</h2>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 18%;">Yếu tố cấu thành</th>
+                <th style="width: 32%;">Dữ kiện thực tế chính</th>
+                <th style="width: 30%;">Phân tích lý luận pháp lý</th>
+                <th style="width: 20%;">Kết luận đánh giá</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td><strong>1. Khách thể</strong></td>
-                <td>Sản phẩm giá 23k bị phóng đại thành thần dược; cắt ghép clip nghệ sĩ; 5.429 đơn hàng.</td>
-                <td>Xâm phạm trật tự quản lý thương mại dược phẩm; quyền lợi người tiêu dùng và quyền nhân thân hình ảnh.</td>
-                <td><strong>Khách thể bị xâm phạm nghiêm trọng</strong></td>
+                <td>Sản phẩm thảo dược giá 23k bị quảng cáo thổi phồng công dụng; cắt ghép clip nghệ sĩ, bác sĩ; 5.429 đơn hàng thành công.</td>
+                <td>Xâm hại trật tự quản lý nhà nước về quảng cáo và thương mại; quyền được cung cấp thông tin trung thực và an toàn của người tiêu dùng; quyền nhân thân về hình ảnh.</td>
+                <td><strong>Khách thể bị xâm hại đa chiều</strong>, ảnh hưởng đến trật tự thị trường và quyền lợi người tiêu dùng.</td>
             </tr>
             <tr>
                 <td><strong>2. Mặt khách quan</strong></td>
-                <td>Quảng cáo sai sự thật, telesale mạo danh bác sĩ, bán chênh lệch giá, thu hơn 2,67 tỷ đồng.</td>
-                <td>Hành vi hành động trái pháp luật; hậu quả vật chất và phi vật chất lớn; mối quan hệ nhân quả trực tiếp.</td>
-                <td><strong>Hành vi nguy hiểm cho xã hội, quy mô lớn</strong></td>
+                <td>Hành vi quảng cáo không đúng sự thật, cắt ghép video không phép, bán chênh lệch giá; phát sinh 5.429 đơn hàng với doanh thu hơn 2,67 tỷ đồng.</td>
+                <td>Chuỗi hành vi khách quan trái pháp luật (dạng hành động); có mối liên hệ nhân quả trực tiếp giữa thông tin sai lệch và quyết định đặt mua của người tiêu dùng.</td>
+                <td><strong>Hành vi trái pháp luật có tổ chức</strong>, quy mô giao dịch lớn trên môi trường mạng xã hội.</td>
             </tr>
             <tr>
                 <td><strong>3. Chủ thể</strong></td>
-                <td>21 bị can bị khởi tố; Nguyễn Tiến Đạt (sinh 1997) cầm đầu; phân công các nhóm chuyên môn.</td>
-                <td>Cá nhân đã thành niên, năng lực hành vi bình thường; có tổ chức và phân hóa vai trò rõ ràng.</td>
-                <td><strong>Chủ thể có đầy đủ năng lực trách nhiệm pháp lý</strong></td>
+                <td>21 bị can bị khởi tố; Nguyễn Tiến Đạt (sinh 1997) cầm đầu; phân công các nhóm marketing, bán hàng, vận chuyển.</td>
+                <td>Các cá nhân đủ tuổi thành niên, có năng lực nhận thức và điều khiển hành vi theo ghi nhận tố tụng ban đầu; có sự phân công vai trò.</td>
+                <td><strong>Chủ thể có năng lực trách nhiệm pháp lý</strong>, có sự phân hóa vai trò giữa người tổ chức và nhân sự hỗ trợ.</td>
             </tr>
             <tr>
                 <td><strong>4. Mặt chủ quan</strong></td>
-                <td>Soạn kịch bản gian dối, cắt ghép clip người nổi tiếng để bán giá cao gấp 9 lần.</td>
-                <td>Nhận thức rõ tính trái luật, thấy trước hậu quả, mong muốn thu lợi $\rightarrow$ Lỗi cố ý trực tiếp, động cơ vụ lợi.</td>
-                <td><strong>Lỗi cố ý trực tiếp với động cơ vụ lợi cao độ</strong></td>
+                <td>Cố ý đưa thông tin phóng đại, cắt ghép clip người có uy tín để bán hàng giá 199k; doanh thu hơn 2,67 tỷ đồng.</td>
+                <td>Người tổ chức và bộ phận marketing có lỗi cố ý trực tiếp, động cơ vụ lợi, mục đích thu lợi bất chính; các cá nhân hỗ trợ cần làm rõ thêm mức độ nhận thức.</td>
+                <td><strong>Lỗi cố ý trực tiếp ở nhóm chủ mưu/tiếp thị</strong>, mục đích thu lợi bất chính từ chênh lệch giá.</td>
             </tr>
         </tbody>
     </table>
 
+    <!-- CHƯƠNG 4 -->
     <h1 id="chuong4">CHƯƠNG 4: NHẬN XÉT, BÀI HỌC KINH NGHIỆM VÀ KIẾN NGHỊ</h1>
-    <p>Vụ việc cho thấy tính chất chuyên môn hóa tội phạm số và sự cần thiết phải nâng cao nhận thức pháp luật cho giới trẻ, đặc biệt là sinh viên công nghệ thông tin (UIT) trong việc giữ gìn đạo đức nghề nghiệp số, không tiếp tay cho các hành vi gian dối trực tuyến.</p>
 
-    <h1 id="ketluan">KẾT LUẬN</h1>
-    <p>Bài tiểu luận đã giải quyết trọn vẹn yêu cầu phân tích cấu thành vi phạm pháp luật từ thực tiễn sinh động, củng cố phương pháp tư duy pháp lý khoa học và ý thức thượng tôn pháp luật trong đời sống xã hội số.</p>
+    <h2 id="chuong4-1">4.1. Nhận xét đánh giá tổng quan về tính chất vi phạm trên không gian mạng</h2>
+    <p>Vụ việc bị khởi tố tại Phú Thọ phản ánh một số đặc điểm đáng chú ý của các hành vi vi phạm pháp luật trên nền tảng số hiện nay: Tổ chức phân công công việc chặt chẽ; Lợi dụng lòng tin và tâm lý người bệnh để thu lợi bất chính; và Tính chất liên tỉnh, tiếp cận diện rộng thông qua mạng xã hội và dịch vụ giao hàng COD.</p>
 
-    <h1 id="tailieuthamkhao">TÀI LIỆU THAM KHẢO</h1>
+    <h2 id="chuong4-2">4.2. Bài học kinh nghiệm đối với hoạt động kinh doanh trực tuyến</h2>
+    <ul>
+        <li><strong>Tuân thủ đạo đức kinh doanh và quy định pháp luật:</strong> Hoạt động thương mại trực tuyến chỉ bền vững khi cung cấp thông tin trung thực về nguồn gốc, xuất xứ và công dụng thực tế của hàng hóa.</li>
+        <li><strong>Chấp hành nghiêm quy định về quảng cáo:</strong> Mọi nội dung tiếp thị sản phẩm chăm sóc sức khỏe bắt buộc phải tuân thủ Luật Quảng cáo năm 2012 (sửa đổi, bổ sung 2018, 2025) và các quy chuẩn chuyên ngành; tuyệt đối không tự ý sử dụng hình ảnh của cá nhân khác khi chưa được cho phép.</li>
+    </ul>
+
+    <h2 id="chuong4-3">4.3. Bài học cảnh giác và tự bảo vệ đối với người tiêu dùng</h2>
+    <ul>
+        <li><strong>Thận trọng trước các nội dung quảng cáo phóng đại:</strong> Người tiêu dùng cần tỉnh táo trước các cam kết mang tính tuyệt đối như "khỏi bệnh hoàn toàn", "trị dứt điểm" trên mạng xã hội.</li>
+        <li><strong>Kiểm tra tính pháp lý của sản phẩm:</strong> Chủ động tra cứu số tiếp nhận đăng ký bản công bố sản phẩm trên cổng thông tin của cơ quan y tế có thẩm quyền trước khi quyết định mua hàng.</li>
+        <li><strong>Thăm khám y tế chính quy:</strong> Khi có các vấn đề về sức khỏe, người dân nên đến các cơ sở y tế có giấy phép hoạt động để được chẩn đoán và điều trị khoa học.</li>
+    </ul>
+
+    <h2 id="chuong4-4">4.4. Bài học nâng cao nhận thức pháp luật và đạo đức số cho sinh viên CNTT</h2>
+    <ul>
+        <li><strong>Trách nhiệm pháp lý trong các công việc kỹ thuật số:</strong> Khi làm các công việc bán thời gian như chạy quảng cáo, chỉnh sửa video, quản trị fanpage, sinh viên cần có nhận thức rõ ràng về tính hợp pháp của nội dung mình tạo ra; không tham gia vào các hoạt động cắt ghép hình ảnh giả mạo hoặc truyền bá thông tin lừa dối người tiêu dùng.</li>
+        <li><strong>Hiểu biết về trách nhiệm liên đới trong vi phạm pháp luật:</strong> Việc hỗ trợ kỹ thuật hoặc tham gia vào quy trình phát tán thông tin gian dối có thể bị xem xét trách nhiệm pháp lý tùy theo mức độ nhận thức và hành vi cụ thể.</li>
+        <li><strong>Đạo đức nghề nghiệp trong thời đại số (Digital Ethics):</strong> Tri thức công nghệ cần được sử dụng để xây dựng các giải pháp hữu ích, phục vụ cộng đồng, không tiếp tay cho các hành vi gian dối thương mại.</li>
+    </ul>
+
+    <h2 id="chuong4-5">4.5. Một số kiến nghị thực tiễn nhằm hoàn thiện cơ chế quản lý</h2>
     <ol>
-        <li>Bộ luật Hình sự số 100/2015/QH13 (sửa đổi, bổ sung 2017).</li>
-        <li>Luật Quảng cáo số 16/2012/QH13.</li>
-        <li>Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15.</li>
-        <li>Bộ luật Dân sự số 91/2015/QH13.</li>
-        <li>Giáo trình Pháp luật đại cương, Đại học Quốc gia TP.HCM.</li>
-        <li>Thông tin vụ việc trên Báo Chính phủ, Tuổi Trẻ, Tiền Phong, VTV (tháng 8/2026).</li>
+        <li><strong>Đối với cơ quan quản lý nhà nước:</strong> Tăng cường ứng dụng các công cụ rà quét tự động trên không gian mạng để kịp thời phát hiện các chiến dịch quảng cáo y dược có dấu hiệu vi phạm; Thắt chặt công tác phối hợp liên ngành giữa quản lý thị trường, thông tin & truyền thông và công an trong việc kiểm tra, xử lý các cơ sở kinh doanh thảo dược trực tuyến.</li>
+        <li><strong>Đối với các nền tảng mạng xã hội:</strong> Hoàn thiện chính sách kiểm duyệt quảng cáo đối với nhóm sản phẩm chăm sóc sức khỏe, yêu cầu cung cấp tài liệu chứng minh tính hợp pháp của sản phẩm trước khi phê duyệt chiến dịch; Tối ưu hóa cơ chế tiếp nhận và xử lý phản ánh của người dùng về các video có dấu hiệu giả mạo hình ảnh chuyên gia, bác sĩ.</li>
+        <li><strong>Đối với đơn vị cung cấp dịch vụ giao nhận (COD):</strong> Rà soát quy trình xác thực thông tin người gửi hàng đối với các đối tác kinh doanh dược phẩm, thảo dược số lượng lớn để tăng cường tính minh bạch của chuỗi phân phối.</li>
     </ol>
+
+    <!-- KẾT LUẬN -->
+    <h1 id="ketluan">KẾT LUẬN</h1>
+    <p>Phân tích cấu thành vi phạm pháp luật là phương pháp luận quan trọng của môn học Pháp luật đại cương, giúp làm sáng tỏ bản chất pháp lý của các hiện tượng tiêu cực trong đời sống xã hội. Qua việc xem xét vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ khởi tố 21 bị can liên quan đến sản phẩm "Xương khớp bà Sáu", bài tiểu luận đã làm rõ bốn yếu tố cấu thành:</p>
+    <ol>
+        <li><strong>Khách thể:</strong> Xâm hại trật tự quản lý nhà nước trong lĩnh vực quảng cáo, thương mại và xâm phạm quyền được bảo vệ an toàn thông tin, tài sản của người tiêu dùng trong 5.429 đơn hàng được xác lập.</li>
+        <li><strong>Mặt khách quan:</strong> Thể hiện qua chuỗi hành động có tổ chức: tạo dựng nội dung quảng cáo sai sự thật, sử dụng trái phép hình ảnh chuyên gia y tế và thực hiện giao dịch thu về hơn 2,67 tỷ đồng doanh thu.</li>
+        <li><strong>Chủ thể:</strong> Gồm 21 bị can đủ điều kiện về năng lực trách nhiệm pháp lý theo ghi nhận ban đầu của cơ quan tố tụng, có sự phân hóa vai trò giữa người tổ chức, điều hành và các nhóm nhân sự hỗ trợ.</li>
+        <li><strong>Mặt chủ quan:</strong> Thể hiện lỗi cố ý trực tiếp ở nhóm đối tượng chủ mưu, xuất phát từ động cơ vụ lợi kinh tế và mục đích thu lợi bất chính từ sự chênh lệch giá dựa trên thông tin sai lệch.</li>
+    </ol>
+    <p>Báo cáo tiểu luận không chỉ góp phần củng cố tư duy pháp lý khoa học cho sinh viên UIT mà còn nhấn mạnh ý nghĩa của việc giữ gìn đạo đức nghề nghiệp số và tinh thần thượng tôn pháp luật trong môi trường công nghệ thông tin hiện đại.</p>
+    <p><em>(Toàn bộ các nội dung phân tích trong bài tiểu luận được thực hiện dựa trên các dữ liệu công khai ban đầu do cơ quan điều tra công bố, bảo đảm tính khách quan học thuật và tôn trọng nguyên tắc suy đoán vô tội trong tố tụng).</em></p>
+
+    <!-- TÀI LIỆU THAM KHẢO -->
+    <h1 id="tailieuthamkhao">TÀI LIỆU THAM KHẢO</h1>
+    <h2>A. Văn bản quy phạm pháp luật</h2>
+    <ol>
+        <li><strong>Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (2015)</strong>, <em>Bộ luật Hình sự số 100/2015/QH13</em> ngày 27/11/2015 (được sửa đổi, bổ sung theo Luật số 12/2017/QH14 ngày 20/6/2017).</li>
+        <li><strong>Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (2015)</strong>, <em>Bộ luật Dân sự số 91/2015/QH13</em> ngày 24/11/2015.</li>
+        <li><strong>Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (2012)</strong>, <em>Luật Quảng cáo số 16/2012/QH13</em> ngày 21/6/2012 (được sửa đổi, bổ sung theo Luật số 35/2018/QH14 và Luật số 75/2025/QH15, có hiệu lực từ ngày 01/01/2026).</li>
+        <li><strong>Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (2023)</strong>, <em>Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15</em> ngày 20/6/2023 (có hiệu lực từ ngày 01/7/2024).</li>
+    </ol>
+
+    <h2>B. Giáo trình học thuật</h2>
+    <ol start="5">
+        <li><strong>Đại học Quốc gia TP.HCM</strong>, <em>Tài liệu giảng dạy môn Pháp luật đại cương</em>, Trường Đại học Công nghệ Thông tin (UIT).</li>
+        <li><strong>Trường Đại học Luật Hà Nội (2021)</strong>, <em>Giáo trình Lý luận chung về Nhà nước và Pháp luật</em>, NXB Tư pháp, Hà Nội.</li>
+        <li><strong>Trường Đại học Luật TP.HCM (2022)</strong>, <em>Giáo trình Pháp luật đại cương (Dành cho sinh viên các trường đại học không chuyên luật)</em>, NXB Hồng Đức.</li>
+    </ol>
+
+    <h2>C. Nguồn dữ liệu báo chí chính thức về vụ việc</h2>
+    <ol start="8">
+        <li><strong>Cổng Thông tin điện tử Chính phủ (2026)</strong>, <em>"Khởi tố 21 bị can trong đường dây lừa dối khách hàng trên mạng xã hội"</em>, bài đăng ngày 10/8/2026.</li>
+        <li><strong>Báo Tuổi Trẻ (2026)</strong>, <em>"Triệt phá đường dây quảng cáo gian dối sản phẩm 'Xương khớp bà Sáu' trên mạng xã hội, khởi tố 21 người"</em>, bài đăng ngày 10/8/2026.</li>
+        <li><strong>Báo Tiền Phong (2026)</strong>, <em>"Thủ đoạn tinh vi của đường dây bán thuốc Đông y dỏm thu lợi hàng tỷ đồng tại Phú Thọ"</em>, bài đăng ngày 11/8/2026.</li>
+        <li><strong>Đài Truyền hình Việt Nam - VTV News (2026)</strong>, <em>"Cảnh báo thủ đoạn cắt ghép hình ảnh bác sĩ để bán thực phẩm chức năng dỏm"</em>, bản tin Thời sự ngày 11/8/2026.</li>
+        <li><strong>Báo Cựu Chiến Binh Việt Nam (2026)</strong>, <em>"Phú Thọ: Khởi tố 21 bị can lừa dối khách hàng qua mạng xã hội"</em>, bài đăng ngày 11/8/2026.</li>
+        <li><strong>Báo Doanh Nghiệp & Hội Nhập (2026)</strong>, <em>"Triệt phá đường dây lừa đảo kinh doanh Đông y trực tuyến quy mô lớn"</em>, bài đăng ngày 11/8/2026.</li>
+    </ol>
+
 </div>
 
 </body>
