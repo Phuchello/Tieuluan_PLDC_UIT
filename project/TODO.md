@@ -17,4 +17,22 @@
 - [x] QA & Self-Review: Writing QA Report, Red Team Questions, Citation Precheck
 - [x] HTML Version: Generate `report/REPORT_FULL.html`
 - [x] Final Phase 2 Checkpoint: Complete writing and self-review pass (`review: complete writing and self-review pass`)
-- [x] Update Project State & Handoff
+
+## Phase 2.5A: Forensic Audit
+- [x] Issue A: Advertising law version
+- [x] Issue B: Article 198 BLHS threshold
+- [x] Issue C: Orders ≠ customers
+- [x] Issue D: Revenue ≠ damage ≠ illicit profit
+- [x] Issue E: Unsupported operational details
+- [x] Issue F: Causation overclaim
+- [x] Issue G: Subjective element / intention
+- [x] Issue H: Legal capacity
+- [x] Issue I: Wrong criminal-law terminology
+- [x] Audit all legal bases (`qa/LEGAL_VERSION_AUDIT.md`)
+- [x] Source-to-claim traceability (`qa/FORENSIC_CLAIM_AUDIT.md`)
+- [x] Source map upgrade (`research/SOURCE_MAP_V2.md`)
+- [x] Report vs HTML parity audit (`qa/HTML_PARITY_AUDIT.md`)
+- [x] QA score arithmetic
+- [x] Human writing audit
+- [x] Patch plan creation (`qa/PHASE25A_PATCH_PLAN.md`)
+- [ ] Phase 2.5A Git Checkpoint
