@@ -12,10 +12,10 @@ Vận dụng lý luận Pháp luật đại cương để lựa chọn một v�
 
 ## Khung phân tích bốn yếu tố cấu thành
 
-1. **Khách thể:** Trật tự quản lý nhà nước về quảng cáo, thương mại; quyền được thông tin trung thực, an toàn sức khỏe của người tiêu dùng; quyền nhân thân về hình ảnh.
-2. **Mặt khách quan:** Hành vi quảng cáo sai sự thật, cắt ghép video người nổi tiếng; quy mô 5.429 đơn hàng thành công với tổng giá trị hơn 2,67 tỷ đồng; mối liên hệ nhân quả học thuật.
-3. **Chủ thể:** 21 bị can bị khởi tố; Nguyễn Tiến Đạt (sinh 1997, đủ tuổi thành niên); phân hóa vai trò giữa người tổ chức và nhóm nhân sự hỗ trợ.
-4. **Mặt chủ quan:** Lỗi cố ý trực tiếp ở người tổ chức; động cơ vụ lợi kinh tế và mục đích thúc đẩy bán hàng dựa trên thông tin sai lệch.
+1. **Khách thể:** Trật tự quản lý nhà nước về quảng cáo, thương mại; quyền được thông tin trung thực, an toàn sức khỏe của người tiêu dùng; quyền nhân thân về hình ảnh theo quy định pháp luật.
+2. **Mặt khách quan:** Hành vi quảng cáo sai sự thật, khai thác hình ảnh cắt ghép; quy mô 5.429 đơn hàng thành công với tổng giá trị tiền hàng hơn 2,67 tỷ đồng theo nguồn công khai; mối liên hệ nhân quả học thuật.
+3. **Chủ thể:** 21 bị can trong quyết định khởi tố; Nguyễn Tiến Đạt (sinh 1997, đã thành niên); phân hóa vai trò giữa người tổ chức và nhóm nhân sự hỗ trợ.
+4. **Mặt chủ quan:** Cơ sở phân tích hướng lỗi cố ý trực tiếp ở người tổ chức; động cơ vụ lợi kinh tế và mục đích thúc đẩy bán hàng dựa trên thông tin sai lệch.
 
 ## Dữ kiện vụ việc đã xác minh
 

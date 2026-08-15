@@ -39,9 +39,9 @@
 ## 1. Lý do chọn đề tài
 Trong sự phát triển nhanh chóng của nền kinh tế số và mạng xã hội tại Việt Nam, tiếp thị và phân phối hàng hóa trực tuyến đã trở thành phương thức giao thương phổ biến. Tuy nhiên, môi trường số cũng làm phát sinh nhiều hiện tượng gian dối thương mại tinh vi, trong đó có tình trạng lợi dụng tính ẩn danh và khả năng lan tỏa nhanh của mạng xã hội để quảng cáo sai sự thật. Đặc biệt đối với các sản phẩm chăm sóc sức khỏe và Đông y, việc cắt ghép hình ảnh người có uy tín để thổi phồng công dụng không chỉ gây nhầm lẫn cho người mua mà còn xâm phạm trật tự quản lý thị trường và quyền lợi của người tiêu dùng.
 
-Vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ khởi tố vụ án, khởi tố Nguyễn Tiến Đạt cùng 20 bị can liên quan đến hoạt động quảng cáo sản phẩm Đông y “Xương khớp bà Sáu” trên mạng xã hội vào tháng 8/2026 là một tình huống thực tiễn điển hình để vận dụng lý luận môn học. Dưới góc độ môn Pháp luật đại cương, vụ việc thể hiện đầy đủ các khía cạnh pháp lý của một vi phạm pháp luật có tổ chức trong môi trường số, đòi hỏi sự xem xét có hệ thống dựa trên bốn yếu tố cấu thành.
+Vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ khởi tố vụ án, khởi tố Nguyễn Tiến Đạt cùng 20 bị can liên quan đến hoạt động quảng cáo sản phẩm Đông y “Xương khớp bà Sáu” trên mạng xã hội vào tháng 8/2026 là một tình huống thực tiễn điển hình để vận dụng lý luận môn học. Dưới góc độ môn Pháp luật đại cương, vụ việc thể hiện đầy đủ các khía cạnh pháp lý của một vi phạm pháp luật diễn ra qua nhiều khâu trong môi trường số, đòi hỏi sự xem xét có hệ thống dựa trên bốn yếu tố cấu thành.
 
-Việc nghiên cứu đề tài này giúp sinh viên củng cố vững chắc phương pháp luận phân tích vi phạm pháp luật, rèn luyện kỹ năng đánh giá chứng cứ khách quan, đồng thời nâng cao ý thức tuân thủ pháp luật và đạo đức nghề nghiệp số (Digital Ethics) cho sinh viên Trường Đại học Công nghệ Thông tin – ĐHQG-HCM.
+Việc nghiên cứu đề tài này giúp sinh viên củng cố vững chắc phương pháp luận phân tích vi phạm pháp luật, rèn luyện kỹ năng đánh giá chứng cứ khách quan, đồng thời nâng cao ý thức tuân thủ pháp luật và đạo đức nghề nghiệp trong môi trường số cho sinh viên Trường Đại học Công nghệ Thông tin – ĐHQG-HCM.
 
 ## 2. Mục tiêu nghiên cứu
 - Hệ thống hóa cơ sở lý luận về vi phạm pháp luật và bốn yếu tố cấu thành theo chương trình học phần Pháp luật đại cương tại UIT.
@@ -120,7 +120,7 @@ Trong khoa học pháp lý, cần phân biệt rõ ba khái niệm:
 Mặt khách quan của vi phạm pháp luật là toàn bộ những biểu hiện bên ngoài của vi phạm pháp luật diễn ra trong thế giới khách quan, có thể nhận biết và kiểm chứng được [5]. Trong cấu thành mặt khách quan:
 1. **Hành vi trái pháp luật:** Là yếu tố trung tâm và bắt buộc trong mọi vi phạm pháp luật, thể hiện dưới dạng hành động (làm điều pháp luật cấm) hoặc không hành động (không làm điều pháp luật bắt buộc phải làm dù có đủ điều kiện thực hiện).
 2. **Hậu quả nguy hiểm cho xã hội:** Là những tổn hại thực tế hoặc nguy cơ đe dọa gây tổn hại cho các quan hệ xã hội được pháp luật bảo vệ. Tùy thuộc vào loại vi phạm và quy định của từng ngành luật, hậu quả có thể là thiệt hại vật chất, thể chất, tinh thần, trật tự quản lý xã hội hoặc nguy cơ đe dọa gây thiệt hại mà không nhất thiết phải luôn là thiệt hại vật chất đã được định lượng [5].
-3. **Mối quan hệ nhân quả:** Được xem xét khi cần quy kết một hậu quả pháp lý xác định cho hành vi vi phạm. Hành vi trái pháp luật phải xảy ra trước hậu quả về mặt thời gian và giữ vai trò là nguyên nhân trực tiếp dẫn tới hậu quả nguy hại đó.
+3. **Mối quan hệ nhân quả:** Được xem xét khi cần quy kết một hậu quả pháp lý xác định cho hành vi vi phạm. Hành vi trái pháp luật phải xảy ra trước hậu quả về mặt thời gian và giữ vai trò là nguyên nhân có mối liên hệ nội tại tất yếu dẫn tới hậu quả nguy hại đó.
 4. **Các yếu tố khách quan khác:** Bao gồm thời gian, địa điểm, công cụ, phương tiện và phương thức thực hiện hành vi, phản ánh mức độ tinh vi, quy mô và tính chất nguy hiểm của vi phạm.
 
 ## 1.6. Chủ thể của vi phạm pháp luật
@@ -230,7 +230,7 @@ Hành vi bị cáo buộc của các đối tượng đã tác động tiêu c�
    Theo quy định tại **Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng năm 2023**, pháp luật nghiêm cấm hành vi lừa dối hoặc gây nhầm lẫn cho người tiêu dùng thông qua cung cấp thông tin, quảng cáo [4]. Người tiêu dùng có quyền được cung cấp thông tin trung thực về công dụng và giá trị của sản phẩm. Việc tiếp nhận thông tin phóng đại làm tổn hại quyền được lựa chọn minh bạch của khách hàng.
 
 3. **Quyền nhân thân về hình ảnh của cá nhân:**
-   Căn cứ **Điều 32 Bộ luật Dân sự năm 2015**, việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý [2]. Hành vi tự ý chỉnh sửa, cắt ghép video, hình ảnh của người nổi tiếng để phục vụ mục đích bán hàng đã xâm phạm quyền về hình ảnh và có nguy cơ ảnh hưởng xấu đến uy tín cá nhân của họ.
+   Căn cứ **Điều 32 Bộ luật Dân sự năm 2015** [2] và pháp luật về quảng cáo [3], việc sử dụng hình ảnh cá nhân trong tiếp thị phải tuân thủ sự đồng ý hợp pháp hoặc các trường hợp luật định. Dữ kiện công khai ghi nhận việc sử dụng video, hình ảnh người nổi tiếng đã qua chỉnh sửa, cắt ghép để tiếp thị [6]. Dưới góc độ lý luận, nếu việc khai thác hình ảnh này diễn ra ngoài phạm vi đồng ý hoặc không thuộc ngoại lệ luật định thì đặt ra vấn đề xâm hại quyền nhân thân về hình ảnh. Cần lưu ý rằng nguồn tin công khai hiện chưa cung cấp đầy đủ thông tin về tình trạng thỏa thuận hoặc sự đồng ý của từng cá nhân xuất hiện trong hình ảnh.
 
 **Bảng 5. Phân biệt khách thể, đối tượng tác động và người bị ảnh hưởng**
 
@@ -238,10 +238,10 @@ Hành vi bị cáo buộc của các đối tượng đã tác động tiêu c�
 | :--- | :--- | :--- |
 | **Khách thể** | Trật tự quản lý quảng cáo, thương mại; quyền được thông tin trung thực của NTD; quyền hình ảnh | Mức độ tác động cụ thể chờ kết luận của cơ quan tố tụng |
 | **Đối tượng tác động** | Bài viết, video cắt ghép; sản phẩm Đông y “Xương khớp bà Sáu”; dòng tiền từ 5.429 đơn hàng | Là thực thể vật chất/thông tin cụ thể bị tác động |
-| **Người bị ảnh hưởng** | Khách hàng đặt mua qua 5.429 đơn hàng; người nổi tiếng bị sử dụng hình ảnh | Không suy đoán số lượng khách hàng riêng biệt hay ý chí từng người |
+| **Người bị ảnh hưởng** | Khách hàng đặt mua qua 5.429 đơn hàng; người nổi tiếng xuất hiện trong tư liệu quảng cáo cắt ghép | Không suy đoán số lượng khách hàng riêng biệt, ý chí từng người hay tình trạng thỏa thuận hình ảnh |
 
 ### 3.1.4. Nhận xét tiểu mục 3.1
-Việc xác định khách thể cho thấy hành vi bị cáo buộc đã xâm hại đa chiều đến các quan hệ xã hội được pháp luật bảo vệ, bao gồm cả trật tự quản lý công cộng và quyền lợi hợp pháp của các chủ thể tham gia giao dịch trên không gian mạng.
+Việc xác định khách thể cho thấy hành vi bị cáo buộc có thể tác động đa chiều đến các quan hệ xã hội được pháp luật bảo vệ, bao gồm cả trật tự quản lý công cộng và quyền lợi hợp pháp của các chủ thể tham gia giao dịch trên không gian mạng.
 
 ---
 
@@ -259,17 +259,17 @@ Mặt khách quan của vi phạm pháp luật bao gồm hành vi trái pháp lu
 
 #### A. Hành vi trái pháp luật (Dạng hành động)
 1. **Hành vi quảng cáo sai sự thật:** Đưa ra thông tin phóng đại, sai lệch về công dụng, chất lượng sản phẩm Đông y nhằm tạo niềm tin cho người mua. Hành vi này trái với quy định tại **khoản 9 Điều 8 Luật Quảng cáo** [3].
-2. **Hành vi sử dụng trái phép hình ảnh người nổi tiếng:** Cắt ghép video, hình ảnh người nổi tiếng lồng ghép vào nội dung tiếp thị mà không có sự đồng ý hợp pháp, trái với **Điều 32 Bộ luật Dân sự 2015** [2] và **khoản 8 Điều 8 Luật Quảng cáo** [3].
+2. **Hành vi khai thác hình ảnh cắt ghép người nổi tiếng trong quảng cáo:** Nguồn tin ghi nhận việc sử dụng hình ảnh, video cắt ghép người nổi tiếng lồng ghép vào nội dung tiếp thị [6]. Hoạt động này được đối chiếu với quy định tại **khoản 8 Điều 8 Luật Quảng cáo** [3] và **Điều 32 Bộ luật Dân sự 2015** [2] về điều kiện sử dụng hình ảnh cá nhân; nếu việc sử dụng không có sự đồng ý hợp lệ thì đây là một dạng hành vi trái quy định pháp luật.
 3. **Bối cảnh tố tụng về hành vi gian dối thương mại:** Cơ quan CSĐT đã khởi tố Đạt cùng 20 bị can về tội *“Lừa dối khách hàng”* theo khoản 2 Điều 198 Bộ luật Hình sự [1], [6]. Đây là cơ sở pháp lý tham chiếu xác định tính chất trái pháp luật của chuỗi hành vi.
 
 #### B. Quy mô và kết quả giao dịch ghi nhận
 Bài báo nêu rõ con số 5.429 đơn hàng thành công với **tổng giá trị tiền hàng** hơn 2,67 tỷ đồng [6]. Đây là quy mô kinh tế thực tế của hoạt động giao dịch. Dưới góc độ khoa học pháp lý, cần phân biệt tổng giá trị tiền hàng với số tiền thiệt hại thực tế của người mua, lợi nhuận thuần túy hay khoản thu lợi bất chính (vốn đòi hỏi phải bóc tách chi phí hợp lý và giá trị sử dụng thực theo kết luận của cơ quan tài phán).
 
 #### C. Mối quan hệ nhân quả ở mức độ học thuật
-Thông tin quảng cáo sai sự thật và hình ảnh cắt ghép đóng vai trò là yếu tố nguyên nhân trực tiếp dẫn dắt, tạo niềm tin sai lệch cho khách hàng tiếp cận trên mạng xã hội, từ đó thúc đẩy việc đặt mua 5.429 đơn hàng. Có mối liên hệ nhân quả khách quan giữa hành vi cung cấp thông tin sai lệch và hậu quả người mua chi trả tiền cho các đơn hàng.
+Nội dung quảng cáo sai sự thật và hình ảnh cắt ghép có khả năng tác động trực tiếp đến nhận thức, định hướng niềm tin của người tiếp cận thông tin trên mạng xã hội. Mối liên hệ giữa quy trình quảng cáo sai lệch và kết quả 5.429 đơn hàng được xác lập tạo cơ sở lý luận để phân tích mối quan hệ nhân quả trong học phần Pháp luật đại cương. Dưới góc độ nghiên cứu học thuật, báo cáo không khái quát rằng toàn bộ 5.429 đơn hàng đều xuất phát duy nhất từ yếu tố quảng cáo gian dối do dữ liệu công khai chưa cung cấp động cơ mua hàng cụ thể của từng người mua.
 
 ### 3.2.4. Nhận xét tiểu mục 3.2
-Mặt khách quan thể hiện rõ chuỗi hành vi hành động có tổ chức, sử dụng công nghệ số để phát tán thông tin sai lệch diện rộng, tạo ra quy mô giao dịch đáng kể trên thị trường trực tuyến.
+Mặt khách quan thể hiện rõ chuỗi hành vi hành động được triển khai theo nhiều khâu, sử dụng công nghệ số để phát tán thông tin sai lệch diện rộng, tạo ra quy mô giao dịch đáng kể trên thị trường trực tuyến.
 
 ---
 
@@ -279,13 +279,13 @@ Mặt khách quan thể hiện rõ chuỗi hành vi hành động có tổ chứ
 Chủ thể của vi phạm pháp luật là cá nhân hoặc tổ chức có năng lực trách nhiệm pháp lý đã thực hiện hành vi vi phạm [5]. Năng lực trách nhiệm pháp lý của cá nhân bao gồm việc đạt độ tuổi luật định và có trạng thái tâm thần bình thường, đủ khả năng nhận thức và điều khiển hành vi.
 
 ### 3.3.2. Dữ kiện thực tế ghi nhận
-Cơ quan CSĐT Công an tỉnh Phú Thọ đã ra quyết định khởi tố đối với **21 bị can**, trong đó Nguyễn Tiến Đạt sinh năm 1997 (29 tuổi tính đến năm 2026) được xác định là người tổ chức [6]. Phùng Thị Nguyệt Ánh là người liên quan đang tiếp tục được làm rõ hành vi; các nhân sự khác được phân công theo nhóm marketing, bán hàng, vận đơn [6].
+Cơ quan CSĐT Công an tỉnh Phú Thọ đã ra quyết định khởi tố đối với **21 bị can**, trong đó Nguyễn Tiến Đạt sinh năm 1997 được xác định là người tổ chức [6]. Phùng Thị Nguyệt Ánh là người liên quan đang tiếp tục được làm rõ hành vi; các nhân sự khác được phân công theo nhóm marketing, bán hàng, vận đơn [6].
 
 ### 3.3.3. Phân tích pháp lý chi tiết
 
 #### A. Đánh giá năng lực trách nhiệm pháp lý
-- **Về độ tuổi:** Bị can Nguyễn Tiến Đạt sinh năm 1997, đã đủ tuổi thành niên chịu trách nhiệm pháp lý đầy đủ. Đối với 20 bị can còn lại, nguồn tin công khai không công bố năm sinh của từng người; việc họ tham gia làm việc và bị khởi tố cho thấy cơ quan điều tra đã bước đầu thẩm tra điều kiện chủ thể theo quy trình tố tụng.
-- **Về khả năng nhận thức và điều khiển hành vi:** Dưới góc độ lý luận, các bị can tham gia hoạt động phân công công việc bình thường, không có thông tin về việc mất khả năng nhận thức. Việc kết luận tuyệt đối tình trạng tâm thần của từng cá nhân thuộc thẩm quyền của cơ quan tiến hành tố tụng dựa trên hồ sơ giám định chuyên môn.
+- **Về độ tuổi:** Bị can Nguyễn Tiến Đạt sinh năm 1997, đã đủ tuổi thành niên tại thời điểm diễn ra vụ việc (năm 2026). Đối với 20 bị can còn lại, tài liệu công khai chưa công bố năm sinh cụ thể; quyết định khởi tố của cơ quan điều tra là bối cảnh tố tụng phản ánh việc thẩm tra ban đầu, nhưng dữ liệu này chưa đủ để đánh giá độc lập về độ tuổi chính xác của từng cá nhân.
+- **Về khả năng nhận thức và điều khiển hành vi:** Nguồn tin công khai ghi nhận các cá nhân tham gia vào các khâu công việc cụ thể. Tuy nhiên, các tài liệu công khai được tiếp cận chưa cung cấp đủ dữ liệu để đánh giá độc lập tình trạng nhận thức và điều khiển hành vi của từng bị can; việc xác định chính xác năng lực trách nhiệm pháp lý thuộc thẩm quyền chuyên môn của cơ quan tiến hành tố tụng.
 
 #### B. Phân hóa vai trò của các nhóm cá nhân
 Dữ liệu công khai phản ánh sự phân công vai trò bước đầu:
@@ -294,7 +294,7 @@ Dữ liệu công khai phản ánh sự phân công vai trò bước đầu:
 3. **Các nhóm nhân sự hỗ trợ:** Thực hiện các khâu kỹ thuật marketing, tư vấn bán hàng, vận đơn và đóng hàng [6]. Mức độ nhận thức của từng nhân sự cần được cơ quan tố tụng cá thể hóa theo chứng cứ cụ thể.
 
 ### 3.3.4. Nhận xét tiểu mục 3.3
-Các chủ thể trong vụ việc đáp ứng các điều kiện lý luận chung về năng lực trách nhiệm pháp lý. Sự phân hóa vai trò cho thấy tính chất có tổ chức trong việc triển khai chuỗi hành vi.
+Về mặt lý luận, dữ kiện công khai cho phép xác định độ tuổi thành niên của người tổ chức (Nguyễn Tiến Đạt), trong khi các chủ thể khác cần thêm dữ liệu chứng cứ để đánh giá đầy đủ. Hoạt động thực tế thể hiện sự phân công công việc rõ nét giữa các khâu.
 
 ---
 
@@ -306,7 +306,7 @@ Mặt chủ quan phản ánh trạng thái tâm lý nội tâm của chủ thể
 ### 3.4.2. Phân tích chi tiết theo vai trò chủ thể
 
 #### A. Dữ kiện và đánh giá đối với Nguyễn Tiến Đạt
-- **Về yếu tố Lỗi:** Dữ kiện Đạt chỉ đạo dùng bài viết, video chỉnh sửa/cắt ghép và nội dung phóng đại, sai lệch để tạo niềm tin cho khách hàng là cơ sở xác định dấu hiệu **Lỗi cố ý trực tiếp**:
+- **Về yếu tố Lỗi:** Dữ kiện Đạt chỉ đạo dùng bài viết, video chỉnh sửa/cắt ghép và nội dung phóng đại, sai lệch để tạo niềm tin cho khách hàng cho thấy dấu hiệu và tạo cơ sở để phân tích theo hướng **Lỗi cố ý trực tiếp**:
   - *Về lý trí:* Nhận thức rõ mức giá mua 23.000 đồng và việc sử dụng nội dung cắt ghép, sai lệch là không trung thực; thấy trước khách hàng sẽ tin vào quảng cáo để mua hàng.
   - *Về ý chí:* Chủ động thúc đẩy nội dung tiếp thị nhằm mục đích bán được nhiều đơn hàng với mức giá 199.000 đồng/sản phẩm.
 - **Về Động cơ và Mục đích:**
@@ -325,11 +325,11 @@ Chênh lệch giá mua 23.000 đồng và giá bán 199.000 đồng cùng việc
 | :--- | :--- | :--- |
 | **Fact (Dữ kiện)** | Đạt mua sản phẩm giá 23k, bán 199k; chỉ đạo nội dung cắt ghép, phóng đại công dụng [6]. | Dữ liệu chính thức từ cơ quan điều tra |
 | **Interpretation** | Đạt chủ động định hướng tiếp thị sai sự thật để tạo niềm tin và thúc đẩy giao dịch. | Suy luận logic, phù hợp với diễn biến khách quan |
-| **Legal Reasoning** | Nhận thức rõ tính chất sai lệch và chủ động mong muốn bán hàng $\rightarrow$ Dấu hiệu lỗi cố ý trực tiếp. | Vận dụng chuẩn khung lý luận môn học |
+| **Legal Reasoning** | Nhận thức rõ tính chất sai lệch và mong muốn bán hàng tạo cơ sở phân tích hướng lỗi cố ý trực tiếp. | Suy luận học thuật có căn cứ lý luận |
 | **Scope Limitation** | Không tự ý áp đặt lỗi cố ý trực tiếp đồng loạt cho toàn bộ nhân sự hỗ trợ. | Tuân thủ nguyên tắc khách quan |
 
 ### 3.4.3. Nhận xét tiểu mục 3.4
-Mặt chủ quan thể hiện rõ lỗi cố ý trực tiếp và động cơ vụ lợi của người tổ chức. Việc phân hóa trạng thái tâm lý theo từng nhóm đối tượng bảo đảm tính chặt chẽ và khách quan của phương pháp luận nghiên cứu pháp lý.
+Dưới góc độ lý luận, các dữ kiện công khai tạo cơ sở phân tích hướng lỗi cố ý trực tiếp và động cơ vụ lợi của người tổ chức điều hành. Việc không áp đặt đồng loạt trạng thái tâm lý cho các nhân sự hỗ trợ thể hiện sự chuẩn mực và thận trọng trong phương pháp luận nghiên cứu pháp lý.
 
 ---
 
@@ -339,10 +339,10 @@ Mặt chủ quan thể hiện rõ lỗi cố ý trực tiếp và động cơ v�
 
 | Yếu tố cấu thành | Dữ kiện thực tế chính [6] | Phân tích lý luận pháp lý | Kết luận đánh giá |
 | :--- | :--- | :--- | :--- |
-| **1. Khách thể** | Sản phẩm giá mua 23k bán 199k; video người nổi tiếng bị cắt ghép; 5.429 đơn hàng thành công. | Xâm hại trật tự quản lý nhà nước về quảng cáo, thương mại; quyền được thông tin trung thực của NTD; quyền nhân thân về hình ảnh. | **Khách thể bị xâm hại đa chiều**, ảnh hưởng trật tự thị trường và quyền lợi người tiêu dùng. |
-| **2. Mặt khách quan** | Hành vi quảng cáo sai sự thật, cắt ghép video không phép; phát sinh 5.429 đơn hàng với tổng giá trị hơn 2,67 tỷ đồng. | Chuỗi hành vi hành động trái pháp luật; có mối liên hệ nhân quả trực tiếp giữa thông tin sai lệch và quyết định đặt mua của khách hàng. | **Hành vi trái pháp luật có tổ chức**, quy mô giao dịch lớn trên môi trường mạng xã hội. |
-| **3. Chủ thể** | Khởi tố Nguyễn Tiến Đạt cùng 20 bị can; Đạt sinh 1997; có các nhóm nhân sự marketing, bán hàng, vận đơn. | Đạt đủ tuổi thành niên; các cá nhân có năng lực nhận thức theo thẩm tra tố tụng ban đầu; có sự phân công vai trò rõ nét. | **Chủ thể có năng lực trách nhiệm pháp lý**, có sự phân hóa vai trò tổ chức và hỗ trợ. |
-| **4. Mặt chủ quan** | Cố ý đưa nội dung phóng đại, cắt ghép clip người có uy tín để tạo niềm tin, thúc đẩy bán hàng giá 199k. | Đạt có lỗi cố ý trực tiếp, động cơ vụ lợi kinh tế; nhân sự hỗ trợ cần chờ cơ quan điều tra làm rõ mức độ nhận thức cụ thể. | **Lỗi cố ý trực tiếp ở người tổ chức**, mục đích kinh tế gắn với chuỗi giao dịch. |
+| **1. Khách thể** | Sản phẩm giá mua 23k bán 199k; video người nổi tiếng bị cắt ghép; 5.429 đơn hàng thành công. | Xâm hại trật tự quản lý nhà nước về quảng cáo, thương mại; quyền được thông tin trung thực của NTD; quyền nhân thân về hình ảnh. | **Khách thể chịu tác động đa chiều**, ảnh hưởng trật tự thị trường và quyền lợi người tiêu dùng. |
+| **2. Mặt khách quan** | Hành vi quảng cáo sai sự thật, sử dụng video cắt ghép; phát sinh 5.429 đơn hàng với tổng giá trị tiền hàng hơn 2,67 tỷ đồng theo nguồn công khai. | Chuỗi hành vi hành động trái pháp luật; thông tin sai lệch có khả năng tác động đến nhận thức người mua trong chuỗi giao dịch. | **Hành vi trái pháp luật qua nhiều khâu**, quy mô giao dịch lớn trên môi trường mạng xã hội. |
+| **3. Chủ thể** | Khởi tố Nguyễn Tiến Đạt cùng 20 bị can; Đạt sinh 1997; có các nhóm nhân sự marketing, bán hàng, vận đơn. | Đạt đã thành niên; các chủ thể khác chưa đủ dữ liệu công khai để đánh giá chi tiết; có sự phân công công việc rõ rệt. | **Xác định được độ tuổi của người tổ chức**, có sự phân hóa vai trò tổ chức và hỗ trợ. |
+| **4. Mặt chủ quan** | Dữ kiện chỉ đạo nội dung phóng đại, cắt ghép tư liệu người có uy tín để tạo niềm tin và bán hàng giá 199k. | Có cơ sở phân tích hướng lỗi cố ý trực tiếp và động cơ vụ lợi ở Đạt; nhân sự hỗ trợ cần thêm chứng cứ cụ thể. | **Cơ sở phân tích hướng lỗi cố ý trực tiếp ở người tổ chức**, động cơ vụ lợi gắn với hoạt động tiếp thị. |
 
 ---
 
@@ -365,17 +365,17 @@ Vụ việc đường dây quảng cáo gian dối sản phẩm Đông y bị tr
 Vụ việc mang lại bài học sâu sắc cho sinh viên Trường Đại học Công nghệ Thông tin (UIT):
 - **Trách nhiệm pháp lý trong công việc kỹ thuật số:** Khi tham gia các công việc làm thêm như chạy quảng cáo, chỉnh sửa video, quản trị trang mạng xã hội, sinh viên cần có nhận thức rõ ràng về tính hợp pháp của nội dung mình tạo ra; tuyệt đối từ chối tham gia các hoạt động cắt ghép hình ảnh giả mạo hoặc truyền bá thông tin lừa dối.
 - **Nhận thức về trách nhiệm liên đới:** Việc hỗ trợ kỹ thuật hoặc tham gia vào quy trình phát tán thông tin gian dối có thể bị xem xét trách nhiệm pháp lý tùy theo mức độ nhận thức và hành vi cụ thể.
-- **Giữ vững đạo đức nghề nghiệp số (Digital Ethics):** Năng lực công nghệ phải được sử dụng để xây dựng các giải pháp hữu ích, phục vụ cộng đồng, không tiếp tay cho các hành vi gian dối, trục lợi bất chính.
+- **Giữ vững đạo đức nghề nghiệp trong môi trường số:** Năng lực công nghệ phải được sử dụng để xây dựng các giải pháp hữu ích, phục vụ cộng đồng, không tiếp tay cho các hành vi gian dối, trục lợi bất chính.
 
 ---
 
 # KẾT LUẬN
 
-Vận dụng lý luận cấu thành vi phạm pháp luật là phương pháp luận nền tảng của môn học Pháp luật đại cương, giúp phân tích và làm sáng tỏ bản chất pháp lý của các hành vi thực tế trong đời sống xã hội. Qua việc xem xét vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ khởi tố 21 bị can liên quan đến sản phẩm "Xương khớp bà Sáu", bài tiểu luận đã làm sáng tỏ bốn yếu tố cấu thành:
-1. **Khách thể:** Xâm hại trật tự quản lý nhà nước về hoạt động quảng cáo, thương mại và quyền được bảo đảm thông tin trung thực của người tiêu dùng trong 5.429 đơn hàng được xác lập.
-2. **Mặt khách quan:** Thể hiện qua chuỗi hành vi hành động: sản xuất nội dung quảng cáo sai sự thật, sử dụng trái phép hình ảnh người nổi tiếng và thực hiện giao dịch thu về hơn 2,67 tỷ đồng tiền hàng.
-3. **Chủ thể:** Gồm 21 bị can đủ điều kiện về năng lực trách nhiệm pháp lý theo ghi nhận tố tụng ban đầu, trong đó có sự phân hóa vai trò giữa người tổ chức điều hành (Nguyễn Tiến Đạt) và các nhóm nhân sự hỗ trợ.
-4. **Mặt chủ quan:** Thể hiện lỗi cố ý trực tiếp ở người tổ chức, xuất phát từ động cơ vụ lợi kinh tế và mục đích thúc đẩy bán hàng dựa trên thông tin gian dối.
+Vận dụng lý luận cấu thành vi phạm pháp luật là phương pháp luận nền tảng của môn học Pháp luật đại cương, giúp phân tích và làm sáng tỏ bản chất pháp lý của các hành vi thực tế trong đời sống xã hội. Qua việc xem xét vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ khởi tố 21 bị can liên quan đến sản phẩm "Xương khớp bà Sáu", bài tiểu luận đã tổng hợp bốn yếu tố cấu thành dưới góc độ học thuật:
+1. **Khách thể:** Hành vi bị xem xét tác động tiêu cực đến trật tự quản lý nhà nước về quảng cáo, thương mại, quyền được cung cấp thông tin trung thực của người tiêu dùng và quyền nhân thân về hình ảnh của cá nhân theo quy định pháp luật.
+2. **Mặt khách quan:** Thể hiện qua chuỗi hành động sản xuất nội dung quảng cáo sai sự thật, khai thác hình ảnh cắt ghép và phát sinh 5.429 đơn hàng thành công với tổng giá trị tiền hàng hơn 2,67 tỷ đồng theo nguồn công khai; tạo cơ sở phân tích mối liên hệ nhân quả giữa hoạt động tiếp thị và kết quả giao dịch.
+3. **Chủ thể:** Lý luận môn học yêu cầu chủ thể phải thỏa mãn điều kiện độ tuổi và khả năng nhận thức; dữ liệu công khai cho phép xác định Nguyễn Tiến Đạt đã thành niên, trong khi việc đánh giá toàn diện năng lực trách nhiệm pháp lý của các cá nhân khác cần căn cứ vào kết luận chính thức của cơ quan tố tụng.
+4. **Mặt chủ quan:** Dữ kiện thực tế tạo cơ sở phân tích theo hướng lỗi cố ý trực tiếp và động cơ vụ lợi kinh tế đối với người tổ chức điều hành; đối với các nhân sự hỗ trợ, trạng thái tâm lý cần được phân hóa dựa trên mức độ nhận thức cụ thể trong quá trình giải quyết vụ án.
 
 Tiểu luận không chỉ giúp sinh viên UIT rèn luyện tư duy pháp lý khoa học mà còn nhấn mạnh ý nghĩa của việc thượng tôn pháp luật và giữ gìn đạo đức nghề nghiệp trong kỷ nguyên công nghệ số.
 
