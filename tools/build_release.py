@@ -80,9 +80,9 @@ def markdown_html(text: str) -> str:
 CSS = """
 @page { size: A4; margin: 2.2cm 2cm 2.2cm 3.2cm; }
 body { font-family: 'Times New Roman', serif; font-size: 13pt; line-height: 1.5; color:#111; }
-h1,h2,h3 { text-align:center; line-height:1.3; page-break-after:avoid; }
-h1 { font-size:16pt; margin:18pt 0 12pt; } h2 { font-size:15pt; margin:18pt 0 10pt; }
-h3 { font-size:14pt; margin:14pt 0 8pt; } p { text-align:justify; text-indent:1.25cm; margin:0 0 8pt; }
+h1 { text-align:center; font-size:16pt; margin:18pt 0 12pt; page-break-before:always; page-break-after:avoid; }
+h2,h3 { text-align:left; line-height:1.3; page-break-after:avoid; }
+h2 { font-size:14pt; margin:16pt 0 8pt; } h3 { font-size:13pt; margin:12pt 0 6pt; } p { text-align:justify; text-indent:1.25cm; margin:0 0 8pt; }
 li { text-align:justify; margin-bottom:4pt; } table { width:100%; border-collapse:collapse; font-size:10pt; margin:10pt 0; }
 th,td { border:0.6pt solid #333; padding:4pt; vertical-align:top; } th { background:#ececec; text-align:center; }
 pre { white-space:pre-wrap; font-family:'Courier New',monospace; font-size:9pt; line-height:1.25; padding:8pt; border:0.5pt solid #aaa; }
@@ -117,6 +117,12 @@ def set_cell(cell, value, bold=False, size=9):
     cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
 
 
+def add_toc_field(paragraph):
+    field = OxmlElement("w:fldSimple")
+    field.set(qn("w:instr"), 'TOC \\o "1-3" \\h \\z \\u')
+    paragraph._p.append(field)
+
+
 def build_docx(text: str):
     d = Document(); section = d.sections[0]
     section.page_width, section.page_height = Cm(21), Cm(29.7)
@@ -124,16 +130,27 @@ def build_docx(text: str):
     section.top_margin, section.bottom_margin = Cm(2.2), Cm(2.2)
     normal = d.styles["Normal"]; normal.font.name = "Times New Roman"; normal._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman"); normal.font.size = Pt(13)
     normal.paragraph_format.line_spacing = 1.5; normal.paragraph_format.space_after = Pt(6); normal.paragraph_format.first_line_indent = Cm(1.25)
-    for level, size in ((1,16),(2,15),(3,14),(4,13)):
+    section.different_first_page_header_footer = True
+    for level, size in ((1,16),(2,14),(3,13),(4,13)):
         style = d.styles[f"Heading {level}"]; style.font.name = "Times New Roman"; style._element.rPr.rFonts.set(qn("w:eastAsia"), "Times New Roman"); style.font.size = Pt(size); style.font.bold = True
         style.paragraph_format.space_before = Pt(14); style.paragraph_format.space_after = Pt(8); style.paragraph_format.keep_with_next = True
+        style.paragraph_format.first_line_indent = Cm(0)
+        style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER if level == 1 else WD_ALIGN_PARAGRAPH.LEFT
     footer = section.footer.paragraphs[0]; footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = footer.add_run("Trang "); set_font(run, 10)
     fld = OxmlElement("w:fldSimple"); fld.set(qn("w:instr"), "PAGE"); footer._p.append(fld)
-    lines = text.splitlines(); i = 0; table_rows = []
+    lines = text.splitlines(); i = 0; table_rows = []; skip_toc = False
     cover = True
     while i < len(lines):
         line = lines[i]
+        if line.startswith("## MỤC LỤC"):
+            p = d.add_paragraph("MỤC LỤC", style="Heading 1"); p.paragraph_format.page_break_before = True
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            add_toc_field(d.add_paragraph())
+            d.add_page_break(); skip_toc = True; i += 1; continue
+        if skip_toc:
+            if line.strip() == "---": skip_toc = False
+            i += 1; continue
         if line.startswith("## DANH SÁCH") and cover:
             d.add_page_break(); cover = False
         if line.startswith("|"):
@@ -154,7 +171,13 @@ def build_docx(text: str):
             add_runs(p, "\n".join(block), 9); i += 1; continue
         m=re.match(r"^(#{1,6})\s+(.*)$", line)
         if m:
-            lvl=min(len(m.group(1)),4); p=d.add_paragraph(style=f"Heading {lvl}"); p.alignment=WD_ALIGN_PARAGRAPH.CENTER if cover or lvl <= 2 else WD_ALIGN_PARAGRAPH.LEFT; p.paragraph_format.first_line_indent=Cm(0); add_runs(p,m.group(2), [16,15,14,13][lvl-1]); i += 1; continue
+            title = m.group(2); markdown_level = len(m.group(1))
+            if cover:
+                p=d.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.first_line_indent=Cm(0); add_runs(p, title, 16 if markdown_level == 1 else 14); i += 1; continue
+            lvl = 1 if markdown_level == 1 else 2 if markdown_level == 2 else 3
+            p=d.add_paragraph(style=f"Heading {lvl}"); p.alignment=WD_ALIGN_PARAGRAPH.CENTER if lvl == 1 else WD_ALIGN_PARAGRAPH.LEFT; p.paragraph_format.first_line_indent=Cm(0)
+            if lvl == 1: p.paragraph_format.page_break_before = True
+            add_runs(p,title, [16,14,13][lvl-1]); i += 1; continue
         m=re.match(r"^\s*[-*]\s+(.*)$",line)
         if m:
             p=d.add_paragraph(style="List Bullet"); p.alignment=WD_ALIGN_PARAGRAPH.JUSTIFY; p.paragraph_format.first_line_indent=Cm(0); add_runs(p,m.group(1)); i += 1; continue
