@@ -171,10 +171,10 @@ Chương 3 vận dụng khung lý thuyết cấu thành vi phạm pháp luật c
 Khách thể của vi phạm pháp luật là quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm xâm hại [5]. Trong vụ việc này, các hành vi bị xem xét tác động đến ba nhóm quan hệ xã hội chính:
 
 1. **Trật tự quản lý nhà nước về quảng cáo và thương mại:**
-   Nhà nước ban hành các quy định nhằm bảo đảm tính trung thực và cạnh tranh lành mạnh trên thị trường. Việc đưa thông tin sai lệch về công dụng sản phẩm và sử dụng hình ảnh không đúng quy định vi phạm quy tắc quản lý tại Điều 8 và Điều 19 Luật Quảng cáo [3], làm ảnh hưởng đến trật tự kinh doanh chung.
+   Nhà nước ban hành các quy định nhằm bảo đảm tính trung thực và cạnh tranh lành mạnh trên thị trường. Nếu các dữ kiện được làm rõ trong tố tụng, việc đưa thông tin sai lệch về công dụng sản phẩm và sử dụng hình ảnh không đúng quy định có thể được đối chiếu với Điều 8 và Điều 19 Luật Quảng cáo [3] để đánh giá tác động đến trật tự kinh doanh chung.
 
 2. **Quyền và lợi ích hợp pháp của người tiêu dùng:**
-   Theo Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng năm 2023, pháp luật nghiêm cấm hành vi lừa dối hoặc gây nhầm lẫn cho người tiêu dùng thông qua hoạt động cung cấp thông tin, quảng cáo [4]. Người tiêu dùng có quyền được cung cấp thông tin trung thực về công dụng và giá trị sản phẩm. Việc tiếp nhận thông tin phóng đại làm ảnh hưởng trực tiếp đến quyền lựa chọn đúng đắn của người mua.
+   Theo Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng năm 2023, pháp luật nghiêm cấm hành vi lừa dối hoặc gây nhầm lẫn cho người tiêu dùng thông qua hoạt động cung cấp thông tin, quảng cáo [4]. Người tiêu dùng có quyền được cung cấp thông tin trung thực về công dụng và giá trị sản phẩm. Thông tin bị nêu là phóng đại có thể ảnh hưởng đến quyền lựa chọn của người mua nếu được chứng minh trong quá trình giải quyết vụ việc.
 
 3. **Quyền nhân thân về hình ảnh của cá nhân:**
    Theo Điều 32 Bộ luật Dân sự năm 2015 [2] và pháp luật về quảng cáo [3], việc sử dụng hình ảnh cá nhân trong hoạt động thương mại phải tuân thủ sự đồng ý hợp pháp hoặc các trường hợp ngoại lệ theo luật định. Dữ kiện ghi nhận nhóm đối tượng sử dụng hình ảnh, video cắt ghép người nổi tiếng để quảng cáo [6]. Nếu việc khai thác này không có sự đồng ý hoặc không thuộc trường hợp luật định thì làm phát sinh vấn đề xâm phạm quyền hình ảnh cá nhân.
@@ -188,9 +188,9 @@ Trong vụ việc này, khách thể là các quan hệ xã hội được pháp
 
 ### 3.2.1. Hành vi trái pháp luật
 Mặt khách quan thể hiện qua chuỗi hành vi hành động cụ thể trên thực tế:
-- **Quảng cáo sai sự thật:** Đưa ra thông tin phóng đại, không đúng về công dụng của sản phẩm Đông y nhằm tạo niềm tin cho người mua, vi phạm khoản 9 Điều 8 Luật Quảng cáo [3].
-- **Sử dụng tư liệu cắt ghép người nổi tiếng:** Lồng ghép hình ảnh, video người có uy tín đã qua chỉnh sửa vào nội dung bán hàng [6], vi phạm khoản 8 Điều 8 Luật Quảng cáo [3] và Điều 32 Bộ luật Dân sự 2015 [2] nếu không có sự đồng ý hợp lệ.
-- **Bối cảnh tố tụng:** Cơ quan điều tra đã khởi tố Đạt cùng 20 bị can về tội *“Lừa dối khách hàng”* theo khoản 2 Điều 198 Bộ luật Hình sự [1], [6], phản ánh tính chất trái pháp luật của chuỗi hành vi.
+- **Nội dung quảng cáo bị nêu là phóng đại, sai lệch:** Theo nguồn công khai, nội dung về công dụng sản phẩm được nêu là phóng đại, sai lệch nhằm tạo niềm tin cho người mua; dữ kiện này có thể được đối chiếu với khoản 9 Điều 8 Luật Quảng cáo [3].
+- **Tư liệu cắt ghép người nổi tiếng:** Bài báo nêu hình ảnh, video người có uy tín đã qua chỉnh sửa được đưa vào nội dung bán hàng [6]. Vấn đề này có thể được đối chiếu với khoản 8 Điều 8 Luật Quảng cáo [3] và Điều 32 Bộ luật Dân sự 2015 [2] nếu không có sự đồng ý hợp lệ.
+- **Bối cảnh tố tụng:** Cơ quan điều tra đã khởi tố Đạt cùng 20 bị can về tội *“Lừa dối khách hàng”* theo khoản 2 Điều 198 Bộ luật Hình sự [1], [6]. Đây là dữ kiện tố tụng, không phải kết luận của báo cáo về trách nhiệm cuối cùng.
 
 ### 3.2.2. Quy mô giao dịch và hậu quả ghi nhận
 Nguồn tin chính thức ghi nhận nhóm đã thực hiện thành công **5.429 đơn hàng** với **tổng giá trị tiền hàng hơn 2,67 tỷ đồng** [6]. Đây là quy mô giao dịch phát sinh trên thực tế. Cần phân biệt tổng giá trị tiền hàng với thiệt hại thực tế của người mua hay lợi nhuận thuần túy của người bán, bởi việc xác định chính xác thiệt hại phụ thuộc vào kết luận tài chính của cơ quan tố tụng.
@@ -219,8 +219,8 @@ Dữ liệu công khai cho thấy có sự phân công công việc giữa các 
 
 ### 3.4.1. Phân tích đối với người tổ chức (Nguyễn Tiến Đạt)
 - **Về yếu tố Lỗi:** Việc chỉ đạo tạo lập nội dung cắt ghép hình ảnh và phóng đại công dụng sản phẩm để tạo niềm tin cho người mua tạo cơ sở để phân tích theo hướng **Lỗi cố ý trực tiếp**:
-  - *Về lý trí:* Nhận thức rõ giá mua 23.000 đồng và nội dung quảng cáo cắt ghép là không đúng sự thật; thấy trước việc quảng cáo này sẽ khiến khách hàng tin tưởng đặt mua.
-  - *Về ý chí:* Mong muốn bán được nhiều sản phẩm với mức giá 199.000 đồng/sản phẩm để thu tiền.
+  - *Về lý trí:* Từ việc chỉ đạo nội dung cắt ghép và phóng đại được bài báo nêu, có thể suy luận ở mức học thuật về nhận thức đối với tính không trung thực của cách quảng cáo; không phải kết luận về nội tâm đã được chứng minh.
+  - *Về ý chí:* Mục đích tạo niềm tin và thúc đẩy người mua đặt hàng được bài báo nêu là cơ sở để phân tích hướng bán sản phẩm với giá 199.000 đồng/sản phẩm và thu tiền từ giao dịch.
 - **Về Động cơ và Mục đích:**
   - *Động cơ:* Chênh lệch giữa giá mua và giá bán cùng quy mô tiếp thị tạo cơ sở phân tích theo hướng có động cơ vụ lợi kinh tế.
   - *Mục đích:* Tạo niềm tin để người tiếp cận đặt mua sản phẩm và phát sinh giao dịch bán hàng [6].
@@ -246,7 +246,7 @@ Dữ liệu công khai cho thấy có sự phân công công việc giữa các 
 # CHƯƠNG 4: NHẬN XÉT VÀ BÀI HỌC THỰC TIỄN
 
 ## 4.1. Một số nhận xét từ vụ việc
-Vụ việc tại Phú Thọ phản ánh thực trạng lợi dụng mạng xã hội để tiếp thị gian dối thông qua việc cắt ghép hình ảnh người có uy tín nhằm tạo niềm tin cho người mua. Việc quảng cáo sai lệch kết hợp với khả năng lan truyền nhanh của không gian mạng khiến nhiều người tiêu dùng dễ dàng đưa ra quyết định mua hàng đối với sản phẩm được quảng cáo bằng thông tin phóng đại hoặc chưa được kiểm chứng đầy đủ về chất lượng.
+Từ dữ kiện vụ việc tại Phú Thọ có thể thấy rủi ro của việc dùng mạng xã hội để tiếp thị bằng nội dung bị nêu là phóng đại, sai lệch và hình ảnh cắt ghép người có uy tín. Khả năng lan truyền nhanh của không gian mạng có thể làm tăng nguy cơ người tiếp nhận đưa ra quyết định mua hàng trên cơ sở thông tin chưa được kiểm chứng đầy đủ.
 
 Đồng thời, mô hình hoạt động phân chia nhiều khâu (marketing, tư vấn, vận đơn, giao nhận) đặt ra yêu cầu phải xem xét kỹ mức độ tham gia và nhận thức thực tế của từng cá nhân để xác định đúng trách nhiệm pháp lý.
 
@@ -259,7 +259,7 @@ Từ vụ việc này, bài học quan trọng đối với hoạt động kinh 
 
 # KẾT LUẬN
 
-Qua các dữ kiện công khai, vụ việc có thể được phân tích theo bốn yếu tố cấu thành vi phạm pháp luật: hành vi quảng cáo sai sự thật và khai thác hình ảnh cắt ghép tác động đến trật tự quản lý quảng cáo, quyền lợi của người tiêu dùng và quyền hình ảnh cá nhân theo quy định pháp luật; chuỗi hành vi được thực hiện qua nhiều khâu với 5.429 đơn hàng phát sinh; người tổ chức (Nguyễn Tiến Đạt) đã đủ tuổi thành niên; và dữ kiện tiếp thị phóng đại để bán hàng giá cao tạo cơ sở phân tích hướng lỗi cố ý trực tiếp gắn với động cơ kinh tế.
+Qua các dữ kiện công khai, vụ việc có thể được phân tích theo bốn yếu tố cấu thành vi phạm pháp luật: dữ kiện về nội dung quảng cáo bị nêu là sai lệch và hình ảnh cắt ghép cho phép xem xét tác động đến trật tự quản lý quảng cáo, quyền lợi người tiêu dùng và quyền hình ảnh theo quy định pháp luật; chuỗi hoạt động có 5.429 đơn hàng phát sinh; Nguyễn Tiến Đạt đã đủ tuổi thành niên; và dữ kiện tiếp thị phóng đại để bán hàng giá cao tạo cơ sở phân tích hướng lỗi cố ý trực tiếp gắn với động cơ kinh tế.
 
 Do vụ án vẫn đang trong giai đoạn điều tra mở rộng, các nhận định trong báo cáo chỉ dừng lại ở phạm vi nghiên cứu học thuật dựa trên dữ liệu công khai hiện có. Việc vận dụng lý luận môn Pháp luật đại cương vào tình huống thực tế đã giúp nhóm hiểu rõ phương pháp đánh giá một vi phạm pháp luật và nhận thức sâu sắc hơn về trách nhiệm pháp lý khi làm việc trong môi trường công nghệ.
 
