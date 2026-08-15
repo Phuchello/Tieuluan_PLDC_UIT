@@ -243,7 +243,8 @@ def build_pdf(text: str):
         if m: story.append(Paragraph(pdf_markup(m.group(1)), bullet, bulletText="-")); i+=1; continue
         story.append(Paragraph(pdf_markup(line), cover_body if cover else body)); i+=1
     def footer(canvas, _doc):
-        canvas.setFont("TimesNewRoman",10); canvas.drawCentredString(A4[0]/2,1.2*cm,f"Trang {canvas.getPageNumber()}")
+        if canvas.getPageNumber() > 1:
+            canvas.setFont("TimesNewRoman",10); canvas.drawCentredString(A4[0]/2,1.2*cm,f"Trang {canvas.getPageNumber()}")
     doc.build(story,onFirstPage=footer,onLaterPages=footer)
 
 
