@@ -1,73 +1,27 @@
-# TÀI LIỆU ÔN TẬP VÀ BẢO VỆ VẤN ĐÁP TIỂU LUẬN PLĐC (ORAL DEFENSE CHEATSHEET)
+# TÀI LIỆU ÔN TẬP VÀ BẢO VỆ VẤN ĐÁP TIỂU LUẬN PLĐC
 
-*Tài liệu nội bộ dành cho nhóm sinh viên UIT chuẩn bị bảo vệ tiểu luận trước Giảng viên.*
+## Dữ kiện cần nhớ
 
----
+1. Nguồn gốc là Báo Điện tử Chính phủ, đăng lúc 14:47 ngày 10/08/2026.
+2. Ngày khởi tố vụ án và khởi tố Đạt cùng 20 bị can là **07/08/2026**, không phải ngày bài báo đăng.
+3. Khám xét khẩn cấp được nêu là ngày 31/07/2026; nguồn nói “tạm giữ” hơn 1,77 tỷ đồng, không nói phong tỏa.
+4. Tội danh được nêu là “Lừa dối khách hàng”, khoản 2 Điều 198 BLHS.
+5. Nguồn nêu Đạt sinh năm 1997 và chỉ đạo dùng nội dung chỉnh sửa/cắt ghép, phóng đại, sai lệch để tạo niềm tin, thúc đẩy mua hàng.
+6. Ánh là người liên quan; bài báo nói cơ quan điều tra đang tiếp tục làm rõ, không xác định Ánh là bị can.
+7. Chỉ nói “sản phẩm Đông y” và “mạng xã hội”; không tự thêm Facebook, TikTok hoặc COD.
+8. 5.429 là số đơn hàng, không phải số người; hơn 2,67 tỷ là tổng giá trị tiền hàng, không phải thiệt hại hoặc thu lợi bất chính.
 
-## I. 10 DỮ KIỆN CỐT LÕI CẦN THUỘC LÒNG (10 CORE FACTS)
+## Bốn ý trả lời an toàn
 
-1. **Cơ quan thụ lý:** Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ.
-2. **Thời điểm tố tụng:** Khởi tố vụ án và khởi tố bị can ngày **10/8/2026** (khám xét khẩn cấp ngày 31/7/2026).
-3. **Số lượng đối tượng:** **21 bị can** bị khởi tố.
-4. **Tội danh khởi tố:** Tội *"Lừa dối khách hàng"* theo **khoản 2 Điều 198 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung 2017)**.
-5. **Đối tượng cầm đầu:** **Nguyễn Tiến Đạt** (sinh năm 1997, trú tại Hà Nội).
-6. **Chủ thể cung ứng:** **Phùng Thị Nguyệt Ánh** (Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh).
-7. **Sản phẩm liên quan:** Thảo dược mang nhãn hiệu **"Xương khớp bà Sáu"**.
-8. **Chênh lệch giá:** Giá nhập gốc **23.000 đồng/hộp** $\rightarrow$ Giá bán lừa dối **199.000 đồng/hộp** (gấp gần 9 lần).
-9. **Quy mô giao dịch:** Thực hiện thành công **5.429 đơn hàng** với tổng doanh thu ghi nhận hơn **2,67 tỷ đồng** (tháng 5 – tháng 7/2026).
-10. **Tài sản phong tỏa:** Hơn **1,77 tỷ đồng** trong tài khoản ngân hàng của các đối tượng liên quan.
+- **Khách thể:** Là quan hệ quản lý quảng cáo/thương mại và quyền được thông tin trung thực, không phải bản thân “khách hàng”.
+- **Mặt khách quan:** Dùng dữ kiện về nội dung quảng cáo sai lệch và đơn hàng; không khẳng định từng người mua đã tin quảng cáo.
+- **Chủ thể:** Chỉ xác định được độ tuổi của Đạt từ nguồn; không khẳng định năng lực của tất cả bị can.
+- **Mặt chủ quan:** Có thể phân tích dấu hiệu cố ý đối với Đạt; không gán chung cho nhân viên hoặc người liên quan.
 
----
+## Cạm bẫy cần tránh
 
-## II. 4 YẾU TỐ CẤU THÀNH TRONG 4 CÂU TÓM TẮT (ONE-SENTENCE FORMULA)
-
-- **1. Khách thể:** Hành vi đã xâm hại trật tự quản lý nhà nước về hoạt động quảng cáo, thương mại và xâm phạm quyền được bảo vệ an toàn thông tin, tài sản của người tiêu dùng trong 5.429 đơn hàng.
-- **2. Mặt khách quan:** Thể hiện qua chuỗi hành động có tổ chức: tạo dựng nội dung quảng cáo sai sự thật, cắt ghép trái phép video chuyên gia y tế trên Facebook/TikTok và bán hàng thu về hơn 2,67 tỷ đồng doanh thu.
-- **3. Chủ thể:** Gồm 21 bị can đủ tuổi thành niên và có đầy đủ năng lực trách nhiệm pháp lý theo ghi nhận tố tụng ban đầu, trong đó có sự phân hóa vai trò giữa người cầm đầu (Nguyễn Tiến Đạt) và các nhóm nhân viên hỗ trợ.
-- **4. Mặt chủ quan:** Thể hiện lỗi cố ý trực tiếp ở nhóm chủ mưu và tiếp thị, xuất phát từ động cơ vụ lợi kinh tế và mục đích thu lợi bất chính từ khoản chênh lệch giá dựa trên thông tin gian dối.
-
----
-
-## III. 5 CẠM BẪY PHẢN BIỆN NGUY HIỂM CẦN TRÁNH (5 DANGEROUS TRAPS)
-
-| Cạm bẫy (Trap) | Cách trả lời an toàn & chuẩn xác (Safe Defense) |
-| :--- | :--- |
-| **Bẫy 1: Đồng nhất 5.429 đơn hàng = 5.429 người** | **Tuyệt đối không nói "5.429 người bị lừa".** Hãy trả lời: "Nguồn công an xác minh là 5.429 đơn hàng thành công; một khách hàng có thể mua nhiều đơn nên dùng thuật ngữ '5.429 đơn hàng' mới chuẩn xác khoa học." |
-| **Bẫy 2: Đồng nhất Doanh thu (2,67 tỷ) = Thiệt hại thực tế** | **Không nói 2,67 tỷ là tiền chiếm đoạt/thiệt hại.** Hãy trả lời: "2,67 tỷ là tổng doanh thu bán hàng; thiệt hại thực tế cần bóc tách giá trị sử dụng thực của thảo dược và chi phí hợp lý theo kết luận của Tòa án." |
-| **Bẫy 3: Coi các bị can là "kẻ phạm tội / tội phạm đã kết án"** | **Luôn dùng từ "bị can", "hành vi bị cáo buộc".** Nhấn mạnh: "Vụ án đang trong giai đoạn điều tra mở rộng, bài tiểu luận tiếp cận dưới góc độ nghiên cứu học thuật và tôn trọng nguyên tắc suy đoán vô tội." |
-| **Bẫy 4: Biến bài tiểu luận thành bài phân tích Luật Hình sự** | **Giữ vững khung 4 yếu tố của Pháp luật đại cương.** Nhấn mạnh: "Điều 198 BLHS chỉ là cơ sở pháp lý tham chiếu để chứng minh tính trái pháp luật, trọng tâm của nhóm là mô hình lý luận Cấu thành vi phạm pháp luật chung." |
-| **Bẫy 5: Gộp chung ý thức chủ quan của toàn bộ 21 người** | **Phân hóa rõ ràng:** Nguyễn Tiến Đạt và nhóm marketing chắc chắn có lỗi cố ý trực tiếp; các nhân viên đóng gói/vận chuyển cần chờ cơ quan điều tra làm rõ mức độ nhận thức cá nhân. |
-
----
-
-## IV. 10 CÂU HỎI VẤN ĐÁP THƯỜNG GẶP CỦA GIẢNG VIÊN (10 LIKELY QUESTIONS)
-
-### 1. Tại sao nhóm chọn vụ việc này mà không chọn một vụ án giao thông hay trộm cắp thông thường?
-*Gợi ý trả lời:* Vụ việc mang tính thời sự cao trong thời đại kinh tế số, hội tụ đầy đủ cả 4 yếu tố cấu thành với quy mô tổ chức rõ nét, đồng thời mang lại bài học trực tiếp về đạo đức số cho sinh viên Công nghệ thông tin (UIT).
-
-### 2. Sự khác biệt giữa "Khách thể" và "Đối tượng tác động" trong vụ việc này là gì?
-*Gợi ý trả lời:* Khách thể là quan hệ xã hội vô hình được pháp luật bảo vệ (trật tự quản lý thương mại, quyền lợi người tiêu dùng); còn Đối tượng tác động là thực thể vật chất/thông tin cụ thể (hộp sản phẩm thảo dược, video quảng cáo cắt ghép, dòng tiền thanh toán).
-
-### 3. Tại sao hành vi này bị khởi tố về tội "Lừa dối khách hàng" (Điều 198) mà không phải "Lừa đảo chiếm đoạt tài sản" (Điều 174)?
-*Gợi ý trả lời:* Vì hành vi gian dối diễn ra trong quá trình mua bán hàng hóa có thật (giao sản phẩm thảo dược thật nhưng gian dối về tính năng, công dụng và nâng giá); nếu hoàn toàn không có hàng hóa hoặc giao hộp rỗng nhằm chiếm đoạt tiền thì mới cấu thành Điều 174.
-
-### 4. Phiên bản Luật Quảng cáo áp dụng trong bài là gì?
-*Gợi ý trả lời:* Là Luật Quảng cáo năm 2012 (được sửa đổi, bổ sung năm 2018 và năm 2025 theo Luật số 75/2025/QH15, có hiệu lực từ ngày 01/01/2026).
-
-### 5. Dấu hiệu trái pháp luật thể hiện ở những văn bản quy phạm nào?
-*Gợi ý trả lời:* Khoản 9 Điều 8 Luật Quảng cáo (quảng cáo sai sự thật), Điều 10 Luật BVQLNTD 2023 (lừa dối người tiêu dùng), Điều 32 BLDS 2015 (sử dụng hình ảnh không phép) và Điều 198 BLHS (lừa dối khách hàng).
-
-### 6. Mối quan hệ nhân quả trong vụ việc này được hiểu như thế nào?
-*Gợi ý trả lời:* Thông tin quảng cáo sai sự thật và hình ảnh chuyên gia là nguyên nhân trực tiếp dẫn dắt, tạo niềm tin sai lệch để người tiêu dùng quyết định đặt mua 5.429 đơn hàng với mức giá 199.000 đồng/hộp.
-
-### 7. Dựa vào đâu để khẳng định các bị can có năng lực trách nhiệm pháp lý?
-*Gợi ý trả lời:* Nguyễn Tiến Đạt sinh năm 1997 (29 tuổi, đủ tuổi thành niên); các bị can khác tham gia lao động bình thường và đã được Cơ quan CSĐT thẩm tra điều kiện chủ thể khi ra quyết định khởi tố bị can.
-
-### 8. Động cơ và Mục đích vi phạm của nhóm đối tượng là gì?
-*Gợi ý trả lời:* Động cơ là vụ lợi kinh tế; Mục đích là thu lợi bất chính tối đa từ khoản tiền chênh lệch giữa giá bán (199k) và giá vốn (23k).
-
-### 9. Sinh viên ngành CNTT UIT rút ra được bài học gì lớn nhất từ vụ việc này?
-*Gợi ý trả lời:* Ý thức trách nhiệm pháp lý khi làm các công việc kỹ thuật số (chạy Ads, dựng video, quản trị web); tuyệt đối không đem kỹ năng công nghệ phục vụ cho các nội dung lừa dối người dùng (giữ vững Digital Ethics).
-
-### 10. Hạn chế nghiên cứu lớn nhất của bài tiểu luận là gì?
-*Gợi ý trả lời:* Vụ án đang trong giai đoạn điều tra mở rộng, chưa có kết luận giám định y tế chính thức về chất lượng sản phẩm và bản án xét xử của Tòa án; do đó bài viết tiếp cận dưới góc độ nghiên cứu học thuật dựa trên dữ liệu công khai ban đầu.
+- Không nói 10/08 là ngày khởi tố.
+- Không gọi Ánh là bị can.
+- Không nói 2,67 tỷ là doanh thu, thiệt hại hoặc tiền thu lợi bất chính.
+- Không nói tất cả 21 người có năng lực trách nhiệm pháp lý hoặc cố ý trực tiếp.
+- Không kết luận có tội; vụ việc vẫn trong giai đoạn điều tra.

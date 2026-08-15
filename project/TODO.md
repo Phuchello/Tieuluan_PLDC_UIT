@@ -39,3 +39,18 @@
 - [x] Create Pre-Codex Risk Audit (`qa/PRE_CODEX_QA.md`)
 - [x] Verify HTML / Print styling & Parity
 - [x] Update Project State & Commit Handoff
+
+## Phase 3: Final Independent Audit
+- [x] Independent legal audit
+- [x] Independent citation and source audit
+- [x] Identify release-blocking P0 source gap
+- [x] Obtain a reproducible primary source for the case
+- [x] Re-verify procedural date, accused persons, roles, figures and platforms
+- [x] Create final canonical manuscript (`report/REPORT_FINAL.md`)
+- [x] Build final HTML, PDF and editable DOCX
+- [x] Complete visual PDF QA
+- [x] Final release commit and remote verification
+- [ ] Fill lecturer name
+- [ ] Fill member names/MSSV
+- [ ] Team human read-through
+- [ ] Submission

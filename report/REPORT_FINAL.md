@@ -1,6 +1,11 @@
-# BÁO CÁO TIỂU LUẬN MÔN PHÁP LUẬT ĐẠI CƯƠNG
+# ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH
 
-**ĐỀ TÀI:**
+## TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+
+### MÔN: PHÁP LUẬT ĐẠI CƯƠNG
+
+## BÁO CÁO TIỂU LUẬN
+
 ### PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TỪ VỤ VIỆC QUẢNG CÁO GIAN DỐI SẢN PHẨM ĐÔNG Y TRÊN MẠNG XÃ HỘI
 
 ---
@@ -9,10 +14,12 @@
 * **Cơ sở đào tạo:** Trường Đại học Công nghệ Thông tin – ĐHQG-HCM (UIT)
 * **Khoa / Bộ môn:** Bộ môn Lý luận Chính trị
 * **Môn học:** Pháp luật đại cương
-* **Giảng viên hướng dẫn:** [Placeholder - Tên Giảng viên]
-* **Lớp học phần:** [Placeholder - Mã Lớp]
-* **Nhóm sinh viên thực hiện:** [Placeholder - Nhóm Số]
-* **Năm học:** 2025 – 2026 (Thành phố Hồ Chí Minh, 2026)
+* **Giảng viên hướng dẫn:** [PLACEHOLDER]
+* **Lớp học phần:** [PLACEHOLDER]
+* **Nhóm sinh viên thực hiện:** [PLACEHOLDER]
+* **Sinh viên / MSSV:** [PLACEHOLDER]
+* **Năm học:** 2025 – 2026
+* **Địa điểm, năm:** TP. Hồ Chí Minh, 2026
 
 ---
 
@@ -70,7 +77,7 @@
 # MỞ ĐẦU
 
 ## 1. Lý do chọn đề tài
-Trong sự phát triển nhanh chóng của nền kinh tế số và mạng xã hội tại Việt Nam, các nền tảng trực tuyến như Facebook, TikTok hay các ứng dụng thương mại điện tử đã trở thành kênh tiếp thị và phân phối hàng hóa phổ biến. Tuy nhiên, cùng với những tiện ích đó, tình trạng tiếp thị sai lệch, cung cấp thông tin không trung thực và lừa dối người tiêu dùng trên không gian mạng cũng diễn biến ngày càng phức tạp. Đặc biệt, trong nhóm sản phẩm chăm sóc sức khỏe và thảo dược Đông y – lĩnh vực liên quan mật thiết đến thể trạng người dân – các hành vi cắt ghép hình ảnh người có uy tín để thổi phồng công dụng sản phẩm nhằm bán hàng giá cao đang đặt ra nhiều vấn đề pháp lý đáng lưu tâm.
+Trong sự phát triển nhanh chóng của nền kinh tế số và mạng xã hội tại Việt Nam, tiếp thị và phân phối hàng hóa trực tuyến trở thành phương thức phổ biến. Tuy nhiên, cùng với những tiện ích đó, tình trạng tiếp thị sai lệch, cung cấp thông tin không trung thực và lừa dối người tiêu dùng trên không gian mạng cũng diễn biến phức tạp. Đặc biệt, với sản phẩm Đông y được giới thiệu trên mạng xã hội, hành vi cắt ghép hình ảnh người nổi tiếng để thổi phồng công dụng có thể đặt ra các vấn đề pháp lý đáng lưu tâm.
 
 Vụ việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ ra quyết định khởi tố vụ án, khởi tố 21 bị can liên quan đến đường dây quảng cáo gian dối sản phẩm Đông y mang nhãn hiệu "Xương khớp bà Sáu" trên không gian mạng vào tháng 8/2026 là một trường hợp thực tiễn điển hình. Dưới góc độ môn học Pháp luật đại cương, vụ việc thể hiện rõ các dấu hiệu của hành vi vi phạm pháp luật có tổ chức trên môi trường trực tuyến, xâm phạm trật tự quản lý thương mại và quyền lợi của người tiêu dùng.
 
@@ -87,7 +94,7 @@ Việc lựa chọn đề tài này giúp sinh viên củng cố vững chắc t
 
 ## 4. Phạm vi nghiên cứu
 - **Phạm vi nội dung:** Tập trung vào lý luận cấu thành vi phạm pháp luật của môn học Pháp luật đại cương. Các quy định pháp luật hiện hành như Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017), Luật Quảng cáo năm 2012 (sửa đổi, bổ sung năm 2018 và năm 2025), Luật Bảo vệ quyền lợi người tiêu dùng năm 2023 và Bộ luật Dân sự năm 2015 được sử dụng làm cơ sở pháp lý tham chiếu để đối chiếu tính trái pháp luật của hành vi.
-- **Phạm vi dữ liệu:** Dữ liệu nghiên cứu được trích xuất từ các nguồn tin tức chính thức do cơ quan công an công bố qua các cơ quan thông tấn, báo chí nhà nước (Cổng thông tin điện tử Chính phủ, Báo Tuổi Trẻ, Báo Tiền Phong, Đài Truyền hình Việt Nam VTV, Báo Cựu chiến binh Việt Nam, Báo Doanh nghiệp & Hội nhập) tính đến tháng 8/2026.
+- **Phạm vi dữ liệu:** Dữ liệu vụ việc được giới hạn ở bài viết của Báo Điện tử Chính phủ đăng lúc 14:47 ngày 10/8/2026, dẫn thông tin của Công an tỉnh Phú Thọ; các nhận định ngoài phạm vi dữ kiện công bố được trình bày có điều kiện và không thay thế kết luận tố tụng [8].
 - **Nguyên tắc tôn trọng tố tụng:** Do vụ án đang trong giai đoạn điều tra mở rộng và chưa có bản án có hiệu lực pháp luật của Tòa án nhân dân có thẩm quyền, bài tiểu luận tiếp cận vấn đề hoàn toàn dưới góc độ nghiên cứu học thuật thuần túy, dựa trên các dữ kiện cáo buộc ban đầu và tuân thủ chặt chẽ nguyên tắc suy đoán vô tội.
 
 ## 5. Phương pháp nghiên cứu

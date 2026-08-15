@@ -1,51 +1,37 @@
 # PROJECT STATE
 
 ## Current Phase
-Phase 2.6 — Pre-Codex Polish Complete
+Phase 3B — Complete Final Audit and Release
 
-## Completed Milestones
-- [Phase 1] Project Initialization, Source Audit, Case Fact Sheet, Timeline, Legal Basis Matrix, Legal Analysis Notes, Report Architecture.
-- [Phase 2] Full Report Working Draft, Initial QA & Red Team Questions, Initial HTML report.
-- [Phase 2.5A] Independent Forensic Audit (Identified P0, P1, P2, P3 issues).
-- [Phase 2.5B] Surgical Legal, Factual and Writing Hardening (P0/P1/P2/P3 resolved, HTML rebuild, QA V2).
-- [Phase 2.6] Pre-Codex Human Readability, Defense Materials & Risk Audit:
-  - Polished student academic tone, paragraph flow, and oral explainability.
-  - Created Oral Defense Cheatsheet (`qa/ORAL_DEFENSE_CHEATSHEET.md`).
-  - Created One-Page Case Defense Matrix (`qa/CASE_DEFENSE_MATRIX.md`).
-  - Created Pre-Codex Honest Risk Assessment (`qa/PRE_CODEX_QA.md`).
-  - Verified 100% Markdown/HTML print-ready semantic parity (`MD ↔ HTML parity: PASS`).
+## Release Status
+TECHNICALLY SUBMISSION READY — HUMAN IDENTITY FIELDS PENDING
 
-## Sources Verified
-Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cựu chiến binh, VTV News, CSDL Quốc gia về VBPL, Giáo trình Pháp luật đại cương (ĐHQG-HCM, ĐH Luật Hà Nội, ĐH Luật TP.HCM).
+## Canonical Deliverables
 
-## Legal Provisions Verified (Final)
-- Khoản 1 & Khoản 2 Điều 198 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017).
-- Luật Quảng cáo năm 2012 (được sửa đổi, bổ sung năm 2018 và năm 2025 theo Luật số 75/2025/QH15, có hiệu lực từ 01/01/2026).
-- Điều 10 Luật Bảo vệ quyền lợi người tiêu dùng 2023 (có hiệu lực từ 01/07/2024).
-- Điều 32, Điều 34 Bộ luật Dân sự 2015.
+- `report/REPORT_FINAL.md` — canonical manuscript
+- `report/REPORT_FINAL.html` — A4 web/print edition
+- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.pdf` — final PDF, 24 pages
+- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.docx` — editable Word version
 
-## Active Deliverable Files
-- `/report/REPORT_FULL.md` (Canonical Manuscript — ~10,074 words / ~18–20 pages)
-- `/report/REPORT_FULL.html` (Print A4 Clean Edition — 100% Semantic Parity)
-- `/qa/ORAL_DEFENSE_CHEATSHEET.md` (Quick Oral Defense Guide)
-- `/qa/CASE_DEFENSE_MATRIX.md` (1-Page A4 Matrix)
-- `/qa/PRE_CODEX_QA.md` (Pre-Codex Risk Audit)
-- `/qa/WRITING_QA_REPORT_V2.md` (Score: 97/100)
-- `/qa/RED_TEAM_QUESTIONS_V2.md` (15 Targeted Defense Notes)
-- `/qa/HTML_PARITY_AUDIT.md` (Status: PASS)
-- `/research/SOURCE_MAP_V2.md` (Traceable Source Mapping)
-- `/project/PROJECT_STATE.md`
-- `/project/TODO.md`
+## Primary Source Status
+VERIFIED. The Báo Điện tử Chính phủ article is recorded in `research/PRIMARY_SOURCE_RECORD.md` and mapped in `research/PRIMARY_EVIDENCE_MATRIX.md`.
 
-## Unresolved Risks & Research Limitations
-- Vụ án đang trong giai đoạn điều tra mở rộng: Chưa có kết luận giám định y khoa về thành phần hóa nghiệm sản phẩm và bản án xét xử của Tòa án nhân dân (đã được ghi chú rõ ràng trong toàn bộ tài liệu để đảm bảo nguyên tắc suy đoán vô tội).
-- Không còn bất kỳ lỗi P0 hay vi phạm P1 nào chưa được xử lý hoặc ghi chú minh bạch.
+## Verified Chronology
 
-## Latest Successful Git Commit
-c70f570
+- 25/05/2026 — tiếp nhận nguồn tin về tội phạm.
+- 31/07/2026 — khám xét và triệu tập khẩn cấp.
+- 07/08/2026 — khởi tố vụ án, khởi tố Nguyễn Tiến Đạt và 20 bị can.
+- 10/08/2026, 14:47 — bài Báo Điện tử Chính phủ được đăng; không phải ngày quyết định tố tụng.
 
-## Last Safe Checkpoint
-Phase 2.6 Checkpoint (Pre-Codex Polish Complete)
+## Audit Result
 
-## Exact Next Action
-Codex performs independent final audit without relying on Gemini self-scores.
+- Initial Codex score: 58/100.
+- Final Codex score: 96/100.
+- P0 remaining: 0.
+- P1 remaining: 0.
+- Source, legal, citation, format, PDF and DOCX audits: PASS.
+
+## Remaining Human Inputs
+
+- Tên giảng viên, lớp học phần, tên thành viên và MSSV.
+- Một lượt đọc cuối của nhóm trước khi nộp.
