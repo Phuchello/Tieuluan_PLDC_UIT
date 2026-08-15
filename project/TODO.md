@@ -69,5 +69,14 @@
 - [x] Frame direct intent as academic inference with objective basis
 - [x] Rebuild release deliverables (HTML, DOCX with native TOC, 26-page authoritative PDF)
 - [x] Complete Gemini Repair Audit V4 (`qa/GEMINI_REPAIR_AUDIT_V4.md`)
+
+## Phase 3G: Final Micro-Precision Pass
+- [x] Update image-rights rule in Section 4.2 with statutory exceptions
+- [x] Ensure neutral product classification across all active files (zero unverified "thuốc")
+- [x] Replace unsupported algorithm claims in Section 4.1 with social media spread capability
+- [x] Qualify economic motive and remove profit-optimization overclaim in Section 3.4
+- [x] Remove specialized criminal-law "đồng phạm" terminology in Section 3.4
+- [x] Soften Table 7 to maintain strict consistency with body nuances
+- [x] Rebuild release packages and complete Final Micro Repair V5 (`qa/FINAL_MICRO_REPAIR_V5.md`)
 - [ ] Fill lecturer name, class, student member names and MSSV in placeholders
 - [ ] Final team reading and submission
