@@ -13,6 +13,7 @@
 - [x] Checkpoint 2: Draft Chapter 2 (Case Overview) (`docs: add verified case overview`)
 - [x] Checkpoint 3: Draft Section 3.1 & 3.2 (Object and Objective Elements) (`docs: analyze object and objective elements`)
 - [x] Checkpoint 4: Draft Section 3.3, 3.4 & 3.5 (Subject, Subjective Elements & Synthesis Matrix) (`docs: complete four-element violation analysis`)
-- [ ] Checkpoint 5: Draft Chapter 4, Conclusion & References (`docs: complete first full report draft`)
+- [x] Checkpoint 5: Draft Chapter 4, Conclusion & References (`docs: complete first full report draft`)
 - [ ] QA & Self-Review: Writing QA Report, Red Team Questions, Citation Precheck
+- [ ] HTML Version: Generate `report/REPORT_FULL.html`
 - [ ] Final Phase 2 Checkpoint: Complete writing and self-review pass
