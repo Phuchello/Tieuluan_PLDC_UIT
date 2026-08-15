@@ -1,37 +1,29 @@
 # PROJECT STATE
 
 ## Current Phase
-Phase 3B — Complete Final Audit and Release
+Phase 3C — Academic Quality Hardening and Publishing Rebuild
 
-## Release Status
-TECHNICALLY SUBMISSION READY — HUMAN IDENTITY FIELDS PENDING
+## Report Status
+READY FOR HUMAN IDENTITY INPUT
+
+The report itself has no conceptual or source P0 issue. The DOCX contains a Word TOC field and the active report directory contains only final deliverables. A local Word export process hung in this environment; therefore a human should open the DOCX, update all fields, and export the definitive PDF before submission.
 
 ## Canonical Deliverables
 
-- `report/REPORT_FINAL.md` — canonical manuscript
-- `report/REPORT_FINAL.html` — A4 web/print edition
-- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.pdf` — final PDF, 24 pages
-- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.docx` — editable Word version
-
-## Primary Source Status
-VERIFIED. The Báo Điện tử Chính phủ article is recorded in `research/PRIMARY_SOURCE_RECORD.md` and mapped in `research/PRIMARY_EVIDENCE_MATRIX.md`.
-
-## Verified Chronology
-
-- 25/05/2026 — tiếp nhận nguồn tin về tội phạm.
-- 31/07/2026 — khám xét và triệu tập khẩn cấp.
-- 07/08/2026 — khởi tố vụ án, khởi tố Nguyễn Tiến Đạt và 20 bị can.
-- 10/08/2026, 14:47 — bài Báo Điện tử Chính phủ được đăng; không phải ngày quyết định tố tụng.
+- `report/REPORT_FINAL.md` — content source of truth
+- `report/REPORT_FINAL.html` — web preview
+- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.docx` — master submission layout
+- `report/BaoCao_TieuLuan_PLDC_UIT_FINAL.pdf` — readable release PDF; re-export from DOCX pending
 
 ## Audit Result
 
-- Initial Codex score: 58/100.
-- Final Codex score: 96/100.
-- P0 remaining: 0.
-- P1 remaining: 0.
-- Source, legal, citation, format, PDF and DOCX audits: PASS.
+- Report rubric score: 44/50 (`qa/FINAL_QA_REPORT_V2.md`).
+- Conceptual P0 remaining: 0.
+- Legal/source P0 remaining: 0.
+- Material P1 remaining: 1 — final Word-to-PDF export and visual confirmation in a stable Word environment.
 
-## Remaining Human Inputs
+## Remaining Human Actions
 
-- Tên giảng viên, lớp học phần, tên thành viên và MSSV.
-- Một lượt đọc cuối của nhóm trước khi nộp.
+- Fill lecturer, class, member names and MSSV.
+- Open the DOCX in Word, update the TOC, export PDF, and perform a quick visual review.
+- Complete the separate slide deck and presentation preparation.
