@@ -37,7 +37,7 @@ Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cự
 - Các rủi ro này đã được đưa vào `PHASE25A_PATCH_PLAN.md` để khắc phục ở Phase 2.5B.
 
 ## Latest Successful Git Commit
-(Pending)
+4c9191a
 
 ## Last Safe Checkpoint
 Final Phase 2.5A Checkpoint (Forensic Audit Complete)
