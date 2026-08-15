@@ -6,6 +6,7 @@ Phase 2: Full Report Writing, Legal Analysis & Self-Review
 ## Completed Milestones
 - [Phase 1] Project Initialization, Source Audit, Case Fact Sheet, Timeline, Legal Basis Matrix, Legal Analysis Notes, Report Architecture.
 - [Phase 2] Checkpoint 1: Drafted Introduction and Chapter 1 (Legal Framework).
+- [Phase 2] Checkpoint 2: Drafted Chapter 2 (Verified Case Overview).
 
 ## Sources Verified
 Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cựu chiến binh, CSDL Quốc gia về VBPL, Giáo trình Pháp luật đại cương.
@@ -22,16 +23,16 @@ Báo Chính phủ, Tuổi Trẻ, Tiền Phong, Doanh nghiệp Hội nhập, Cự
 - `/research/*`
 
 ## Open Questions
-- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Tiếp tục duy trì nguyên tắc suy đoán vô tội và phân biệt rõ ràng giữa doanh thu và thiệt hại thực tế.
+- Xem chi tiết tại `/project/OPEN_QUESTIONS.md`. Đã phân biệt rành mạch giữa doanh thu (2,67 tỷ) và thiệt hại thực tế; tuân thủ nguyên tắc suy đoán vô tội khi trình bày diễn biến vụ việc.
 
 ## Risks
-- Đảm bảo giữ đúng trọng tâm cấu thành vi phạm pháp luật theo môn PLĐC, không trượt sang cấu thành tội phạm hình sự chuyên sâu.
+- Đảm bảo Chương 3 sắp tới bám chắc lý luận PLĐC về 4 yếu tố cấu thành vi phạm pháp luật.
 
 ## Latest Successful Git Commit
-(In progress)
+1461e0b
 
 ## Last Safe Checkpoint
-Checkpoint 1 (Introduction and Legal Framework)
+Checkpoint 2 (Case Overview)
 
 ## Exact Next Action
-Draft Chapter 2 (Verified Case Overview) and execute Checkpoint 2.
+Draft Section 3.1 (Khách thể) & Section 3.2 (Mặt khách quan) in Chapter 3 and execute Checkpoint 3.

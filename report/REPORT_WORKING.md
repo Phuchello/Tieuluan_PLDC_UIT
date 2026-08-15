@@ -45,6 +45,11 @@
   - [1.6. Chủ thể của vi phạm pháp luật](#16-chủ-thể-của-vi-phạm-pháp-luật)
   - [1.7. Mặt chủ quan của vi phạm pháp luật](#17-mặt-chủ-quan-của-vi-phạm-pháp-luật)
 - [CHƯƠNG 2: KHÁI QUÁT VỤ VIỆC QUẢNG CÁO GIAN DỐI SẢN PHẨM ĐÔNG Y TRÊN MẠNG XÃ HỘI](#chương-2-khái-quát-vụ-việc-quảng-cáo-gian-dối-sản-phẩm-đông-y-trên-mạng-xã-hội)
+  - [2.1. Nguồn gốc thông tin và bối cảnh vụ việc](#21-nguồn-gốc-thông-tin-và-bối-cảnh-vụ-việc)
+  - [2.2. Phương thức và thủ đoạn hoạt động](#22-phương-thức-và-thủ-đoạn-hoạt-động)
+  - [2.3. Các chủ thể liên quan và phân công vai trò](#23-các-chủ-thể-liên-quan-và-phân-công-vai-trò)
+  - [2.4. Diễn biến điều tra và trạng thái tố tụng hiện tại](#24-diễn-biến-điều-tra-và-trạng-thái-tố-tụng-hiện-tại)
+  - [2.5. Bảng tổng hợp dữ kiện và dòng thời gian vụ việc](#25-bảng-tổng-hợp-dữ-kiện-và-dòng-thời-gian-vụ-việc)
 - [CHƯƠNG 3: PHÂN TÍCH CÁC YẾU TỐ CẤU THÀNH VI PHẠM PHÁP LUẬT TRONG VỤ VIỆC](#chương-3-phân-tích-các-yếu-tố-cấu-thành-vi-phạm-pháp-luật-trong-vụ-việc)
 - [CHƯƠNG 4: NHẬN XÉT, BÀI HỌC KINH NGHIỆM VÀ KIẾN NGHỊ](#chương-4-nhận-xét-bài-học-kinh-nghiệm-và-kiến-nghị)
 - [KẾT LUẬN](#kết-luận)
@@ -179,3 +184,98 @@ Mặt chủ quan của vi phạm pháp luật là toàn bộ diễn biến tâm 
 3. **Mục đích vi phạm:** Là kết quả cuối cùng mà chủ thể mong muốn đạt được khi thực hiện hành vi vi phạm pháp luật (ví dụ: chiếm đoạt tài sản của khách hàng, thu lời bất chính).
 
 Sự kết hợp hài hòa giữa bốn yếu tố trên tạo nên cấu thành hoàn chỉnh của vi phạm pháp luật, làm tiền đề vững chắc cho việc phân tích các vụ việc thực tiễn.
+
+---
+
+# CHƯƠNG 2: KHÁI QUÁT VỤ VIỆC QUẢNG CÁO GIAN DỐI SẢN PHẨM ĐÔNG Y TRÊN MẠNG XÃ HỘI
+
+## 2.1. Nguồn gốc thông tin và bối cảnh vụ việc
+Trong những năm gần đây, nhu cầu chăm sóc sức khỏe bằng các phương pháp y học cổ truyền, sản phẩm thảo dược Đông y của người dân ngày càng gia tăng. Lợi dụng tâm lý chuộng các bài thuốc gia truyền và sự tin tưởng của người cao tuổi, nhiều đối tượng đã thành lập các đường dây kinh doanh sản phẩm Đông y trực tuyến với nhiều thủ đoạn tiếp thị gian dối.
+
+Vào ngày 10/8/2026, các cơ quan thông tấn và báo chí chính thống tại Việt Nam như Cổng thông tin điện tử Chính phủ, Báo Tuổi Trẻ, Báo Tiền Phong, Báo Quân đội nhân dân và Đài Truyền hình Việt Nam (VTV) đã đồng loạt đưa tin về việc Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ ra quyết định khởi tố vụ án hình sự, khởi tố 21 bị can liên quan đến đường dây sản xuất, phân phối và quảng cáo gian dối sản phẩm Đông y "Xương khớp bà Sáu" trên không gian mạng.
+
+Vụ việc được phát hiện và triệt phá sau một quá trình trinh sát, điều tra kỹ thuật số kéo dài của lực lượng chức năng, cho thấy một mô hình tội phạm có tổ chức, khai thác triệt để các lỗ hổng quản lý trên mạng xã hội nhằm trục lợi trên niềm tin và sức khỏe của hàng ngàn người tiêu dùng.
+
+## 2.2. Phương thức và thủ đoạn hoạt động
+Theo tài liệu điều tra ban đầu được cơ quan Công an công bố, thủ đoạn hoạt động của đường dây này diễn ra hết sức tinh vi và có sự câu kết chặt chẽ qua nhiều công đoạn:
+
+1. **Thu gom sản phẩm giá rẻ, không rõ hiệu quả thực tế:**
+   Đối tượng cầm đầu Nguyễn Tiến Đạt đã liên hệ và thỏa thuận mua các sản phẩm dạng thảo dược mang tên "Xương khớp bà Sáu" từ Phùng Thị Nguyệt Ánh (Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh) với mức giá gốc chỉ khoảng **23.000 đồng/sản phẩm**.
+
+2. **Xây dựng hệ thống truyền thông tiếp thị gian dối trên mạng xã hội:**
+   Sau khi nhập hàng, Đạt chỉ đạo nhóm nhân sự kỹ thuật lập hàng loạt tài khoản, fanpage và kênh truyền thông trên Facebook, TikTok. Nhóm này đã sử dụng các phần mềm chỉnh sửa video tinh vi để:
+   - Cắt ghép hình ảnh, video của các nghệ sĩ, người nổi tiếng, bác sĩ và chuyên gia y tế uy tín nhằm gán ghép việc họ "khuyên dùng" hoặc "đã khỏi bệnh nhờ sản phẩm".
+   - Dàn dựng các câu chuyện bệnh nhân hư cấu (feedback giả mạo) khẳng định sản phẩm có thể điều trị dứt điểm hoàn toàn các bệnh lý xương khớp nặng.
+   - Thổi phồng công dụng của sản phẩm từ một loại thảo dược hỗ trợ thông thường thành "thần dược gia truyền" trị dứt điểm bệnh.
+
+3. **Thiết lập mô hình bán hàng chuyên nghiệp (Telesale theo kịch bản):**
+   Đạt tuyển dụng nhiều nhân viên và tổ chức tập huấn kỹ năng bán hàng dựa trên các tập "kịch bản đóng vai" (script) soạn sẵn. Khi khách hàng để lại số điện thoại trên các trang quảng cáo, nhân viên tư vấn sẽ gọi điện, tự xưng là "bác sĩ đầu ngành", "chuyên gia Đông y" để bắt mạch từ xa qua điện thoại, hù dọa về mức độ nguy hiểm của bệnh tật nhằm ép khách hàng mua các liệu trình điều trị với giá **199.000 đồng/sản phẩm** (cao gấp gần 9 lần giá nhập).
+
+4. **Hệ thống xử lý đơn hàng và thu tiền khép kín:**
+   Đường dây tổ chức bộ phận đóng gói, in nhãn bao bì và kết nối với các đơn vị chuyển phát nhanh để giao hàng thu tiền hộ (COD) trên toàn quốc. Dòng tiền sau khi được đơn vị giao hàng đối soát sẽ chuyển về các tài khoản ngân hàng do nhóm quản lý điều hành.
+
+```
+┌───────────────────────────────┐
+│ Cung ứng nguyên liệu / sp thô │ (Công ty Dược liệu Nguyệt Ánh - 23.000đ/sp)
+└──────────────┬────────────────┘
+               │
+               ▼
+┌───────────────────────────────┐
+│   Tổ chức & Điều hành trung tâm│ (Nguyễn Tiến Đạt - Lập kịch bản, kế hoạch)
+└──────────────┬────────────────┘
+               │
+       ┌───────┴───────────────────────────────┐
+       ▼                                       ▼
+┌─────────────────────────────┐         ┌─────────────────────────────┐
+│  Nhóm Marketing / Media     │         │  Nhóm Telesale / Tư vấn     │
+│ - Cắt ghép video nghệ sĩ    │         │ - Mạo danh bác sĩ / chuyên gia│
+│ - Chạy Ads Facebook, TikTok │         │ - Thao túng tâm lý khách hàng│
+└──────────────┬──────────────┘         └──────────────┬──────────────┘
+               │                                       │
+               └───────────────────┬───────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────┐
+│ Khách hàng / Người bệnh trên toàn quốc (Giá bán: 199.000đ/sp)│
+└─────────────────────────────────────────────────────────────┘
+```
+
+## 2.3. Các chủ thể liên quan và phân công vai trò
+Kết quả điều tra ban đầu xác định cơ cấu tổ chức của đường dây gồm 21 cá nhân bị khởi tố, được phân cấp vai trò tương đối rõ ràng:
+- **Người chủ mưu, tổ chức cầm đầu:** Nguyễn Tiến Đạt (sinh năm 1997, trú tại Hà Nội). Đạt là người khởi xướng ý tưởng, thỏa thuận nguồn hàng, đầu tư cơ sở vật chất, thuê văn phòng, tuyển dụng và trực tiếp điều hành toàn bộ nhân sự.
+- **Chủ thể cung ứng sản phẩm:** Phùng Thị Nguyệt Ánh (Giám đốc Công ty TNHH Dược liệu Nguyệt Ánh) – người cung ứng hàng hóa cho Đạt với số lượng lớn.
+- **Nhóm nhân sự truyền thông và marketing:** Chịu trách nhiệm sản xuất nội dung số, cắt ghép video trái phép, quản trị các trang mạng xã hội và tối ưu hóa ngân sách quảng cáo tiếp cận người dùng.
+- **Nhóm nhân viên tư vấn bán hàng (Telesale):** Được đào tạo theo kịch bản để mạo danh bác sĩ, chuyên gia, thực hiện các cuộc gọi tư vấn gian dối nhằm chốt đơn hàng.
+- **Nhóm nhân viên hậu cần, vận đơn và đóng gói:** Tiếp nhận dữ liệu đơn hàng, đóng gói sản phẩm, dán nhãn và bàn giao cho các công ty chuyển phát nhanh.
+
+## 2.4. Diễn biến điều tra và trạng thái tố tụng hiện tại
+- **Giai đoạn chuẩn bị và hoạt động:** Từ đầu năm 2026, các đối tượng bắt đầu thiết lập hệ thống và đẩy mạnh hoạt động bán hàng từ tháng 5/2026 đến cuối tháng 7/2026.
+- **Giai đoạn khám xét và triệt phá:** Ngày 31/7/2026, Phòng Cảnh sát kinh tế phối hợp cùng các đơn vị nghiệp vụ Công an tỉnh Phú Thọ đã đồng loạt thực hiện lệnh khám xét khẩn cấp tại các địa điểm văn phòng, kho hàng của đường dây. Lực lượng chức năng đã thu giữ hàng chục máy tính để bàn, máy tính xách tay, điện thoại di động, máy in hóa đơn, hàng trăm hộp sản phẩm Đông y mang nhãn hiệu "Xương khớp bà Sáu", hàng ngàn nhãn mác, vỏ hộp chưa đóng gói cùng nhiều sổ sách, tài liệu kế toán. Đồng thời, cơ quan điều tra đã thực hiện phong tỏa, tạm giữ hơn **1,77 tỷ đồng** trong các tài khoản ngân hàng liên quan.
+- **Quyết định tố tụng:** Ngày 10/8/2026, Cơ quan Cảnh sát điều tra Công an tỉnh Phú Thọ đã chính thức ra Quyết định khởi tố vụ án hình sự và Quyết định khởi tố bị can đối với 21 cá nhân về tội **“Lừa dối khách hàng”** theo quy định tại khoản 2 Điều 198 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017).
+- **Trạng thái hiện tại:** Vụ án đang trong giai đoạn điều tra mở rộng nhằm làm rõ hành vi của từng đối tượng, xác minh nguồn gốc xuất xứ và thành phần hóa nghiệm của sản phẩm, đồng thời truy thu tài sản do vi phạm pháp luật mà có.
+
+## 2.5. Bảng tổng hợp dữ kiện và dòng thời gian vụ việc
+
+### Bảng tổng hợp dữ kiện chính
+| Tiêu chí | Dữ kiện xác minh | Nguồn công bố |
+| :--- | :--- | :--- |
+| **Cơ quan thụ lý** | Cơ quan CSĐT Công an tỉnh Phú Thọ | Báo điện tử Chính phủ, VTV |
+| **Quyết định tố tụng** | Khởi tố vụ án hình sự, khởi tố 21 bị can | Quyết định ngày 10/8/2026 |
+| **Tội danh khởi tố** | Tội "Lừa dối khách hàng" (khoản 2 Điều 198 BLHS) | Cổng TTĐT Bộ Công an / Báo Tuổi Trẻ |
+| **Đối tượng cầm đầu** | Nguyễn Tiến Đạt (sinh 1997, trú tại Hà Nội) | Báo Tiền Phong |
+| **Tổ chức liên quan** | Công ty TNHH Dược liệu Nguyệt Ánh (Phùng Thị Nguyệt Ánh) | Báo Tiền Phong |
+| **Sản phẩm vi phạm** | "Xương khớp bà Sáu" (Đông y / thảo dược) | Báo Tuổi Trẻ, Cựu chiến binh |
+| **Mức giá chênh lệch** | Giá nhập 23.000 VNĐ $\rightarrow$ Giá bán 199.000 VNĐ | Báo Tiền Phong |
+| **Quy mô đơn hàng** | 5.429 đơn hàng thành công (tháng 5 – tháng 7/2026) | Báo Doanh nghiệp Hội nhập |
+| **Doanh thu bán hàng** | Hơn 2,67 tỷ đồng | Báo Tiền Phong, Doanh nghiệp Hội nhập |
+| **Tài sản phong tỏa** | Hơn 1,77 tỷ đồng trong tài khoản ngân hàng | Báo Cựu chiến binh |
+
+### Dòng thời gian vụ việc (Timeline)
+```
+  [Đầu năm 2026]           [05/2026 - 07/2026]          [31/07/2026]              [10/08/2026]
+         │                          │                         │                         │
+         ▼                          ▼                         ▼                         ▼
+Đạt thỏa thuận mua sp    Đẩy mạnh quảng cáo lừa dối;  Công an khám xét khẩn    Khởi tố vụ án & 21 bị
+giá 23k từ cty Nguyệt    Chốt 5.429 đơn hàng; Thu     cấp; Thu giữ tang vật;   can về tội "Lừa dối
+Ánh; Tuyển dụng nhân sự  về hơn 2,67 tỷ đồng doanh thu Phong tỏa 1,77 tỷ đồng  khách hàng" (Đ198 BLHS)
+```
